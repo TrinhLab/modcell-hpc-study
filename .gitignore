@@ -1,0 +1,6 @@
+*.ods
+*.png
+*.ipynb_checkpoints/
+__pycache__/
+other/
+notes.md

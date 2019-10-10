@@ -1,0 +1,31 @@
+#!/usr/bin/env python3
+"""
+Produces table of paramters and associated metrics
+"""
+
+import os, argparse
+import pandas as pd
+
+
+topology_names = {0:"Ring", 1:"Random"}
+policy_names = {0:"ReplaceBottom", 1:"ReplaceSent", 2:"Random"}
+
+def main():
+    parser = argparse.ArgumentParser(formatter_class=argparse.ArgumentDefaultsHelpFormatter)
+    parser.add_argument('results_path', help='Path to benchmark results')
+    args = parser.parse_args()
+
+    mdf = pd.read_csv(os.path.join(args.results_path, "all_metrics.csv"), index_col="Case")
+    pdf = pd.read_csv(os.path.join(args.results_path, "params.tsv"), sep="\t", index_col="Case")
+
+    if "migration_topology" in pdf.columns:
+        pdf["migration_topology"] = pdf["migration_topology"].map(topology_names)
+    if "migration_policy" in pdf.columns:
+        pdf["migration_policy"] = pdf["migration_policy"].map(policy_names)
+
+    df = pdf.join(mdf)
+    df.to_csv(os.path.join(args.results_path, "results.csv"))
+
+
+if __name__ == '__main__':
+    main()

@@ -1,0 +1,3113 @@
+PE number: 3.
+PE number: 5.
+PE number: 9.
+PE number: 15.
+PE number: 1.
+PE number: 12.
+PE number: 0.
+Comm size: 16.
+PE number: 2.
+PE number: 6.
+PE number: 7.
+PE number: 8.
+PE number: 10.
+PE number: 14.
+PE number: 13.
+PE number: 11.
+PE number: 4.
+/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-gem/cand
+/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-gem/cand
+/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-gem/cand
+/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-gem/cand
+/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-gem/cand
+/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-gem/cand
+/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-gem/cand
+/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-gem/cand
+/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-gem/cand
+/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-gem/cand
+/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-gem/cand
+/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-gem/cand
+/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-gem/cand
+/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-gem/cand
+/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-gem/cand
+/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-gem/cand
+----Reading problem 1---
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-gem/ibutylb.mps'...
+----Reading problem 1---
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-gem/ibutylb.mps'...
+----Reading problem 1---
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-gem/ibutylb.mps'...
+----Reading problem 1---
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-gem/ibutylb.mps'...
+----Reading problem 1---
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-gem/ibutylb.mps'...
+----Reading problem 1---
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-gem/ibutylb.mps'...
+----Reading problem 1---
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-gem/ibutylb.mps'...
+----Reading problem 1---
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-gem/ibutylb.mps'...
+----Reading problem 1---
+----Reading problem 1---
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-gem/ibutylb.mps'...
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-gem/ibutylb.mps'...
+----Reading problem 1---
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-gem/ibutylb.mps'...
+----Reading problem 1---
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-gem/ibutylb.mps'...
+----Reading problem 1---
+----Reading problem 1---
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-gem/ibutylb.mps'...
+----Reading problem 1---
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-gem/ibutylb.mps'...
+----Reading problem 1---
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-gem/ibutylb.mps'...
+Problem: ibutylb
+Problem: ibutylb
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-gem/ibutylb.mps'...
+Problem: ibutylb
+Problem: ibutylb
+Problem: ibutylb
+Problem: ibutylb
+Problem: ibutylb
+Problem: ibutylb
+Problem: ibutylb
+Problem: ibutylb
+Problem: ibutylb
+Problem: ibutylb
+Problem: ibutylb
+Problem: ibutylb
+Problem: ibutylb
+Objective: COST
+Objective: COST
+Objective: COST
+Objective: COST
+Objective: COST
+Objective: COST
+Objective: COST
+Objective: COST
+Objective: COST
+Objective: COST
+Objective: COST
+Objective: COST
+Objective: COST
+Objective: COST
+Problem: ibutylb
+Objective: COST
+Objective: COST
+1882 rows, 2719 columns, 10610 non-zeros
+11219 records were read
+1882 rows, 2719 columns, 10610 non-zeros
+11219 records were read
+One free row was removed
+One free row was removed
+1882 rows, 2719 columns, 10610 non-zeros
+11219 records were read
+1882 rows, 2719 columns, 10610 non-zeros
+11219 records were read
+1882 rows, 2719 columns, 10610 non-zeros
+11219 records were read
+One free row was removed
+1882 rows, 2719 columns, 10610 non-zeros
+11219 records were read
+One free row was removed
+One free row was removed
+1882 rows, 2719 columns, 10610 non-zeros
+11219 records were read
+One free row was removed
+1882 rows, 2719 columns, 10610 non-zeros
+11219 records were read
+One free row was removed
+One free row was removed
+1882 rows, 2719 columns, 10610 non-zeros
+11219 records were read
+1882 rows, 2719 columns, 10610 non-zeros
+11219 records were read
+1882 rows, 2719 columns, 10610 non-zeros
+11219 records were read
+One free row was removed
+One free row was removed
+One free row was removed
+Constructing initial basis...
+Constructing initial basis...
+1882 rows, 2719 columns, 10610 non-zeros
+11219 records were read
+One free row was removed
+1882 rows, 2719 columns, 10610 non-zeros
+11219 records were read
+Constructing initial basis...
+Constructing initial basis...
+Constructing initial basis...
+Constructing initial basis...
+One free row was removed
+Constructing initial basis...
+Constructing initial basis...
+Constructing initial basis...
+Constructing initial basis...
+Constructing initial basis...
+Constructing initial basis...
+Constructing initial basis...
+Size of triangular part is 1702
+Size of triangular part is 1702
+Size of triangular part is 1702
+Size of triangular part is 1702
+Size of triangular part is 1702
+Size of triangular part is 1702
+Size of triangular part is 1702
+Size of triangular part is 1702
+Size of triangular part is 1702
+Size of triangular part is 1702
+Size of triangular part is 1702
+Size of triangular part is 1702
+Size of triangular part is 1702
+1882 rows, 2719 columns, 10610 non-zeros
+11219 records were read
+One free row was removed
+Constructing initial basis...
+Size of triangular part is 1702
+1882 rows, 2719 columns, 10610 non-zeros
+11219 records were read
+One free row was removed
+Constructing initial basis...
+Size of triangular part is 1702
+1882 rows, 2719 columns, 10610 non-zeros
+11219 records were read
+One free row was removed
+Constructing initial basis...
+Size of triangular part is 1702
+----Reading problem 2---
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-gem/etylace.mps'...
+----Reading problem 2---
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-gem/etylace.mps'...
+----Reading problem 2---
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-gem/etylace.mps'...
+----Reading problem 2---
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-gem/etylace.mps'...
+----Reading problem 2---
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-gem/etylace.mps'...
+Problem: etylace
+----Reading problem 2---
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-gem/etylace.mps'...
+Problem: etylace
+Problem: etylace
+Problem: etylace
+----Reading problem 2---
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-gem/etylace.mps'...
+----Reading problem 2---
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-gem/etylace.mps'...
+----Reading problem 2---
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-gem/etylace.mps'...
+----Reading problem 2---
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-gem/etylace.mps'...
+----Reading problem 2---
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-gem/etylace.mps'...
+----Reading problem 2---
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-gem/etylace.mps'...
+Problem: etylace
+Problem: etylace
+Problem: etylace
+Problem: etylace
+Problem: etylace
+Problem: etylace
+Problem: etylace
+----Reading problem 2---
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-gem/etylace.mps'...
+Problem: etylace
+Objective: COST
+Problem: etylace
+Objective: COST
+Objective: COST
+Objective: COST
+Objective: COST
+Objective: COST
+Objective: COST
+Objective: COST
+Objective: COST
+Objective: COST
+Objective: COST
+----Reading problem 2---
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-gem/etylace.mps'...
+Objective: COST
+Problem: etylace
+Objective: COST
+----Reading problem 2---
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-gem/etylace.mps'...
+Problem: etylace
+Objective: COST
+Objective: COST
+----Reading problem 2---
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-gem/etylace.mps'...
+Problem: etylace
+Objective: COST
+1879 rows, 2715 columns, 10586 non-zeros
+11197 records were read
+1879 rows, 2715 columns, 10586 non-zeros
+11197 records were read
+One free row was removed
+One free row was removed
+1879 rows, 2715 columns, 10586 non-zeros
+11197 records were read
+One free row was removed
+1879 rows, 2715 columns, 10586 non-zeros
+11197 records were read
+One free row was removed
+1879 rows, 2715 columns, 10586 non-zeros
+11197 records were read
+One free row was removed
+1879 rows, 2715 columns, 10586 non-zeros
+11197 records were read
+One free row was removed
+Constructing initial basis...
+Constructing initial basis...
+1879 rows, 2715 columns, 10586 non-zeros
+11197 records were read
+1879 rows, 2715 columns, 10586 non-zeros
+11197 records were read
+One free row was removed
+Constructing initial basis...
+1879 rows, 2715 columns, 10586 non-zeros
+11197 records were read
+One free row was removed
+One free row was removed
+Constructing initial basis...
+1879 rows, 2715 columns, 10586 non-zeros
+11197 records were read
+One free row was removed
+Constructing initial basis...
+Constructing initial basis...
+1879 rows, 2715 columns, 10586 non-zeros
+11197 records were read
+One free row was removed
+Constructing initial basis...
+Constructing initial basis...
+Constructing initial basis...
+1879 rows, 2715 columns, 10586 non-zeros
+11197 records were read
+Constructing initial basis...
+One free row was removed
+Size of triangular part is 1700
+Size of triangular part is 1700
+Size of triangular part is 1700
+Constructing initial basis...
+Size of triangular part is 1700
+Size of triangular part is 1700
+Constructing initial basis...
+Size of triangular part is 1700
+Size of triangular part is 1700
+Size of triangular part is 1700
+Size of triangular part is 1700
+Size of triangular part is 1700
+Size of triangular part is 1700
+Size of triangular part is 1700
+1879 rows, 2715 columns, 10586 non-zeros
+11197 records were read
+One free row was removed
+Constructing initial basis...
+Size of triangular part is 1700
+1879 rows, 2715 columns, 10586 non-zeros
+11197 records were read
+One free row was removed
+Constructing initial basis...
+1879 rows, 2715 columns, 10586 non-zeros
+11197 records were read
+One free row was removed
+Size of triangular part is 1700
+Constructing initial basis...
+Size of triangular part is 1700
+1879 rows, 2715 columns, 10586 non-zeros
+11197 records were read
+One free row was removed
+Constructing initial basis...
+Size of triangular part is 1700
+----Reading problem 3---
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-gem/etylbte.mps'...
+----Reading problem 3---
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-gem/etylbte.mps'...
+----Reading problem 3---
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-gem/etylbte.mps'...
+----Reading problem 3---
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-gem/etylbte.mps'...
+----Reading problem 3---
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-gem/etylbte.mps'...
+----Reading problem 3---
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-gem/etylbte.mps'...
+Problem: etylbte
+Problem: etylbte
+----Reading problem 3---
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-gem/etylbte.mps'...
+----Reading problem 3---
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-gem/etylbte.mps'...
+Problem: etylbte
+Problem: etylbte
+----Reading problem 3---
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-gem/etylbte.mps'...
+----Reading problem 3---
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-gem/etylbte.mps'...
+Problem: etylbte
+Problem: etylbte
+Problem: etylbte
+----Reading problem 3---
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-gem/etylbte.mps'...
+Problem: etylbte
+Problem: etylbte
+Problem: etylbte
+----Reading problem 3---
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-gem/etylbte.mps'...
+Problem: etylbte
+Problem: etylbte
+----Reading problem 3---
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-gem/etylbte.mps'...
+Problem: etylbte
+Objective: COST
+Objective: COST
+Objective: COST
+Objective: COST
+Objective: COST
+Objective: COST
+Objective: COST
+Objective: COST
+Objective: COST
+Objective: COST
+Objective: COST
+Objective: COST
+----Reading problem 3---
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-gem/etylbte.mps'...
+Problem: etylbte
+Objective: COST
+----Reading problem 3---
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-gem/etylbte.mps'...
+Problem: etylbte
+Objective: COST
+Objective: COST
+----Reading problem 3---
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-gem/etylbte.mps'...
+Problem: etylbte
+Objective: COST
+1879 rows, 2717 columns, 10597 non-zeros
+11207 records were read
+1879 rows, 2717 columns, 10597 non-zeros
+11207 records were read
+One free row was removed
+One free row was removed
+1879 rows, 2717 columns, 10597 non-zeros
+11207 records were read
+One free row was removed
+1879 rows, 2717 columns, 10597 non-zeros
+11207 records were read
+One free row was removed
+1879 rows, 2717 columns, 10597 non-zeros
+11207 records were read
+One free row was removed
+1879 rows, 2717 columns, 10597 non-zeros
+11207 records were read
+1879 rows, 2717 columns, 10597 non-zeros
+11207 records were read
+One free row was removed
+One free row was removed
+Constructing initial basis...
+Constructing initial basis...
+Constructing initial basis...
+1879 rows, 2717 columns, 10597 non-zeros
+11207 records were read
+One free row was removed
+1879 rows, 2717 columns, 10597 non-zeros
+11207 records were read
+One free row was removed
+Constructing initial basis...
+1879 rows, 2717 columns, 10597 non-zeros
+11207 records were read
+One free row was removed
+Constructing initial basis...
+Constructing initial basis...
+1879 rows, 2717 columns, 10597 non-zeros
+11207 records were read
+Constructing initial basis...
+One free row was removed
+Constructing initial basis...
+Constructing initial basis...
+Constructing initial basis...
+Size of triangular part is 1700
+Size of triangular part is 1700
+Constructing initial basis...
+Size of triangular part is 1700
+Size of triangular part is 1700
+Size of triangular part is 1700
+Size of triangular part is 1700
+Size of triangular part is 1700
+Size of triangular part is 1700
+Size of triangular part is 1700
+Size of triangular part is 1700
+Size of triangular part is 1700
+1879 rows, 2717 columns, 10597 non-zeros
+11207 records were read
+One free row was removed
+Constructing initial basis...
+1879 rows, 2717 columns, 10597 non-zeros
+11207 records were read
+One free row was removed
+Size of triangular part is 1700
+Constructing initial basis...
+1879 rows, 2717 columns, 10597 non-zeros
+11207 records were read
+One free row was removed
+Size of triangular part is 1700
+Constructing initial basis...
+Size of triangular part is 1700
+1879 rows, 2717 columns, 10597 non-zeros
+11207 records were read
+One free row was removed
+Constructing initial basis...
+Size of triangular part is 1700
+1879 rows, 2717 columns, 10597 non-zeros
+11207 records were read
+One free row was removed
+Constructing initial basis...
+Size of triangular part is 1700
+----Reading problem 4---
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-gem/btylbte.mps'...
+----Reading problem 4---
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-gem/btylbte.mps'...
+----Reading problem 4---
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-gem/btylbte.mps'...
+----Reading problem 4---
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-gem/btylbte.mps'...
+Problem: btylbte
+Problem: btylbte
+----Reading problem 4---
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-gem/btylbte.mps'...
+Problem: btylbte
+Problem: btylbte
+----Reading problem 4---
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-gem/btylbte.mps'...
+----Reading problem 4---
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-gem/btylbte.mps'...
+Problem: btylbte
+----Reading problem 4---
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-gem/btylbte.mps'...
+Problem: btylbte
+----Reading problem 4---
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-gem/btylbte.mps'...
+----Reading problem 4---
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-gem/btylbte.mps'...
+Problem: btylbte
+Problem: btylbte
+----Reading problem 4---
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-gem/btylbte.mps'...
+Problem: btylbte
+Problem: btylbte
+Problem: btylbte
+----Reading problem 4---
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-gem/btylbte.mps'...
+Problem: btylbte
+Objective: COST
+Objective: COST
+Objective: COST
+Objective: COST
+Objective: COST
+Objective: COST
+Objective: COST
+Objective: COST
+Objective: COST
+Objective: COST
+Objective: COST
+----Reading problem 4---
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-gem/btylbte.mps'...
+Problem: btylbte
+----Reading problem 4---
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-gem/btylbte.mps'...
+Objective: COST
+Problem: btylbte
+----Reading problem 4---
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-gem/btylbte.mps'...
+Problem: btylbte
+Objective: COST
+Objective: COST
+Objective: COST
+----Reading problem 4---
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-gem/btylbte.mps'...
+Problem: btylbte
+Objective: COST
+1880 rows, 2717 columns, 10598 non-zeros
+11210 records were read
+1880 rows, 2717 columns, 10598 non-zeros
+11210 records were read
+One free row was removed
+One free row was removed
+1880 rows, 2717 columns, 10598 non-zeros
+11210 records were read
+1880 rows, 2717 columns, 10598 non-zeros
+One free row was removed
+11210 records were read
+One free row was removed
+1880 rows, 2717 columns, 10598 non-zeros
+11210 records were read
+1880 rows, 2717 columns, 10598 non-zeros
+11210 records were read
+One free row was removed
+One free row was removed
+Constructing initial basis...
+Constructing initial basis...
+1880 rows, 2717 columns, 10598 non-zeros
+11210 records were read
+Constructing initial basis...
+1880 rows, 2717 columns, 10598 non-zeros
+11210 records were read
+One free row was removed
+One free row was removed
+Constructing initial basis...
+Constructing initial basis...
+Constructing initial basis...
+1880 rows, 2717 columns, 10598 non-zeros
+11210 records were read
+One free row was removed
+1880 rows, 2717 columns, 10598 non-zeros
+11210 records were read
+One free row was removed
+Constructing initial basis...
+Constructing initial basis...
+Constructing initial basis...
+Constructing initial basis...
+Size of triangular part is 1700
+Size of triangular part is 1700
+Size of triangular part is 1700
+Size of triangular part is 1700
+Size of triangular part is 1700
+Size of triangular part is 1700
+Size of triangular part is 1700
+Size of triangular part is 1700
+Size of triangular part is 1700
+Size of triangular part is 1700
+1880 rows, 2717 columns, 10598 non-zeros
+11210 records were read
+One free row was removed
+Constructing initial basis...
+1880 rows, 2717 columns, 10598 non-zeros
+11210 records were read
+One free row was removed
+Size of triangular part is 1700
+Constructing initial basis...
+1880 rows, 2717 columns, 10598 non-zeros
+11210 records were read
+One free row was removed
+1880 rows, 2717 columns, 10598 non-zeros
+11210 records were read
+One free row was removed
+Size of triangular part is 1700
+Constructing initial basis...
+Constructing initial basis...
+Size of triangular part is 1700
+Size of triangular part is 1700
+1880 rows, 2717 columns, 10598 non-zeros
+11210 records were read
+One free row was removed
+Constructing initial basis...
+Size of triangular part is 1700
+1880 rows, 2717 columns, 10598 non-zeros
+11210 records were read
+One free row was removed
+Constructing initial basis...
+Size of triangular part is 1700
+----Reading problem 5---
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-gem/adpac.mps'...
+----Reading problem 5---
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-gem/adpac.mps'...
+----Reading problem 5---
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-gem/adpac.mps'...
+----Reading problem 5---
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-gem/adpac.mps'...
+Problem: adpac
+----Reading problem 5---
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-gem/adpac.mps'...
+----Reading problem 5---
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-gem/adpac.mps'...
+Problem: adpac
+Problem: adpac
+Problem: adpac
+----Reading problem 5---
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-gem/adpac.mps'...
+Problem: adpac
+----Reading problem 5---
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-gem/adpac.mps'...
+Problem: adpac
+----Reading problem 5---
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-gem/adpac.mps'...
+Problem: adpac
+Problem: adpac
+Problem: adpac
+----Reading problem 5---
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-gem/adpac.mps'...
+Problem: adpac
+----Reading problem 5---
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-gem/adpac.mps'...
+Problem: adpac
+Objective: COST
+Objective: COST
+Objective: COST
+Objective: COST
+Objective: COST
+Objective: COST
+Objective: COST
+Objective: COST
+Objective: COST
+Objective: COST
+----Reading problem 5---
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-gem/adpac.mps'...
+----Reading problem 5---
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-gem/adpac.mps'...
+----Reading problem 5---
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-gem/adpac.mps'...
+Objective: COST
+Problem: adpac
+Problem: adpac
+Problem: adpac
+----Reading problem 5---
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-gem/adpac.mps'...
+Problem: adpac
+Objective: COST
+Objective: COST
+Objective: COST
+Objective: COST
+----Reading problem 5---
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-gem/adpac.mps'...
+Problem: adpac
+Objective: COST
+1881 rows, 2716 columns, 10591 non-zeros
+11204 records were read
+1881 rows, 2716 columns, 10591 non-zeros
+11204 records were read
+1881 rows, 2716 columns, 10591 non-zeros
+11204 records were read
+One free row was removed
+One free row was removed
+1881 rows, 2716 columns, 10591 non-zeros
+11204 records were read
+One free row was removed
+One free row was removed
+1881 rows, 2716 columns, 10591 non-zeros
+11204 records were read
+Constructing initial basis...
+Constructing initial basis...
+One free row was removed
+Constructing initial basis...
+Constructing initial basis...
+1881 rows, 2716 columns, 10591 non-zeros
+11204 records were read
+1881 rows, 2716 columns, 10591 non-zeros
+One free row was removed
+11204 records were read
+One free row was removed
+Constructing initial basis...
+1881 rows, 2716 columns, 10591 non-zeros
+11204 records were read
+One free row was removed
+Constructing initial basis...
+Constructing initial basis...
+Size of triangular part is 1701
+Size of triangular part is 1701
+Size of triangular part is 1701
+Constructing initial basis...
+1881 rows, 2716 columns, 10591 non-zeros
+Size of triangular part is 1701
+11204 records were read
+One free row was removed
+1881 rows, 2716 columns, 10591 non-zeros
+11204 records were read
+One free row was removed
+Size of triangular part is 1701
+Constructing initial basis...
+Constructing initial basis...
+Size of triangular part is 1701
+Size of triangular part is 1701
+1881 rows, 2716 columns, 10591 non-zeros
+11204 records were read
+One free row was removed
+Size of triangular part is 1701
+Constructing initial basis...
+Size of triangular part is 1701
+Size of triangular part is 1701
+Size of triangular part is 1701
+1881 rows, 2716 columns, 10591 non-zeros
+11204 records were read
+One free row was removed
+1881 rows, 2716 columns, 10591 non-zeros
+11204 records were read
+One free row was removed
+Constructing initial basis...
+Constructing initial basis...
+Size of triangular part is 1701
+Size of triangular part is 1701
+1881 rows, 2716 columns, 10591 non-zeros
+11204 records were read
+One free row was removed
+Constructing initial basis...
+1881 rows, 2716 columns, 10591 non-zeros
+11204 records were read
+One free row was removed
+Size of triangular part is 1701
+Constructing initial basis...
+Size of triangular part is 1701
+1881 rows, 2716 columns, 10591 non-zeros
+11204 records were read
+One free row was removed
+Constructing initial basis...
+Size of triangular part is 1701
+----Reading problem 6---
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-gem/etoh_pd.mps'...
+----Reading problem 6---
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-gem/etoh_pd.mps'...
+----Reading problem 6---
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-gem/etoh_pd.mps'...
+----Reading problem 6---
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-gem/etoh_pd.mps'...
+Problem: etoh_pd
+Problem: etoh_pd
+----Reading problem 6---
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-gem/etoh_pd.mps'...
+Problem: etoh_pd
+Problem: etoh_pd
+----Reading problem 6---
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-gem/etoh_pd.mps'...
+Problem: etoh_pd
+Problem: etoh_pd
+----Reading problem 6---
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-gem/etoh_pd.mps'...
+----Reading problem 6---
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-gem/etoh_pd.mps'...
+Problem: etoh_pd
+Problem: etoh_pd
+----Reading problem 6---
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-gem/etoh_pd.mps'...
+----Reading problem 6---
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-gem/etoh_pd.mps'...
+Problem: etoh_pd
+Problem: etoh_pd
+----Reading problem 6---
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-gem/etoh_pd.mps'...
+Problem: etoh_pd
+Objective: COST
+Objective: COST
+Objective: COST
+Objective: COST
+Objective: COST
+Objective: COST
+Objective: COST
+Objective: COST
+Objective: COST
+----Reading problem 6---
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-gem/etoh_pd.mps'...
+Problem: etoh_pd
+----Reading problem 6---
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-gem/etoh_pd.mps'...
+Objective: COST
+Problem: etoh_pd
+Objective: COST
+----Reading problem 6---
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-gem/etoh_pd.mps'...
+Problem: etoh_pd
+Objective: COST
+Objective: COST
+----Reading problem 6---
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-gem/etoh_pd.mps'...
+Problem: etoh_pd
+Objective: COST
+Objective: COST
+----Reading problem 6---
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-gem/etoh_pd.mps'...
+Problem: etoh_pd
+Objective: COST
+1878 rows, 2713 columns, 10581 non-zeros
+11191 records were read
+1878 rows, 2713 columns, 10581 non-zeros
+11191 records were read
+One free row was removed
+One free row was removed
+1878 rows, 2713 columns, 10581 non-zeros
+11191 records were read
+One free row was removed
+Constructing initial basis...
+Constructing initial basis...
+1878 rows, 2713 columns, 10581 non-zeros
+11191 records were read
+1878 rows, 2713 columns, 10581 non-zeros
+11191 records were read
+One free row was removed
+One free row was removed
+1878 rows, 2713 columns, 10581 non-zeros
+11191 records were read
+One free row was removed
+Constructing initial basis...
+1878 rows, 2713 columns, 10581 non-zeros
+11191 records were read
+Constructing initial basis...
+One free row was removed
+Constructing initial basis...
+Constructing initial basis...
+1878 rows, 2713 columns, 10581 non-zeros
+11191 records were read
+One free row was removed
+Size of triangular part is 1699
+Size of triangular part is 1699
+Constructing initial basis...
+1878 rows, 2713 columns, 10581 non-zeros
+11191 records were read
+One free row was removed
+Size of triangular part is 1699
+Constructing initial basis...
+Size of triangular part is 1699
+Size of triangular part is 1699
+Constructing initial basis...
+1878 rows, 2713 columns, 10581 non-zeros
+11191 records were read
+Size of triangular part is 1699
+One free row was removed
+Size of triangular part is 1699
+Constructing initial basis...
+Size of triangular part is 1699
+Size of triangular part is 1699
+Size of triangular part is 1699
+1878 rows, 2713 columns, 10581 non-zeros
+11191 records were read
+1878 rows, 2713 columns, 10581 non-zeros
+11191 records were read
+One free row was removed
+One free row was removed
+1878 rows, 2713 columns, 10581 non-zeros
+11191 records were read
+One free row was removed
+Constructing initial basis...
+Constructing initial basis...
+Constructing initial basis...
+Size of triangular part is 1699
+Size of triangular part is 1699
+Size of triangular part is 1699
+1878 rows, 2713 columns, 10581 non-zeros
+11191 records were read
+One free row was removed
+Constructing initial basis...
+Size of triangular part is 1699
+1878 rows, 2713 columns, 10581 non-zeros
+11191 records were read
+One free row was removed
+Constructing initial basis...
+Size of triangular part is 1699
+1878 rows, 2713 columns, 10581 non-zeros
+11191 records were read
+One free row was removed
+Constructing initial basis...
+Size of triangular part is 1699
+----Reading problem 7---
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-gem/ptylpte.mps'...
+----Reading problem 7---
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-gem/ptylpte.mps'...
+----Reading problem 7---
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-gem/ptylpte.mps'...
+----Reading problem 7---
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-gem/ptylpte.mps'...
+----Reading problem 7---
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-gem/ptylpte.mps'...
+Problem: ptylpte
+Problem: ptylpte
+----Reading problem 7---
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-gem/ptylpte.mps'...
+----Reading problem 7---
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-gem/ptylpte.mps'...
+Problem: ptylpte
+Problem: ptylpte
+Problem: ptylpte
+Problem: ptylpte
+Problem: ptylpte
+----Reading problem 7---
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-gem/ptylpte.mps'...
+----Reading problem 7---
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-gem/ptylpte.mps'...
+Problem: ptylpte
+Problem: ptylpte
+----Reading problem 7---
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-gem/ptylpte.mps'...
+Problem: ptylpte
+Objective: COST
+Objective: COST
+Objective: COST
+Objective: COST
+Objective: COST
+Objective: COST
+Objective: COST
+Objective: COST
+Objective: COST
+----Reading problem 7---
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-gem/ptylpte.mps'...
+Problem: ptylpte
+----Reading problem 7---
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-gem/ptylpte.mps'...
+Objective: COST
+Problem: ptylpte
+----Reading problem 7---
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-gem/ptylpte.mps'...
+Problem: ptylpte
+----Reading problem 7---
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-gem/ptylpte.mps'...
+Problem: ptylpte
+Objective: COST
+Objective: COST
+Objective: COST
+Objective: COST
+----Reading problem 7---
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-gem/ptylpte.mps'...
+Problem: ptylpte
+Objective: COST
+----Reading problem 7---
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-gem/ptylpte.mps'...
+Problem: ptylpte
+Objective: COST
+1885 rows, 2721 columns, 10616 non-zeros
+11230 records were read
+1885 rows, 2721 columns, 10616 non-zeros
+11230 records were read
+One free row was removed
+One free row was removed
+1885 rows, 2721 columns, 10616 non-zeros
+11230 records were read
+One free row was removed
+1885 rows, 2721 columns, 10616 non-zeros
+11230 records were read
+1885 rows, 2721 columns, 10616 non-zeros
+11230 records were read
+One free row was removed
+1885 rows, 2721 columns, 10616 non-zeros
+One free row was removed
+11230 records were read
+One free row was removed
+1885 rows, 2721 columns, 10616 non-zeros
+11230 records were read
+One free row was removed
+Constructing initial basis...
+Constructing initial basis...
+Constructing initial basis...
+Constructing initial basis...
+Constructing initial basis...
+Constructing initial basis...
+Constructing initial basis...
+1885 rows, 2721 columns, 10616 non-zeros
+11230 records were read
+One free row was removed
+Size of triangular part is 1705
+Constructing initial basis...
+Size of triangular part is 1705
+Size of triangular part is 1705
+Size of triangular part is 1705
+Size of triangular part is 1705
+Size of triangular part is 1705
+Size of triangular part is 1705
+1885 rows, 2721 columns, 10616 non-zeros
+11230 records were read
+One free row was removed
+Constructing initial basis...
+Size of triangular part is 1705
+Size of triangular part is 1705
+1885 rows, 2721 columns, 10616 non-zeros
+11230 records were read
+One free row was removed
+1885 rows, 2721 columns, 10616 non-zeros
+11230 records were read
+Constructing initial basis...
+One free row was removed
+Constructing initial basis...
+1885 rows, 2721 columns, 10616 non-zeros
+11230 records were read
+One free row was removed
+Size of triangular part is 1705
+Constructing initial basis...
+Size of triangular part is 1705
+1885 rows, 2721 columns, 10616 non-zeros
+11230 records were read
+One free row was removed
+Size of triangular part is 1705
+Constructing initial basis...
+1885 rows, 2721 columns, 10616 non-zeros
+11230 records were read
+One free row was removed
+Constructing initial basis...
+Size of triangular part is 1705
+Size of triangular part is 1705
+1885 rows, 2721 columns, 10616 non-zeros
+11230 records were read
+One free row was removed
+Constructing initial basis...
+Size of triangular part is 1705
+1885 rows, 2721 columns, 10616 non-zeros
+11230 records were read
+One free row was removed
+Constructing initial basis...
+Size of triangular part is 1705
+----Reading problem 8---
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-gem/ibutylp.mps'...
+----Reading problem 8---
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-gem/ibutylp.mps'...
+----Reading problem 8---
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-gem/ibutylp.mps'...
+Problem: ibutylp
+Problem: ibutylp
+----Reading problem 8---
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-gem/ibutylp.mps'...
+----Reading problem 8---
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-gem/ibutylp.mps'...
+----Reading problem 8---
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-gem/ibutylp.mps'...
+Problem: ibutylp
+Problem: ibutylp
+----Reading problem 8---
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-gem/ibutylp.mps'...
+Problem: ibutylp
+Problem: ibutylp
+----Reading problem 8---
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-gem/ibutylp.mps'...
+Problem: ibutylp
+Problem: ibutylp
+----Reading problem 8---
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-gem/ibutylp.mps'...
+Problem: ibutylp
+Objective: COST
+Objective: COST
+Objective: COST
+Objective: COST
+Objective: COST
+Objective: COST
+Objective: COST
+Objective: COST
+----Reading problem 8---
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-gem/ibutylp.mps'...
+Problem: ibutylp
+Objective: COST
+----Reading problem 8---
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-gem/ibutylp.mps'...
+Problem: ibutylp
+----Reading problem 8---
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-gem/ibutylp.mps'...
+Problem: ibutylp
+----Reading problem 8---
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-gem/ibutylp.mps'...
+Problem: ibutylp
+----Reading problem 8---
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-gem/ibutylp.mps'...
+Problem: ibutylp
+Objective: COST
+Objective: COST
+Objective: COST
+----Reading problem 8---
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-gem/ibutylp.mps'...
+Objective: COST
+Objective: COST
+Problem: ibutylp
+Objective: COST
+----Reading problem 8---
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-gem/ibutylp.mps'...
+Problem: ibutylp
+Objective: COST
+1886 rows, 2722 columns, 10622 non-zeros
+11235 records were read
+One free row was removed
+1886 rows, 2722 columns, 10622 non-zeros
+11235 records were read
+One free row was removed
+1886 rows, 2722 columns, 10622 non-zeros
+11235 records were read
+One free row was removed
+Constructing initial basis...
+1886 rows, 2722 columns, 10622 non-zeros
+11235 records were read
+1886 rows, 2722 columns, 10622 non-zeros
+One free row was removed
+Constructing initial basis...
+11235 records were read
+One free row was removed
+1886 rows, 2722 columns, 10622 non-zeros
+11235 records were read
+1886 rows, 2722 columns, 10622 non-zeros
+One free row was removed
+11235 records were read
+Constructing initial basis...
+One free row was removed
+Constructing initial basis...
+Constructing initial basis...
+1886 rows, 2722 columns, 10622 non-zeros
+11235 records were read
+One free row was removed
+Constructing initial basis...
+Constructing initial basis...
+Size of triangular part is 1706
+Size of triangular part is 1706
+Constructing initial basis...
+Size of triangular part is 1706
+1886 rows, 2722 columns, 10622 non-zeros
+11235 records were read
+One free row was removed
+Size of triangular part is 1706
+Size of triangular part is 1706
+Size of triangular part is 1706
+Size of triangular part is 1706
+Constructing initial basis...
+Size of triangular part is 1706
+Size of triangular part is 1706
+1886 rows, 2722 columns, 10622 non-zeros
+11235 records were read
+One free row was removed
+Constructing initial basis...
+1886 rows, 2722 columns, 10622 non-zeros
+11235 records were read
+One free row was removed
+Size of triangular part is 1706
+Constructing initial basis...
+1886 rows, 2722 columns, 10622 non-zeros
+11235 records were read
+One free row was removed
+Constructing initial basis...
+Size of triangular part is 1706
+1886 rows, 2722 columns, 10622 non-zeros
+11235 records were read
+One free row was removed
+1886 rows, 2722 columns, 10622 non-zeros
+11235 records were read
+One free row was removed
+Constructing initial basis...
+Size of triangular part is 1706
+Constructing initial basis...
+Size of triangular part is 1706
+Size of triangular part is 1706
+1886 rows, 2722 columns, 10622 non-zeros
+11235 records were read
+One free row was removed
+Constructing initial basis...
+Size of triangular part is 1706
+1886 rows, 2722 columns, 10622 non-zeros
+11235 records were read
+One free row was removed
+Constructing initial basis...
+Size of triangular part is 1706
+----Reading problem 9---
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-gem/ppylbte.mps'...
+----Reading problem 9---
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-gem/ppylbte.mps'...
+----Reading problem 9---
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-gem/ppylbte.mps'...
+----Reading problem 9---
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-gem/ppylbte.mps'...
+----Reading problem 9---
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-gem/ppylbte.mps'...
+----Reading problem 9---
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-gem/ppylbte.mps'...
+Problem: ppylbte
+Problem: ppylbte
+Problem: ppylbte
+Problem: ppylbte
+Problem: ppylbte
+Problem: ppylbte
+----Reading problem 9---
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-gem/ppylbte.mps'...
+Problem: ppylbte
+----Reading problem 9---
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-gem/ppylbte.mps'...
+Problem: ppylbte
+----Reading problem 9---
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-gem/ppylbte.mps'...
+Problem: ppylbte
+Objective: COST
+Objective: COST
+Objective: COST
+Objective: COST
+Objective: COST
+Objective: COST
+Objective: COST
+Objective: COST
+----Reading problem 9---
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-gem/ppylbte.mps'...
+Problem: ppylbte
+Objective: COST
+----Reading problem 9---
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-gem/ppylbte.mps'...
+Problem: ppylbte
+----Reading problem 9---
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-gem/ppylbte.mps'...
+Problem: ppylbte
+----Reading problem 9---
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-gem/ppylbte.mps'...
+----Reading problem 9---
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-gem/ppylbte.mps'...
+Problem: ppylbte
+Problem: ppylbte
+Objective: COST
+Objective: COST
+Objective: COST
+Objective: COST
+Objective: COST
+----Reading problem 9---
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-gem/ppylbte.mps'...
+Problem: ppylbte
+----Reading problem 9---
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-gem/ppylbte.mps'...
+Problem: ppylbte
+Objective: COST
+1880 rows, 2719 columns, 10610 non-zeros
+11218 records were read
+One free row was removed
+Objective: COST
+1880 rows, 2719 columns, 10610 non-zeros
+11218 records were read
+One free row was removed
+1880 rows, 2719 columns, 10610 non-zeros
+11218 records were read
+One free row was removed
+1880 rows, 2719 columns, 10610 non-zeros
+11218 records were read
+1880 rows, 2719 columns, 10610 non-zeros
+11218 records were read
+One free row was removed
+1880 rows, 2719 columns, 10610 non-zeros
+One free row was removed
+11218 records were read
+One free row was removed
+Constructing initial basis...
+Constructing initial basis...
+Constructing initial basis...
+Constructing initial basis...
+1880 rows, 2719 columns, 10610 non-zeros
+Constructing initial basis...
+11218 records were read
+One free row was removed
+Constructing initial basis...
+1880 rows, 2719 columns, 10610 non-zeros
+11218 records were read
+One free row was removed
+Constructing initial basis...
+Size of triangular part is 1700
+Constructing initial basis...
+Size of triangular part is 1700
+Size of triangular part is 1700
+1880 rows, 2719 columns, 10610 non-zeros
+11218 records were read
+Size of triangular part is 1700
+One free row was removed
+Size of triangular part is 1700
+Size of triangular part is 1700
+Constructing initial basis...
+Size of triangular part is 1700
+Size of triangular part is 1700
+Size of triangular part is 1700
+1880 rows, 2719 columns, 10610 non-zeros
+11218 records were read
+One free row was removed
+Constructing initial basis...
+1880 rows, 2719 columns, 10610 non-zeros
+11218 records were read
+One free row was removed
+Size of triangular part is 1700
+Constructing initial basis...
+1880 rows, 2719 columns, 10610 non-zeros
+11218 records were read
+One free row was removed
+Constructing initial basis...
+1880 rows, 2719 columns, 10610 non-zeros
+11218 records were read
+One free row was removed
+Size of triangular part is 1700
+Constructing initial basis...
+Size of triangular part is 1700
+Size of triangular part is 1700
+1880 rows, 2719 columns, 10610 non-zeros
+11218 records were read
+One free row was removed
+Constructing initial basis...
+Size of triangular part is 1700
+1880 rows, 2719 columns, 10610 non-zeros
+11218 records were read
+One free row was removed
+Constructing initial basis...
+Size of triangular part is 1700
+1880 rows, 2719 columns, 10610 non-zeros
+11218 records were read
+One free row was removed
+Constructing initial basis...
+Size of triangular part is 1700
+----Reading problem 10---
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-gem/ibutoh.mps'...
+----Reading problem 10---
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-gem/ibutoh.mps'...
+----Reading problem 10---
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-gem/ibutoh.mps'...
+----Reading problem 10---
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-gem/ibutoh.mps'...
+----Reading problem 10---
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-gem/ibutoh.mps'...
+----Reading problem 10---
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-gem/ibutoh.mps'...
+Problem: ibutoh
+Problem: ibutoh
+Problem: ibutoh
+Problem: ibutoh
+----Reading problem 10---
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-gem/ibutoh.mps'...
+Problem: ibutoh
+Problem: ibutoh
+Problem: ibutoh
+----Reading problem 10---
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-gem/ibutoh.mps'...
+Problem: ibutoh
+----Reading problem 10---
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-gem/ibutoh.mps'...
+Problem: ibutoh
+Objective: COST
+Objective: COST
+Objective: COST
+Objective: COST
+Objective: COST
+Objective: COST
+----Reading problem 10---
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-gem/ibutoh.mps'...
+Objective: COST
+Objective: COST
+Problem: ibutoh
+Objective: COST
+----Reading problem 10---
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-gem/ibutoh.mps'...
+Problem: ibutoh
+----Reading problem 10---
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-gem/ibutoh.mps'...
+Problem: ibutoh
+----Reading problem 10---
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-gem/ibutoh.mps'...
+Problem: ibutoh
+Objective: COST
+Objective: COST
+Objective: COST
+Objective: COST
+----Reading problem 10---
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-gem/ibutoh.mps'...
+Problem: ibutoh
+Objective: COST
+----Reading problem 10---
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-gem/ibutoh.mps'...
+Problem: ibutoh
+Objective: COST
+----Reading problem 10---
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-gem/ibutoh.mps'...
+Problem: ibutoh
+1881 rows, 2716 columns, 10595 non-zeros
+11205 records were read
+1881 rows, 2716 columns, 10595 non-zeros
+11205 records were read
+One free row was removed
+One free row was removed
+1881 rows, 2716 columns, 10595 non-zeros
+11205 records were read
+One free row was removed
+1881 rows, 2716 columns, 10595 non-zeros
+11205 records were read
+1881 rows, 2716 columns, 10595 non-zeros
+One free row was removed
+11205 records were read
+1881 rows, 2716 columns, 10595 non-zeros
+One free row was removed
+11205 records were read
+One free row was removed
+Constructing initial basis...
+Constructing initial basis...
+Constructing initial basis...
+Objective: COST
+Constructing initial basis...
+Constructing initial basis...
+Constructing initial basis...
+1881 rows, 2716 columns, 10595 non-zeros
+11205 records were read
+One free row was removed
+Size of triangular part is 1701
+Size of triangular part is 1701
+Constructing initial basis...
+Size of triangular part is 1701
+1881 rows, 2716 columns, 10595 non-zeros
+11205 records were read
+One free row was removed
+1881 rows, 2716 columns, 10595 non-zeros
+11205 records were read
+Size of triangular part is 1701
+One free row was removed
+Size of triangular part is 1701
+Size of triangular part is 1701
+Constructing initial basis...
+Constructing initial basis...
+Size of triangular part is 1701
+Size of triangular part is 1701
+Size of triangular part is 1701
+1881 rows, 2716 columns, 10595 non-zeros
+11205 records were read
+One free row was removed
+Constructing initial basis...
+1881 rows, 2716 columns, 10595 non-zeros
+11205 records were read
+1881 rows, 2716 columns, 10595 non-zeros
+11205 records were read
+One free row was removed
+1881 rows, 2716 columns, 10595 non-zeros
+11205 records were read
+One free row was removed
+One free row was removed
+Size of triangular part is 1701
+Constructing initial basis...
+Constructing initial basis...
+Constructing initial basis...
+Size of triangular part is 1701
+Size of triangular part is 1701
+Size of triangular part is 1701
+1881 rows, 2716 columns, 10595 non-zeros
+11205 records were read
+One free row was removed
+Constructing initial basis...
+Size of triangular part is 1701
+1881 rows, 2716 columns, 10595 non-zeros
+11205 records were read
+One free row was removed
+Constructing initial basis...
+Size of triangular part is 1701
+1881 rows, 2716 columns, 10595 non-zeros
+11205 records were read
+One free row was removed
+Constructing initial basis...
+Size of triangular part is 1701
+----Reading problem 11---
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-gem/14btd.mps'...
+----Reading problem 11---
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-gem/14btd.mps'...
+----Reading problem 11---
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-gem/14btd.mps'...
+----Reading problem 11---
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-gem/14btd.mps'...
+----Reading problem 11---
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-gem/14btd.mps'...
+----Reading problem 11---
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-gem/14btd.mps'...
+Problem: 14btd
+Problem: 14btd
+Problem: 14btd
+Problem: 14btd
+Problem: 14btd
+Problem: 14btd
+----Reading problem 11---
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-gem/14btd.mps'...
+Problem: 14btd
+----Reading problem 11---
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-gem/14btd.mps'...
+Problem: 14btd
+----Reading problem 11---
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-gem/14btd.mps'...
+Problem: 14btd
+Objective: COST
+Objective: COST
+Objective: COST
+Objective: COST
+Objective: COST
+Objective: COST
+Objective: COST
+Objective: COST
+Objective: COST
+----Reading problem 11---
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-gem/14btd.mps'...
+Problem: 14btd
+----Reading problem 11---
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-gem/14btd.mps'...
+----Reading problem 11---
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-gem/14btd.mps'...
+Problem: 14btd
+Problem: 14btd
+Objective: COST
+----Reading problem 11---
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-gem/14btd.mps'...
+Problem: 14btd
+Objective: COST
+Objective: COST
+----Reading problem 11---
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-gem/14btd.mps'...
+Problem: 14btd
+Objective: COST
+Objective: COST
+----Reading problem 11---
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-gem/14btd.mps'...
+Problem: 14btd
+----Reading problem 11---
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-gem/14btd.mps'...
+Objective: COST
+Problem: 14btd
+1882 rows, 2719 columns, 10608 non-zeros
+11218 records were read
+One free row was removed
+1882 rows, 2719 columns, 10608 non-zeros
+11218 records were read
+One free row was removed
+1882 rows, 2719 columns, 10608 non-zeros
+11218 records were read
+1882 rows, 2719 columns, 10608 non-zeros
+11218 records were read
+1882 rows, 2719 columns, 10608 non-zeros
+11218 records were read
+One free row was removed
+One free row was removed
+One free row was removed
+1882 rows, 2719 columns, 10608 non-zeros
+11218 records were read
+One free row was removed
+Constructing initial basis...
+Constructing initial basis...
+Constructing initial basis...
+Constructing initial basis...
+Constructing initial basis...
+Constructing initial basis...
+1882 rows, 2719 columns, 10608 non-zeros
+11218 records were read
+One free row was removed
+1882 rows, 2719 columns, 10608 non-zeros
+11218 records were read
+One free row was removed
+Constructing initial basis...
+1882 rows, 2719 columns, 10608 non-zeros
+Size of triangular part is 1702
+11218 records were read
+One free row was removed
+Size of triangular part is 1702
+Constructing initial basis...
+Size of triangular part is 1702
+Size of triangular part is 1702
+Size of triangular part is 1702
+Size of triangular part is 1702
+Objective: COST
+Constructing initial basis...
+Size of triangular part is 1702
+Size of triangular part is 1702
+Size of triangular part is 1702
+1882 rows, 2719 columns, 10608 non-zeros
+11218 records were read
+One free row was removed
+1882 rows, 2719 columns, 10608 non-zeros
+11218 records were read
+Constructing initial basis...
+One free row was removed
+Constructing initial basis...
+Size of triangular part is 1702
+Size of triangular part is 1702
+1882 rows, 2719 columns, 10608 non-zeros
+11218 records were read
+One free row was removed
+Constructing initial basis...
+1882 rows, 2719 columns, 10608 non-zeros
+11218 records were read
+One free row was removed
+Constructing initial basis...
+Size of triangular part is 1702
+Size of triangular part is 1702
+1882 rows, 2719 columns, 10608 non-zeros
+11218 records were read
+One free row was removed
+Constructing initial basis...
+Size of triangular part is 1702
+1882 rows, 2719 columns, 10608 non-zeros
+11218 records were read
+One free row was removed
+Constructing initial basis...
+Size of triangular part is 1702
+1882 rows, 2719 columns, 10608 non-zeros
+11218 records were read
+One free row was removed
+Constructing initial basis...
+Size of triangular part is 1702
+----Reading problem 12---
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-gem/pyr.mps'...
+----Reading problem 12---
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-gem/pyr.mps'...
+----Reading problem 12---
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-gem/pyr.mps'...
+----Reading problem 12---
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-gem/pyr.mps'...
+----Reading problem 12---
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-gem/pyr.mps'...
+Problem: pyr
+Problem: pyr
+Problem: pyr
+Problem: pyr
+----Reading problem 12---
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-gem/pyr.mps'...
+Problem: pyr
+Problem: pyr
+----Reading problem 12---
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-gem/pyr.mps'...
+----Reading problem 12---
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-gem/pyr.mps'...
+Problem: pyr
+Problem: pyr
+----Reading problem 12---
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-gem/pyr.mps'...
+Problem: pyr
+Objective: COST
+Objective: COST
+Objective: COST
+Objective: COST
+Objective: COST
+Objective: COST
+Objective: COST
+Objective: COST
+Objective: COST
+----Reading problem 12---
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-gem/pyr.mps'...
+Problem: pyr
+----Reading problem 12---
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-gem/pyr.mps'...
+Problem: pyr
+----Reading problem 12---
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-gem/pyr.mps'...
+Problem: pyr
+----Reading problem 12---
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-gem/pyr.mps'...
+Problem: pyr
+Objective: COST
+Objective: COST
+Objective: COST
+----Reading problem 12---
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-gem/pyr.mps'...
+Objective: COST
+Problem: pyr
+Objective: COST
+----Reading problem 12---
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-gem/pyr.mps'...
+Problem: pyr
+Objective: COST
+1878 rows, 2712 columns, 10577 non-zeros
+11188 records were read
+One free row was removed
+1878 rows, 2712 columns, 10577 non-zeros
+11188 records were read
+One free row was removed
+1878 rows, 2712 columns, 10577 non-zeros
+11188 records were read
+1878 rows, 2712 columns, 10577 non-zeros
+11188 records were read
+Constructing initial basis...
+One free row was removed
+One free row was removed
+Constructing initial basis...
+1878 rows, 2712 columns, 10577 non-zeros
+11188 records were read
+One free row was removed
+Constructing initial basis...
+Constructing initial basis...
+1878 rows, 2712 columns, 10577 non-zeros
+11188 records were read
+Constructing initial basis...
+One free row was removed
+Size of triangular part is 1698
+1878 rows, 2712 columns, 10577 non-zeros
+----Reading problem 12---
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-gem/pyr.mps'...
+11188 records were read
+One free row was removed
+Size of triangular part is 1698
+Constructing initial basis...
+Problem: pyr
+Size of triangular part is 1698
+Size of triangular part is 1698
+Constructing initial basis...
+1878 rows, 2712 columns, 10577 non-zeros
+11188 records were read
+Size of triangular part is 1698
+One free row was removed
+Constructing initial basis...
+Size of triangular part is 1698
+Size of triangular part is 1698
+1878 rows, 2712 columns, 10577 non-zeros
+11188 records were read
+One free row was removed
+Size of triangular part is 1698
+Constructing initial basis...
+Objective: COST
+Size of triangular part is 1698
+1878 rows, 2712 columns, 10577 non-zeros
+11188 records were read
+One free row was removed
+1878 rows, 2712 columns, 10577 non-zeros
+11188 records were read
+One free row was removed
+Constructing initial basis...
+Constructing initial basis...
+Size of triangular part is 1698
+Size of triangular part is 1698
+1878 rows, 2712 columns, 10577 non-zeros
+11188 records were read
+One free row was removed
+1878 rows, 2712 columns, 10577 non-zeros
+11188 records were read
+One free row was removed
+Constructing initial basis...
+Constructing initial basis...
+Size of triangular part is 1698
+Size of triangular part is 1698
+1878 rows, 2712 columns, 10577 non-zeros
+11188 records were read
+One free row was removed
+Constructing initial basis...
+Size of triangular part is 1698
+1878 rows, 2712 columns, 10577 non-zeros
+11188 records were read
+One free row was removed
+Constructing initial basis...
+Size of triangular part is 1698
+1878 rows, 2712 columns, 10577 non-zeros
+11188 records were read
+One free row was removed
+Constructing initial basis...
+Size of triangular part is 1698
+----Reading problem 13---
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-gem/ptoh.mps'...
+----Reading problem 13---
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-gem/ptoh.mps'...
+----Reading problem 13---
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-gem/ptoh.mps'...
+----Reading problem 13---
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-gem/ptoh.mps'...
+Problem: ptoh
+Problem: ptoh
+Problem: ptoh
+Problem: ptoh
+----Reading problem 13---
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-gem/ptoh.mps'...
+Problem: ptoh
+----Reading problem 13---
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-gem/ptoh.mps'...
+Problem: ptoh
+----Reading problem 13---
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-gem/ptoh.mps'...
+Problem: ptoh
+----Reading problem 13---
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-gem/ptoh.mps'...
+Problem: ptoh
+Objective: COST
+Objective: COST
+Objective: COST
+Objective: COST
+Objective: COST
+Objective: COST
+Objective: COST
+Objective: COST
+----Reading problem 13---
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-gem/ptoh.mps'...
+----Reading problem 13---
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-gem/ptoh.mps'...
+Problem: ptoh
+Problem: ptoh
+----Reading problem 13---
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-gem/ptoh.mps'...
+Problem: ptoh
+----Reading problem 13---
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-gem/ptoh.mps'...
+----Reading problem 13---
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-gem/ptoh.mps'...
+Problem: ptoh
+Problem: ptoh
+Objective: COST
+Objective: COST
+Objective: COST
+Objective: COST
+Objective: COST
+----Reading problem 13---
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-gem/ptoh.mps'...
+Problem: ptoh
+Objective: COST
+----Reading problem 13---
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-gem/ptoh.mps'...
+Problem: ptoh
+Objective: COST
+1884 rows, 2720 columns, 10612 non-zeros
+11226 records were read
+One free row was removed
+1884 rows, 2720 columns, 10612 non-zeros
+11226 records were read
+One free row was removed
+1884 rows, 2720 columns, 10612 non-zeros
+11226 records were read
+One free row was removed
+Constructing initial basis...
+1884 rows, 2720 columns, 10612 non-zeros
+11226 records were read
+One free row was removed
+Constructing initial basis...
+Constructing initial basis...
+Constructing initial basis...
+1884 rows, 2720 columns, 10612 non-zeros
+11226 records were read
+One free row was removed
+Size of triangular part is 1704
+1884 rows, 2720 columns, 10612 non-zeros
+11226 records were read
+One free row was removed
+1884 rows, 2720 columns, 10612 non-zeros
+11226 records were read
+One free row was removed
+Constructing initial basis...
+Size of triangular part is 1704
+Size of triangular part is 1704
+1884 rows, 2720 columns, 10612 non-zeros
+11226 records were read
+One free row was removed
+Size of triangular part is 1704
+----Reading problem 13---
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-gem/ptoh.mps'...
+Constructing initial basis...
+Constructing initial basis...
+Problem: ptoh
+Constructing initial basis...
+Size of triangular part is 1704
+Size of triangular part is 1704
+Size of triangular part is 1704
+Size of triangular part is 1704
+1884 rows, 2720 columns, 10612 non-zeros
+11226 records were read
+One free row was removed
+Objective: COST
+Constructing initial basis...
+1884 rows, 2720 columns, 10612 non-zeros
+11226 records were read
+One free row was removed
+Size of triangular part is 1704
+Constructing initial basis...
+Size of triangular part is 1704
+1884 rows, 2720 columns, 10612 non-zeros
+11226 records were read
+One free row was removed
+1884 rows, 2720 columns, 10612 non-zeros
+1884 rows, 2720 columns, 10612 non-zeros
+11226 records were read
+One free row was removed
+11226 records were read
+One free row was removed
+Constructing initial basis...
+Constructing initial basis...
+Constructing initial basis...
+Size of triangular part is 1704
+Size of triangular part is 1704
+Size of triangular part is 1704
+1884 rows, 2720 columns, 10612 non-zeros
+11226 records were read
+One free row was removed
+Constructing initial basis...
+Size of triangular part is 1704
+1884 rows, 2720 columns, 10612 non-zeros
+11226 records were read
+One free row was removed
+Constructing initial basis...
+Size of triangular part is 1704
+1884 rows, 2720 columns, 10612 non-zeros
+11226 records were read
+One free row was removed
+Constructing initial basis...
+Size of triangular part is 1704
+----Reading problem 14---
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-gem/ibutyla.mps'...
+----Reading problem 14---
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-gem/ibutyla.mps'...
+----Reading problem 14---
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-gem/ibutyla.mps'...
+Problem: ibutyla
+Problem: ibutyla
+Problem: ibutyla
+----Reading problem 14---
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-gem/ibutyla.mps'...
+----Reading problem 14---
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-gem/ibutyla.mps'...
+Problem: ibutyla
+Problem: ibutyla
+----Reading problem 14---
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-gem/ibutyla.mps'...
+Problem: ibutyla
+----Reading problem 14---
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-gem/ibutyla.mps'...
+----Reading problem 14---
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-gem/ibutyla.mps'...
+Problem: ibutyla
+Problem: ibutyla
+Objective: COST
+Objective: COST
+Objective: COST
+Objective: COST
+Objective: COST
+Objective: COST
+Objective: COST
+Objective: COST
+----Reading problem 14---
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-gem/ibutyla.mps'...
+Problem: ibutyla
+----Reading problem 14---
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-gem/ibutyla.mps'...
+Problem: ibutyla
+----Reading problem 14---
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-gem/ibutyla.mps'...
+Problem: ibutyla
+Objective: COST
+----Reading problem 14---
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-gem/ibutyla.mps'...
+Problem: ibutyla
+----Reading problem 14---
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-gem/ibutyla.mps'...
+Objective: COST
+Problem: ibutyla
+Objective: COST
+----Reading problem 14---
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-gem/ibutyla.mps'...
+Problem: ibutyla
+Objective: COST
+Objective: COST
+Objective: COST
+----Reading problem 14---
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-gem/ibutyla.mps'...
+Problem: ibutyla
+Objective: COST
+1882 rows, 2717 columns, 10599 non-zeros
+11209 records were read
+One free row was removed
+1882 rows, 2717 columns, 10599 non-zeros
+1882 rows, 2717 columns, 10599 non-zeros
+11209 records were read
+11209 records were read
+One free row was removed
+One free row was removed
+1882 rows, 2717 columns, 10599 non-zeros
+11209 records were read
+One free row was removed
+Constructing initial basis...
+Constructing initial basis...
+Constructing initial basis...
+Constructing initial basis...
+1882 rows, 2717 columns, 10599 non-zeros
+11209 records were read
+One free row was removed
+Size of triangular part is 1702
+Size of triangular part is 1702
+Size of triangular part is 1702
+1882 rows, 2717 columns, 10599 non-zeros
+Constructing initial basis...
+11209 records were read
+One free row was removed
+Size of triangular part is 1702
+1882 rows, 2717 columns, 10599 non-zeros
+11209 records were read
+One free row was removed
+Constructing initial basis...
+----Reading problem 14---
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-gem/ibutyla.mps'...
+Problem: ibutyla
+Constructing initial basis...
+Size of triangular part is 1702
+Size of triangular part is 1702
+Size of triangular part is 1702
+1882 rows, 2717 columns, 10599 non-zeros
+11209 records were read
+One free row was removed
+Constructing initial basis...
+1882 rows, 2717 columns, 10599 non-zeros
+11209 records were read
+One free row was removed
+Constructing initial basis...
+Objective: COST
+Size of triangular part is 1702
+1882 rows, 2717 columns, 10599 non-zeros
+11209 records were read
+One free row was removed
+Size of triangular part is 1702
+Constructing initial basis...
+1882 rows, 2717 columns, 10599 non-zeros
+11209 records were read
+One free row was removed
+Size of triangular part is 1702
+Constructing initial basis...
+1882 rows, 2717 columns, 10599 non-zeros
+11209 records were read
+One free row was removed
+Constructing initial basis...
+Size of triangular part is 1702
+1882 rows, 2717 columns, 10599 non-zeros
+11209 records were read
+One free row was removed
+Size of triangular part is 1702
+Constructing initial basis...
+Size of triangular part is 1702
+1882 rows, 2717 columns, 10599 non-zeros
+11209 records were read
+One free row was removed
+Constructing initial basis...
+Size of triangular part is 1702
+1882 rows, 2717 columns, 10599 non-zeros
+11209 records were read
+One free row was removed
+Constructing initial basis...
+Size of triangular part is 1702
+1882 rows, 2717 columns, 10599 non-zeros
+11209 records were read
+One free row was removed
+Constructing initial basis...
+Size of triangular part is 1702
+----Reading problem 15---
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-gem/ac.mps'...
+----Reading problem 15---
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-gem/ac.mps'...
+----Reading problem 15---
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-gem/ac.mps'...
+----Reading problem 15---
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-gem/ac.mps'...
+Problem: ac
+Problem: ac
+Problem: ac
+Problem: ac
+----Reading problem 15---
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-gem/ac.mps'...
+Problem: ac
+----Reading problem 15---
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-gem/ac.mps'...
+Problem: ac
+----Reading problem 15---
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-gem/ac.mps'...
+Problem: ac
+Objective: COST
+Objective: COST
+Objective: COST
+Objective: COST
+Objective: COST
+----Reading problem 15---
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-gem/ac.mps'...
+Problem: ac
+Objective: COST
+Objective: COST
+----Reading problem 15---
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-gem/ac.mps'...
+Problem: ac
+----Reading problem 15---
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-gem/ac.mps'...
+Problem: ac
+----Reading problem 15---
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-gem/ac.mps'...
+Objective: COST
+Problem: ac
+----Reading problem 15---
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-gem/ac.mps'...
+Problem: ac
+Objective: COST
+Objective: COST
+----Reading problem 15---
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-gem/ac.mps'...
+Problem: ac
+Objective: COST
+----Reading problem 15---
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-gem/ac.mps'...
+Objective: COST
+Problem: ac
+Objective: COST
+Objective: COST
+----Reading problem 15---
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-gem/ac.mps'...
+Problem: ac
+Objective: COST
+1878 rows, 2712 columns, 10577 non-zeros
+11188 records were read
+One free row was removed
+1878 rows, 2712 columns, 10577 non-zeros
+11188 records were read
+One free row was removed
+1878 rows, 2712 columns, 10577 non-zeros
+11188 records were read
+One free row was removed
+Constructing initial basis...
+Constructing initial basis...
+Constructing initial basis...
+Size of triangular part is 1698
+1878 rows, 2712 columns, 10577 non-zeros
+11188 records were read
+One free row was removed
+Size of triangular part is 1698
+Size of triangular part is 1698
+1878 rows, 2712 columns, 10577 non-zeros
+11188 records were read
+One free row was removed
+Constructing initial basis...
+1878 rows, 2712 columns, 10577 non-zeros
+11188 records were read
+One free row was removed
+Constructing initial basis...
+----Reading problem 15---
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-gem/ac.mps'...
+Constructing initial basis...
+Problem: ac
+Size of triangular part is 1698
+1878 rows, 2712 columns, 10577 non-zeros
+Size of triangular part is 1698
+11188 records were read
+One free row was removed
+Size of triangular part is 1698
+Constructing initial basis...
+1878 rows, 2712 columns, 10577 non-zeros
+11188 records were read
+One free row was removed
+Constructing initial basis...
+Size of triangular part is 1698
+1878 rows, 2712 columns, 10577 non-zeros
+11188 records were read
+One free row was removed
+Objective: COST
+Size of triangular part is 1698
+1878 rows, 2712 columns, 10577 non-zeros
+11188 records were read
+Constructing initial basis...
+One free row was removed
+Constructing initial basis...
+Size of triangular part is 1698
+1878 rows, 2712 columns, 10577 non-zeros
+11188 records were read
+One free row was removed
+Size of triangular part is 1698
+Constructing initial basis...
+1878 rows, 2712 columns, 10577 non-zeros
+11188 records were read
+One free row was removed
+Size of triangular part is 1698
+Constructing initial basis...
+1878 rows, 2712 columns, 10577 non-zeros
+11188 records were read
+One free row was removed
+Constructing initial basis...
+Size of triangular part is 1698
+Size of triangular part is 1698
+1878 rows, 2712 columns, 10577 non-zeros
+11188 records were read
+One free row was removed
+Constructing initial basis...
+Size of triangular part is 1698
+1878 rows, 2712 columns, 10577 non-zeros
+11188 records were read
+One free row was removed
+Constructing initial basis...
+Size of triangular part is 1698
+1878 rows, 2712 columns, 10577 non-zeros
+11188 records were read
+One free row was removed
+Constructing initial basis...
+Size of triangular part is 1698
+----Reading problem 16---
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-gem/etylpte.mps'...
+----Reading problem 16---
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-gem/etylpte.mps'...
+Problem: etylpte
+Problem: etylpte
+----Reading problem 16---
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-gem/etylpte.mps'...
+Problem: etylpte
+----Reading problem 16---
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-gem/etylpte.mps'...
+Problem: etylpte
+----Reading problem 16---
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-gem/etylpte.mps'...
+----Reading problem 16---
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-gem/etylpte.mps'...
+Problem: etylpte
+Problem: etylpte
+Objective: COST
+Objective: COST
+Objective: COST
+Objective: COST
+----Reading problem 16---
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-gem/etylpte.mps'...
+Problem: etylpte
+Objective: COST
+Objective: COST
+----Reading problem 16---
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-gem/etylpte.mps'...
+----Reading problem 16---
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-gem/etylpte.mps'...
+Problem: etylpte
+Problem: etylpte
+----Reading problem 16---
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-gem/etylpte.mps'...
+Problem: etylpte
+----Reading problem 16---
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-gem/etylpte.mps'...
+Problem: etylpte
+Objective: COST
+----Reading problem 16---
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-gem/etylpte.mps'...
+Problem: etylpte
+Objective: COST
+Objective: COST
+Objective: COST
+----Reading problem 16---
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-gem/etylpte.mps'...
+Problem: etylpte
+Objective: COST
+Objective: COST
+----Reading problem 16---
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-gem/etylpte.mps'...
+Problem: etylpte
+Objective: COST
+Objective: COST
+----Reading problem 16---
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-gem/etylpte.mps'...
+Problem: etylpte
+Objective: COST
+1883 rows, 2720 columns, 10609 non-zeros
+11223 records were read
+One free row was removed
+1883 rows, 2720 columns, 10609 non-zeros
+11223 records were read
+1883 rows, 2720 columns, 10609 non-zeros
+11223 records were read
+One free row was removed
+Constructing initial basis...
+One free row was removed
+Constructing initial basis...
+Constructing initial basis...
+1883 rows, 2720 columns, 10609 non-zeros
+11223 records were read
+One free row was removed
+Size of triangular part is 1704
+Constructing initial basis...
+Size of triangular part is 1704
+Size of triangular part is 1704
+Size of triangular part is 1704
+1883 rows, 2720 columns, 10609 non-zeros
+11223 records were read
+One free row was removed
+----Reading problem 16---
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-gem/etylpte.mps'...
+Constructing initial basis...
+Problem: etylpte
+1883 rows, 2720 columns, 10609 non-zeros
+11223 records were read
+One free row was removed
+Size of triangular part is 1704
+Constructing initial basis...
+1883 rows, 2720 columns, 10609 non-zeros
+11223 records were read
+One free row was removed
+1883 rows, 2720 columns, 10609 non-zeros
+11223 records were read
+Size of triangular part is 1704
+One free row was removed
+Constructing initial basis...
+1883 rows, 2720 columns, 10609 non-zeros
+11223 records were read
+One free row was removed
+1883 rows, 2720 columns, 10609 non-zeros
+11223 records were read
+One free row was removed
+Constructing initial basis...
+Constructing initial basis...
+Constructing initial basis...
+Objective: COST
+1883 rows, 2720 columns, 10609 non-zeros
+11223 records were read
+One free row was removed
+Size of triangular part is 1704
+Constructing initial basis...
+Size of triangular part is 1704
+Size of triangular part is 1704
+Size of triangular part is 1704
+Size of triangular part is 1704
+1883 rows, 2720 columns, 10609 non-zeros
+11223 records were read
+One free row was removed
+Constructing initial basis...
+1883 rows, 2720 columns, 10609 non-zeros
+11223 records were read
+One free row was removed
+Constructing initial basis...
+Size of triangular part is 1704
+Size of triangular part is 1704
+1883 rows, 2720 columns, 10609 non-zeros
+11223 records were read
+One free row was removed
+Constructing initial basis...
+Size of triangular part is 1704
+1883 rows, 2720 columns, 10609 non-zeros
+11223 records were read
+One free row was removed
+Constructing initial basis...
+Size of triangular part is 1704
+1883 rows, 2720 columns, 10609 non-zeros
+11223 records were read
+One free row was removed
+Constructing initial basis...
+Size of triangular part is 1704
+----Reading problem 17---
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-gem/lac__D.mps'...
+----Reading problem 17---
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-gem/lac__D.mps'...
+----Reading problem 17---
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-gem/lac__D.mps'...
+Problem: lac__D
+Problem: lac__D
+Problem: lac__D
+----Reading problem 17---
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-gem/lac__D.mps'...
+Problem: lac__D
+----Reading problem 17---
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-gem/lac__D.mps'...
+Problem: lac__D
+Objective: COST
+Objective: COST
+Objective: COST
+Objective: COST
+----Reading problem 17---
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-gem/lac__D.mps'...
+Problem: lac__D
+----Reading problem 17---
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-gem/lac__D.mps'...
+Objective: COST
+----Reading problem 17---
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-gem/lac__D.mps'...
+----Reading problem 17---
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-gem/lac__D.mps'...
+Problem: lac__D
+Problem: lac__D
+Problem: lac__D
+----Reading problem 17---
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-gem/lac__D.mps'...
+Problem: lac__D
+----Reading problem 17---
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-gem/lac__D.mps'...
+Problem: lac__D
+Objective: COST
+----Reading problem 17---
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-gem/lac__D.mps'...
+Problem: lac__D
+----Reading problem 17---
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-gem/lac__D.mps'...
+Objective: COST
+Objective: COST
+Problem: lac__D
+Objective: COST
+Objective: COST
+Objective: COST
+----Reading problem 17---
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-gem/lac__D.mps'...
+Objective: COST
+Problem: lac__D
+Objective: COST
+Objective: COST
+----Reading problem 17---
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-gem/lac__D.mps'...
+Problem: lac__D
+Objective: COST
+1878 rows, 2712 columns, 10577 non-zeros
+11188 records were read
+One free row was removed
+1878 rows, 2712 columns, 10577 non-zeros
+11188 records were read
+One free row was removed
+Constructing initial basis...
+Constructing initial basis...
+1878 rows, 2712 columns, 10577 non-zeros
+11188 records were read
+One free row was removed
+1878 rows, 2712 columns, 10577 non-zeros
+11188 records were read
+One free row was removed
+Size of triangular part is 1698
+Constructing initial basis...
+Size of triangular part is 1698
+Constructing initial basis...
+1878 rows, 2712 columns, 10577 non-zeros
+11188 records were read
+One free row was removed
+Size of triangular part is 1698
+Size of triangular part is 1698
+Constructing initial basis...
+----Reading problem 17---
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-gem/lac__D.mps'...
+Size of triangular part is 1698
+Problem: lac__D
+1878 rows, 2712 columns, 10577 non-zeros
+11188 records were read
+One free row was removed
+Constructing initial basis...
+1878 rows, 2712 columns, 10577 non-zeros
+11188 records were read
+One free row was removed
+1878 rows, 2712 columns, 10577 non-zeros
+11188 records were read
+One free row was removed
+Size of triangular part is 1698
+Constructing initial basis...
+Constructing initial basis...
+1878 rows, 2712 columns, 10577 non-zeros
+11188 records were read
+One free row was removed
+1878 rows, 2712 columns, 10577 non-zeros
+11188 records were read
+One free row was removed
+Constructing initial basis...
+Objective: COST
+Size of triangular part is 1698
+Constructing initial basis...
+Size of triangular part is 1698
+1878 rows, 2712 columns, 10577 non-zeros
+11188 records were read
+One free row was removed
+Size of triangular part is 1698
+Constructing initial basis...
+Size of triangular part is 1698
+1878 rows, 2712 columns, 10577 non-zeros
+11188 records were read
+One free row was removed
+Size of triangular part is 1698
+Constructing initial basis...
+Size of triangular part is 1698
+1878 rows, 2712 columns, 10577 non-zeros
+11188 records were read
+1878 rows, 2712 columns, 10577 non-zeros
+11188 records were read
+One free row was removed
+One free row was removed
+Constructing initial basis...
+Constructing initial basis...
+Size of triangular part is 1698
+Size of triangular part is 1698
+1878 rows, 2712 columns, 10577 non-zeros
+11188 records were read
+One free row was removed
+Constructing initial basis...
+Size of triangular part is 1698
+1878 rows, 2712 columns, 10577 non-zeros
+11188 records were read
+One free row was removed
+Constructing initial basis...
+Size of triangular part is 1698
+----Reading problem 18---
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-gem/btoh.mps'...
+----Reading problem 18---
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-gem/btoh.mps'...
+Problem: btoh
+----Reading problem 18---
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-gem/btoh.mps'...
+Problem: btoh
+----Reading problem 18---
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-gem/btoh.mps'...
+Problem: btoh
+Problem: btoh
+----Reading problem 18---
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-gem/btoh.mps'...
+Problem: btoh
+Objective: COST
+Objective: COST
+Objective: COST
+----Reading problem 18---
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-gem/btoh.mps'...
+Objective: COST
+Problem: btoh
+----Reading problem 18---
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-gem/btoh.mps'...
+Objective: COST
+Problem: btoh
+----Reading problem 18---
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-gem/btoh.mps'...
+Problem: btoh
+----Reading problem 18---
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-gem/btoh.mps'...
+----Reading problem 18---
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-gem/btoh.mps'...
+Problem: btoh
+Problem: btoh
+Objective: COST
+----Reading problem 18---
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-gem/btoh.mps'...
+Problem: btoh
+----Reading problem 18---
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-gem/btoh.mps'...
+Problem: btoh
+Objective: COST
+Objective: COST
+Objective: COST
+Objective: COST
+Objective: COST
+Objective: COST
+----Reading problem 18---
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-gem/btoh.mps'...
+Problem: btoh
+----Reading problem 18---
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-gem/btoh.mps'...
+Problem: btoh
+Objective: COST
+Objective: COST
+----Reading problem 18---
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-gem/btoh.mps'...
+Problem: btoh
+Objective: COST
+1879 rows, 2716 columns, 10594 non-zeros
+11206 records were read
+One free row was removed
+1879 rows, 2716 columns, 10594 non-zeros
+11206 records were read
+Constructing initial basis...
+One free row was removed
+1879 rows, 2716 columns, 10594 non-zeros
+11206 records were read
+One free row was removed
+Constructing initial basis...
+Constructing initial basis...
+Size of triangular part is 1699
+Size of triangular part is 1699
+Size of triangular part is 1699
+1879 rows, 2716 columns, 10594 non-zeros
+11206 records were read
+One free row was removed
+1879 rows, 2716 columns, 10594 non-zeros
+11206 records were read
+One free row was removed
+Constructing initial basis...
+1879 rows, 2716 columns, 10594 non-zeros
+11206 records were read
+Constructing initial basis...
+One free row was removed
+----Reading problem 18---
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-gem/btoh.mps'...
+Problem: btoh
+Size of triangular part is 1699
+Constructing initial basis...
+Size of triangular part is 1699
+Size of triangular part is 1699
+1879 rows, 2716 columns, 10594 non-zeros
+11206 records were read
+One free row was removed
+1879 rows, 2716 columns, 10594 non-zeros
+11206 records were read
+One free row was removed
+Constructing initial basis...
+Constructing initial basis...
+1879 rows, 2716 columns, 10594 non-zeros
+11206 records were read
+One free row was removed
+1879 rows, 2716 columns, 10594 non-zeros
+11206 records were read
+One free row was removed
+Constructing initial basis...
+Constructing initial basis...
+Size of triangular part is 1699
+Objective: COST
+Size of triangular part is 1699
+1879 rows, 2716 columns, 10594 non-zeros
+11206 records were read
+One free row was removed
+Size of triangular part is 1699
+Size of triangular part is 1699
+Constructing initial basis...
+1879 rows, 2716 columns, 10594 non-zeros
+11206 records were read
+One free row was removed
+Constructing initial basis...
+Size of triangular part is 1699
+Size of triangular part is 1699
+1879 rows, 2716 columns, 10594 non-zeros
+11206 records were read
+One free row was removed
+Constructing initial basis...
+1879 rows, 2716 columns, 10594 non-zeros
+11206 records were read
+One free row was removed
+Constructing initial basis...
+Size of triangular part is 1699
+Size of triangular part is 1699
+1879 rows, 2716 columns, 10594 non-zeros
+11206 records were read
+One free row was removed
+Constructing initial basis...
+Size of triangular part is 1699
+1879 rows, 2716 columns, 10594 non-zeros
+11206 records were read
+One free row was removed
+Constructing initial basis...
+Size of triangular part is 1699
+----Reading problem 19---
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-gem/ppoh.mps'...
+----Reading problem 19---
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-gem/ppoh.mps'...
+Problem: ppoh
+----Reading problem 19---
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-gem/ppoh.mps'...
+Problem: ppoh
+Problem: ppoh
+----Reading problem 19---
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-gem/ppoh.mps'...
+Problem: ppoh
+Objective: COST
+----Reading problem 19---
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-gem/ppoh.mps'...
+Objective: COST
+Problem: ppoh
+Objective: COST
+----Reading problem 19---
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-gem/ppoh.mps'...
+Objective: COST
+Problem: ppoh
+----Reading problem 19---
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-gem/ppoh.mps'...
+----Reading problem 19---
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-gem/ppoh.mps'...
+----Reading problem 19---
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-gem/ppoh.mps'...
+Problem: ppoh
+Problem: ppoh
+Problem: ppoh
+----Reading problem 19---
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-gem/ppoh.mps'...
+Problem: ppoh
+Objective: COST
+----Reading problem 19---
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-gem/ppoh.mps'...
+Problem: ppoh
+----Reading problem 19---
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-gem/ppoh.mps'...
+Problem: ppoh
+Objective: COST
+Objective: COST
+Objective: COST
+Objective: COST
+Objective: COST
+Objective: COST
+Objective: COST
+----Reading problem 19---
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-gem/ppoh.mps'...
+Problem: ppoh
+----Reading problem 19---
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-gem/ppoh.mps'...
+Problem: ppoh
+Objective: COST
+Objective: COST
+----Reading problem 19---
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-gem/ppoh.mps'...
+Problem: ppoh
+Objective: COST
+1879 rows, 2716 columns, 10595 non-zeros
+11204 records were read
+One free row was removed
+1879 rows, 2716 columns, 10595 non-zeros
+11204 records were read
+Constructing initial basis...
+One free row was removed
+Constructing initial basis...
+1879 rows, 2716 columns, 10595 non-zeros
+11204 records were read
+One free row was removed
+Size of triangular part is 1699
+Constructing initial basis...
+1879 rows, 2716 columns, 10595 non-zeros
+11204 records were read
+Size of triangular part is 1699
+One free row was removed
+Constructing initial basis...
+Size of triangular part is 1699
+1879 rows, 2716 columns, 10595 non-zeros
+11204 records were read
+One free row was removed
+Size of triangular part is 1699
+Constructing initial basis...
+----Reading problem 19---
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-gem/ppoh.mps'...
+Problem: ppoh
+Size of triangular part is 1699
+1879 rows, 2716 columns, 10595 non-zeros
+11204 records were read
+One free row was removed
+Constructing initial basis...
+1879 rows, 2716 columns, 10595 non-zeros
+11204 records were read
+1879 rows, 2716 columns, 10595 non-zeros
+11204 records were read
+One free row was removed
+One free row was removed
+Constructing initial basis...
+Constructing initial basis...
+Size of triangular part is 1699
+1879 rows, 2716 columns, 10595 non-zeros
+11204 records were read
+One free row was removed
+Size of triangular part is 1699
+Size of triangular part is 1699
+Constructing initial basis...
+Objective: COST
+1879 rows, 2716 columns, 10595 non-zeros
+11204 records were read
+One free row was removed
+1879 rows, 2716 columns, 10595 non-zeros
+11204 records were read
+One free row was removed
+Constructing initial basis...
+Size of triangular part is 1699
+Constructing initial basis...
+1879 rows, 2716 columns, 10595 non-zeros
+Size of triangular part is 1699
+11204 records were read
+One free row was removed
+Size of triangular part is 1699
+Constructing initial basis...
+Size of triangular part is 1699
+1879 rows, 2716 columns, 10595 non-zeros
+11204 records were read
+One free row was removed
+1879 rows, 2716 columns, 10595 non-zeros
+11204 records were read
+One free row was removed
+Constructing initial basis...
+Constructing initial basis...
+Size of triangular part is 1699
+Size of triangular part is 1699
+1879 rows, 2716 columns, 10595 non-zeros
+11204 records were read
+One free row was removed
+Constructing initial basis...
+Size of triangular part is 1699
+1879 rows, 2716 columns, 10595 non-zeros
+11204 records were read
+One free row was removed
+Constructing initial basis...
+Size of triangular part is 1699
+----Reading problem 20---
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-gem/ppylace.mps'...
+----Reading problem 20---
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-gem/ppylace.mps'...
+Problem: ppylace
+Problem: ppylace
+----Reading problem 20---
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-gem/ppylace.mps'...
+Problem: ppylace
+----Reading problem 20---
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-gem/ppylace.mps'...
+Problem: ppylace
+----Reading problem 20---
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-gem/ppylace.mps'...
+Problem: ppylace
+Objective: COST
+Objective: COST
+Objective: COST
+----Reading problem 20---
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-gem/ppylace.mps'...
+----Reading problem 20---
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-gem/ppylace.mps'...
+Problem: ppylace
+Objective: COST
+Problem: ppylace
+----Reading problem 20---
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-gem/ppylace.mps'...
+Problem: ppylace
+Objective: COST
+----Reading problem 20---
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-gem/ppylace.mps'...
+Problem: ppylace
+----Reading problem 20---
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-gem/ppylace.mps'...
+Problem: ppylace
+----Reading problem 20---
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-gem/ppylace.mps'...
+Objective: COST
+Problem: ppylace
+Objective: COST
+Objective: COST
+Objective: COST
+----Reading problem 20---
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-gem/ppylace.mps'...
+Objective: COST
+Problem: ppylace
+Objective: COST
+----Reading problem 20---
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-gem/ppylace.mps'...
+Problem: ppylace
+----Reading problem 20---
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-gem/ppylace.mps'...
+Problem: ppylace
+Objective: COST
+Objective: COST
+Objective: COST
+----Reading problem 20---
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-gem/ppylace.mps'...
+Problem: ppylace
+Objective: COST
+1880 rows, 2717 columns, 10599 non-zeros
+11208 records were read
+One free row was removed
+1880 rows, 2717 columns, 10599 non-zeros
+11208 records were read
+One free row was removed
+Constructing initial basis...
+1880 rows, 2717 columns, 10599 non-zeros
+11208 records were read
+Constructing initial basis...
+One free row was removed
+Constructing initial basis...
+Size of triangular part is 1700
+Size of triangular part is 1700
+Size of triangular part is 1700
+1880 rows, 2717 columns, 10599 non-zeros
+11208 records were read
+One free row was removed
+Constructing initial basis...
+1880 rows, 2717 columns, 10599 non-zeros
+11208 records were read
+One free row was removed
+Constructing initial basis...
+Size of triangular part is 1700
+----Reading problem 20---
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-gem/ppylace.mps'...
+1880 rows, 2717 columns, 10599 non-zeros
+11208 records were read
+One free row was removed
+Size of triangular part is 1700
+Problem: ppylace
+Constructing initial basis...
+1880 rows, 2717 columns, 10599 non-zeros
+11208 records were read
+One free row was removed
+1880 rows, 2717 columns, 10599 non-zeros
+11208 records were read
+One free row was removed
+Size of triangular part is 1700
+Constructing initial basis...
+Constructing initial basis...
+1880 rows, 2717 columns, 10599 non-zeros
+11208 records were read
+One free row was removed
+Size of triangular part is 1700
+Size of triangular part is 1700
+Constructing initial basis...
+1880 rows, 2717 columns, 10599 non-zeros
+11208 records were read
+One free row was removed
+Objective: COST
+1880 rows, 2717 columns, 10599 non-zeros
+11208 records were read
+Constructing initial basis...
+One free row was removed
+Size of triangular part is 1700
+Constructing initial basis...
+Size of triangular part is 1700
+Size of triangular part is 1700
+1880 rows, 2717 columns, 10599 non-zeros
+11208 records were read
+One free row was removed
+1880 rows, 2717 columns, 10599 non-zeros
+11208 records were read
+One free row was removed
+Constructing initial basis...
+Constructing initial basis...
+Size of triangular part is 1700
+Size of triangular part is 1700
+1880 rows, 2717 columns, 10599 non-zeros
+11208 records were read
+One free row was removed
+Constructing initial basis...
+Size of triangular part is 1700
+1880 rows, 2717 columns, 10599 non-zeros
+11208 records were read
+One free row was removed
+Constructing initial basis...
+Size of triangular part is 1700
+1880 rows, 2717 columns, 10599 non-zeros
+11208 records were read
+One free row was removed
+Constructing initial basis...
+Size of triangular part is 1700
+-------------------------------------------------------------------
+-------------------------------------------------------------------
+-------------------------------------------------------------------
+-------------------------------------------------------------------
+-------------------------------------------------------------------
+-------------------------------------------------------------------
+-------------------------------------------------------------------
+-------------------------------------------------------------------
+Initial population not specified (initialize at random)
+Initial population not specified (initialize at random)
+Initial population not specified (initialize at random)
+Initial population not specified (initialize at random)
+Initial population not specified (initialize at random)
+Initial population not specified (initialize at random)
+-------------------------------------------------------------------
+-------------------------------------------------------------------
+-------------------------------------------------------------------
+-------------------------------------------------------------------
+Initial population not specified (initialize at random)
+Initial population not specified (initialize at random)
+Initial population not specified (initialize at random)
+Initial population not specified (initialize at random)
+Initial population not specified (initialize at random)
+Initial population not specified (initialize at random)
+-------------------------------------------------------------------
+-------------------------------------------------------------------
+Initial population not specified (initialize at random)
+Initial population not specified (initialize at random)
+-------------------------------------------------------------------
+Initial population not specified (initialize at random)
+-------------------------------------------------------------------
+Initial population not specified (initialize at random)
+PE: 10	 Generation:10	 Time:545.9s
+PE: 3	 Generation:10	 Time:520.2s
+PE: 13	 Generation:10	 Time:554.1s
+PE: 12	 Generation:10	 Time:623.8s
+PE: 0	 Generation:10	 Time:638.4s
+PE: 11	 Generation:10	 Time:645.4s
+PE: 14	 Generation:10	 Time:706.7s
+PE: 1	 Generation:10	 Time:802.3s
+PE: 13	 Generation:20	 Time:813.4s
+PE: 10	 Generation:20	 Time:834.5s
+PE: 3	 Generation:20	 Time:840.3s
+PE: 11	 Generation:20	 Time:900.8s
+PE: 2	 Generation:10	 Time:903.5s
+PE: 12	 Generation:20	 Time:907.5s
+PE: 4	 Generation:10	 Time:914.5s
+PE: 8	 Generation:10	 Time:924.1s
+PE: 5	 Generation:10	 Time:930.4s
+PE: 7	 Generation:10	 Time:855.3s
+PE: 15	 Generation:10	 Time:967.2s
+PE: 0	 Generation:20	 Time:991.5s
+PE: 13	 Generation:30	 Time:991.9s
+PE: 6	 Generation:10	 Time:1019.6s
+PE: 11	 Generation:30	 Time:1131.8s
+PE: 10	 Generation:30	 Time:1152.5s
+PE: 13	 Generation:40	 Time:1147.3s
+PE: 12	 Generation:30	 Time:1158.9s
+PE: 3	 Generation:30	 Time:1144.6s
+PE: 9	 Generation:10	 Time:1269.8s
+PE: 13 Begin migration: 1307s ...
+PE: 13	 Generation:50	 Time:1307.5s
+PE: 11	 Generation:40	 Time:1347.8s
+PE: 8	 Generation:20	 Time:1356.2s
+PE: 2	 Generation:20	 Time:1379.5s
+PE: 12	 Generation:40	 Time:1407.2s
+PE: 1	 Generation:20	 Time:1399.6s
+PE: 5	 Generation:20	 Time:1401.2s
+PE: 3	 Generation:40	 Time:1394.5s
+PE: 13	 Generation:60	 Time:1456.2s
+PE: 10	 Generation:40	 Time:1474.8s
+PE: 7	 Generation:20	 Time:1396.7s
+PE: 11 Begin migration: 1550s ...
+PE: 11	 Generation:50	 Time:1550.0s
+PE: 0	 Generation:30	 Time:1582.0s
+PE: 14	 Generation:20	 Time:1581.0s
+PE: 3 Begin migration: 1609s ...
+PE: 3	 Generation:50	 Time:1608.8s
+PE: 13	 Generation:70	 Time:1630.4s
+PE: 8	 Generation:30	 Time:1662.3s
+PE: 12 Begin migration: 1664s ...
+PE: 12	 Generation:50	 Time:1663.9s
+PE: 2	 Generation:30	 Time:1707.5s
+PE: 11	 Generation:60	 Time:1739.3s
+PE: 1	 Generation:30	 Time:1752.2s
+PE: 4	 Generation:20	 Time:1770.5s
+PE: 15	 Generation:20	 Time:1764.3s
+PE: 7	 Generation:30	 Time:1692.7s
+PE: 3	 Generation:60	 Time:1804.1s
+PE: 5	 Generation:30	 Time:1841.2s
+PE: 13	 Generation:80	 Time:1847.5s
+PE: 0	 Generation:40	 Time:1889.7s
+PE: 6	 Generation:20	 Time:1894.7s
+PE: 10 Begin migration: 1912s ...
+PE: 10	 Generation:50	 Time:1911.5s
+PE: 11	 Generation:70	 Time:1930.8s
+PE: 12	 Generation:60	 Time:1946.9s
+PE: 8	 Generation:40	 Time:1951.1s
+PE: 2	 Generation:40	 Time:1987.2s
+PE: 3	 Generation:70	 Time:2007.8s
+PE: 13	 Generation:90	 Time:2104.1s
+PE: 1	 Generation:40	 Time:2108.1s
+PE: 7	 Generation:40	 Time:2034.5s
+PE: 11	 Generation:80	 Time:2144.1s
+...PE: 12 end migration: 2175s ...
+PE: 3	 Generation:80	 Time:2175.5s
+PE: 8 Begin migration: 2216s ...
+PE: 8	 Generation:50	 Time:2216.0s
+PE: 12	 Generation:70	 Time:2236.8s
+...PE: 11 end migration: 2239s ...
+PE: 2 Begin migration: 2250s ...
+PE: 2	 Generation:50	 Time:2250.4s
+PE: 5	 Generation:40	 Time:2336.4s
+PE: 7 Begin migration: 2267s ...
+PE: 7	 Generation:50	 Time:2267.1s
+PE: 10	 Generation:60	 Time:2394.6s
+PE: 3	 Generation:90	 Time:2369.6s
+PE: 13	 Generation:100	 Time:2385.3s
+PE: 14	 Generation:30	 Time:2489.5s
+PE: 12	 Generation:80	 Time:2491.0s
+PE: 1 Begin migration: 2501s ...
+PE: 1	 Generation:50	 Time:2501.0s
+PE: 8	 Generation:60	 Time:2529.0s
+PE: 2	 Generation:60	 Time:2535.4s
+PE: 3	 Generation:100	 Time:2560.7s
+PE: 11	 Generation:90	 Time:2611.3s
+PE: 13	 Generation:110	 Time:2637.4s
+PE: 15	 Generation:30	 Time:2634.3s
+PE: 6	 Generation:30	 Time:2656.3s
+PE: 9	 Generation:20	 Time:2692.3s
+PE: 4	 Generation:30	 Time:2703.8s
+PE: 12	 Generation:90	 Time:2742.7s
+PE: 7	 Generation:60	 Time:2671.8s
+PE: 3	 Generation:110	 Time:2784.2s
+PE: 10	 Generation:70	 Time:2850.7s
+PE: 8	 Generation:70	 Time:2860.7s
+PE: 1	 Generation:60	 Time:2865.7s
+PE: 2	 Generation:70	 Time:2873.2s
+PE: 5 Begin migration: 2876s ...
+PE: 5	 Generation:50	 Time:2876.2s
+PE: 13	 Generation:120	 Time:2900.6s
+PE: 12 Begin migration: 2980s ...
+PE: 12	 Generation:100	 Time:2979.9s
+PE: 7	 Generation:70	 Time:2898.3s
+PE: 3	 Generation:120	 Time:2984.7s
+PE: 0 Begin migration: 3030s ...
+PE: 0	 Generation:50	 Time:3029.8s
+...PE: 2 end migration: 3089s ...
+PE: 13	 Generation:130	 Time:3165.5s
+PE: 8	 Generation:80	 Time:3188.9s
+PE: 11 Begin migration: 3194s ...
+PE: 11	 Generation:100	 Time:3193.6s
+PE: 7	 Generation:80	 Time:3129.7s
+PE: 12	 Generation:110	 Time:3241.1s
+PE: 1	 Generation:70	 Time:3264.3s
+PE: 2	 Generation:80	 Time:3275.9s
+PE: 10	 Generation:80	 Time:3299.4s
+PE: 14	 Generation:40	 Time:3381.2s
+PE: 5	 Generation:60	 Time:3393.0s
+PE: 7	 Generation:90	 Time:3350.3s
+PE: 13	 Generation:140	 Time:3456.3s
+PE: 3	 Generation:130	 Time:3451.0s
+PE: 4	 Generation:40	 Time:3478.8s
+PE: 15	 Generation:40	 Time:3487.9s
+PE: 8	 Generation:90	 Time:3526.4s
+PE: 6	 Generation:40	 Time:3541.3s
+PE: 12	 Generation:120	 Time:3553.0s
+PE: 0	 Run time limit reached 	 Time:3606.2s
+Output population written to: /nics/b/home/sgarcia/runs-modcell-hpc/benchmark/gem-model/case20_out.pop_0
+PE: 4	 Run time limit reached 	 Time:3603.8s
+Output population written to: /nics/b/home/sgarcia/runs-modcell-hpc/benchmark/gem-model/case20_out.pop_4
+PE: 12	 Run time limit reached 	 Time:3607.1s
+Output population written to: /nics/b/home/sgarcia/runs-modcell-hpc/benchmark/gem-model/case20_out.pop_12
+PE: 5	 Run time limit reached 	 Time:3600.9s
+Output population written to: /nics/b/home/sgarcia/runs-modcell-hpc/benchmark/gem-model/case20_out.pop_5
+PE: 13	 Run time limit reached 	 Time:3614.8s
+Output population written to: /nics/b/home/sgarcia/runs-modcell-hpc/benchmark/gem-model/case20_out.pop_13
+PE: 1	 Run time limit reached 	 Time:3623.1s
+Output population written to: /nics/b/home/sgarcia/runs-modcell-hpc/benchmark/gem-model/case20_out.pop_1
+PE: 6	 Run time limit reached 	 Time:3630.8s
+Output population written to: /nics/b/home/sgarcia/runs-modcell-hpc/benchmark/gem-model/case20_out.pop_6
+PE: 10	 Run time limit reached 	 Time:3638.6s
+Output population written to: /nics/b/home/sgarcia/runs-modcell-hpc/benchmark/gem-model/case20_out.pop_10
+PE: 8	 Run time limit reached 	 Time:3638.4s
+Output population written to: /nics/b/home/sgarcia/runs-modcell-hpc/benchmark/gem-model/case20_out.pop_8
+PE: 2	 Run time limit reached 	 Time:3636.9s
+Output population written to: /nics/b/home/sgarcia/runs-modcell-hpc/benchmark/gem-model/case20_out.pop_2
+PE: 14	 Run time limit reached 	 Time:3646.4s
+Output population written to: /nics/b/home/sgarcia/runs-modcell-hpc/benchmark/gem-model/case20_out.pop_14
+PE: 11	 Run time limit reached 	 Time:3642.7s
+Output population written to: /nics/b/home/sgarcia/runs-modcell-hpc/benchmark/gem-model/case20_out.pop_11
+PE: 15	 Run time limit reached 	 Time:3655.0s
+Output population written to: /nics/b/home/sgarcia/runs-modcell-hpc/benchmark/gem-model/case20_out.pop_15
+PE: 9	 Run time limit reached 	 Time:3685.2s
+Output population written to: /nics/b/home/sgarcia/runs-modcell-hpc/benchmark/gem-model/case20_out.pop_9
+PE: 7	 Generation:100	 Time:3619.4s
+PE: 7	 Run time limit reached 	 Time:3619.4s
+Output population written to: /nics/b/home/sgarcia/runs-modcell-hpc/benchmark/gem-model/case20_out.pop_7
+PE: 3	 Run time limit reached 	 Time:3708.3s
+Output population written to: /nics/b/home/sgarcia/runs-modcell-hpc/benchmark/gem-model/case20_out.pop_3

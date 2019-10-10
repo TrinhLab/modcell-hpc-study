@@ -1,0 +1,15 @@
+#!/bin/bash
+
+set -e
+
+if [ "$#" != "1" ]; then
+	echo "error. usage: run_all case_path" && exit
+else
+	case_path=$1
+fi
+
+consolidate_pops $case_path
+get_pops_csv $case_path
+get_metrics $case_path
+get_results_table $case_path
+

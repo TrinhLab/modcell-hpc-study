@@ -1,0 +1,41 @@
+#!/bin/bash
+
+set -e
+
+if [ "$#" != "1" ]; then
+	echo "error. usage: get_metrics case_path"
+else
+	case_path=$1
+fi
+
+n_cases=$(awk 'BEGIN{a=0}{if ($1>0+a) a=$1} END{print a}' "$case_path/params.tsv")
+
+# Matlab metrics
+temp_script=$(mktemp)
+full_path=$(realpath $case_path)
+n_cases_mat=$((n_cases+1))
+echo "calc_metrics(\"${full_path}\", ${n_cases_mat})" >> "$temp_script"
+eval "${MATLAB_BIN} -nodesktop -nodisplay -sd ~/wrk/s/matlab < $temp_script" # NOTE: This will not return error exit code if the matlab script errors
+
+# Cover metrics
+echo "Case,MinCS,compat_prod,total_prod" > "$case_path/cover_size.csv"
+for i in $(seq 0 "$n_cases"); do
+	echo "Finding minimal cover size for case $i"
+	# Find metrics
+	mc_shiftindex "$case_path/case${i}_out.csv"  > /dev/null
+	mc_setcover "$case_path/case${i}_out_shift1.csv"  --max 1 > sc_output
+	MinCS=$(grep "Minimal cover size" sc_output | cut -d: -f2)
+	compat_prod_r=$(grep "below compatibility" sc_output | sed -n 's/.*(\(.*\)):.*/\1/p')
+	non_compat_prod=$(echo "$compat_prod_r"  | cut -d/ -f1)
+	total_prod=$(echo "$compat_prod_r"  | cut -d/ -f2)
+	compat_prod=$((total_prod-non_compat_prod))
+
+	# Write to table
+	echo "${i},${MinCS},${compat_prod},${total_prod}" >> "$case_path/cover_size.csv"
+
+	# cleanup
+	rm "$case_path/case${i}_out_shift1.csv" sc_output
+done
+
+# Join tables
+join -t, "$case_path/metrics.csv" "$case_path/cover_size.csv" > "$case_path/all_metrics.csv"

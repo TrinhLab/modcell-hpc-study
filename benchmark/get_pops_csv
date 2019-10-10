@@ -1,0 +1,36 @@
+#!/bin/sh
+
+set -e
+
+if [ "$#" != "1" ]; then
+	echo "error. usage: get_pops_csv case_path" && exit
+else
+	case_path=$1
+fi
+
+if [ ! -f "$case_path/case_info.tsv" ]; then
+	echo "error. $case_path/case_info.tsv file not found" && exit
+fi
+
+problem_path=$(cut -f1 "$case_path/case_info.tsv")
+alpha=$(cut -f2 "$case_path/case_info.tsv")
+
+# Convert all populations to csv
+for fullfile in "$case_path/case"*"_out.pop" ; do
+	echo "$fullfile"
+	eval "python ${MODCELLHPC_PATH}/io/pop2csv.py $problem_path $fullfile -a $alpha"
+done
+
+
+echo "Finding total population..."
+
+eval "${MODCELLHPC_S_PATH}/benchmark/get_total_pop_csv $case_path"
+
+# More naive way:
+## Generate a combined population (edited version of io/popmerge.sh)
+#solution_dir=$case_path
+#target="$case_path/case_all_out.pop"
+#[ -f "$target" ] && rm "$target" # Avoid appending itself
+#md_pattern="METADATA|population_size|alpha|beta"
+#cat $case_path/case*_out.pop | grep -Ev "#ENDFILE|${md_pattern}" | sed -e "\$a#ENDFILE"  > "$target"
+#grep -E $md_pattern "$case_path/case0_out.pop" | cat - "$target" > temp && mv temp "$target"

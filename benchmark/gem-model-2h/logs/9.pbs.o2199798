@@ -1,0 +1,374 @@
+Comm size: 16.
+(PE=0) Initial population not specified (initialize at random)
+PE: 0	 Generation:10	 Time:652.2s
+PE: 0	 Generation:20	 Time:1007.8s
+PE: 0 Begin migration: 1332s ...
+PE: 0	 Generation:30	 Time:1559.2s
+PE: 0	 Generation:40	 Time:1878.8s
+PE: 0	 Generation:50	 Time:2886.4s
+PE: 0	 Generation:60	 Time:3369.0s
+...PE: 0 end migration: 3588s ...
+PE: 0	 Generation:70	 Time:4599.0s
+PE: 0 Begin migration: 5060s ...
+PE: 0	 Generation:80	 Time:5516.4s
+PE: 0	 Generation:90	 Time:6474.9s
+PE: 0	 Run time limit reached 	 Time:7239.9s
+Output population written to: /nics/b/home/sgarcia/runs-modcell-hpc/benchmark/gem-model/case9_out.pop_0
+(PE=0) Barrier reached, all processes exiting...
+PE: 6	 Generation:10	 Time:1044.5s
+PE: 6	 Generation:20	 Time:1979.8s
+PE: 6 Begin migration: 2418s ...
+PE: 6	 Generation:30	 Time:2925.7s
+PE: 6	 Generation:40	 Time:3936.3s
+...PE: 6 end migration: 4040s ...
+PE: 6 Begin migration: 5142s ...
+PE: 6	 Generation:50	 Time:5141.7s
+PE: 6	 Generation:60	 Time:6233.8s
+...PE: 6 end migration: 6685s ...
+PE: 6	 Generation:70	 Time:6726.5s
+PE: 6 Begin migration: 6830s ...
+PE: 6	 Generation:80	 Time:6932.6s
+PE: 6	 Generation:90	 Time:7150.8s
+PE: 6	 Run time limit reached 	 Time:7212.6s
+Output population written to: /nics/b/home/sgarcia/runs-modcell-hpc/benchmark/gem-model/case9_out.pop_6
+PE: 8	 Generation:10	 Time:949.6s
+PE: 8	 Generation:20	 Time:1710.4s
+PE: 8 Begin migration: 2016s ...
+PE: 8	 Generation:30	 Time:2346.8s
+PE: 8	 Generation:40	 Time:3192.3s
+PE: 8	 Generation:50	 Time:3601.2s
+PE: 8	 Generation:60	 Time:3906.1s
+PE: 8	 Generation:70	 Time:4205.0s
+PE: 8	 Generation:80	 Time:4499.4s
+...PE: 8 end migration: 4617s ...
+PE: 8	 Generation:90	 Time:4778.5s
+PE: 8 Begin migration: 5071s ...
+PE: 8	 Generation:100	 Time:5071.1s
+PE: 8	 Generation:110	 Time:5370.8s
+PE: 8	 Generation:120	 Time:5657.1s
+PE: 8PE: 2PE: 7	 Generation:10	 Time:823.8s
+PE: 7	 Generation:20		 Generation:130	 Time:5926.7s
+PE: 8	 Generation:140	 Time:6172.1s
+PE: 8	 Generation:150	 Time:6401.6s
+PE: 8	 Generation:160	 Time:6648.7s
+PE: 8	 Run time limit reached 	 Time:7306.5s
+Output population written to: /nics/b/home/sgarcia/runs-modcell-hpc/benchmark/gem-model/case9_out.pop_8
+ Time:1281.3s
+PE: 7 Begin migration: 1438s ...
+PE: 7	 Generation:30	 Time:1582.0s
+PE: 7	 Generation:40	 Time:1825.6s
+PE: 7	 Generation:50	 Time:2118.9s
+PE: 7	 Generation:60	 Time:2280.0s
+PE: 7	 Generation:70	 Time:2483.3s
+PE: 7	 Generation:80	 Time:2673.2s
+PE: 7	 Generation:90	 Time:2828.1s
+PE: 7	 Generation:100	 Time:2994.8s
+...PE: 7 end migration: 3009s ...
+PE: 7	 Generation:110	 Time:3161.6s
+PE: 7	 Generation:120	 Time:3308.5s
+PE: 7 Begin migration: 3384s ...
+PE: 7	 Generation:130	 Time:3475.9s
+PE: 7	 Generation:140PE: 3	 Generation:10	 Time:523.5s
+PE: 3	 Generation:20	 Time:3630.4s
+PE: 7	 Generation:150	 Time:3787.0s
+PE: 7	 Generation:160	 Time:3956.4s
+PE: 7	 Generation:170	 Time:4128.4s
+PE: 7	 Generation:180	 Time:844.9s
+PE: 3 Begin migration: 995s ...
+PE: 3	 Generation:30	 Time:1142.6s
+PE: 3	 Generation:40	 Time:1596.5s
+PE: 3	 Generation:50	 Time:1861.2s
+...PE: 3 end migration: 1940s ...
+PE: 3	 Generation:60	 Time:2091.2s
+PE: 3	 Generation:70	 Time:2314.6s
+PE: 3 Begin migration: 2420s ...
+PE: 3	 Generation:80	 Time:4289.9s
+PE: 7	 Generation:190	 Time:4732.1s
+PE: 7	 Generation:200	 Time:4945.5s
+PE: 7	 Generation:210	 Time:5146.3s
+PE: 7	 Generation:220	 Time:5364.2s
+PE: 7	 Generation:230	 Time:5596.1s
+...PE: 7 end migration: 5820s ...
+PE: 7	 Generation:240	 Time:5890.7s
+PE: 7 Begin migration: 6384s ...
+PE: 7	 Time:2526.1s
+PE: 3	 Generation:90	 Time:2760.0s
+PE: 3	 Generation:100	 Time:3019.9s
+PE: 3	 Generation:110	 Time:3258.6s
+PE: 3	 Generation:120	 Time:3518.3s
+...PE: 3 end migration: 3788s ...
+PE: 3		 Generation:250	 Time:6384.2s
+PE: 7	 Generation:260	 Time:6879.2s
+PE: 7	 Run time limit reached 	 Time:7231.2s
+Output population written to: /nics/b/home/sgarcia/runs-modcell-hpc/benchmark/gem-model/case9_out.pop_7
+ Generation:130	 Time:3892.3s
+PE: 3	 Generation:140	 Time:4839.2s
+PE: 3 Begin migration: 5279s ...
+PE: 3	 Generation:150	 Time:5279.4s
+PE: 3	 Generation:160	 Time:5665.4s
+...PE: 3 end migration: 5937s ...
+PE: 3	 Generation:170	 Time:6099.0s
+PE: 3 Begin migration: 6386s ...
+PE: 3PE: 10	 Generation:10	 Time:545.5s
+PE: 10	 Generation:20	 Time:834.6s
+PE: 10 Begin migration: 984s ...
+PE: 10	 Generation:30	 Time:1147.2s
+PE: 10	 Generation:40	 Time:1425.6s
+PE: 10	 Generation:50	 Time:1738.3s
+PE: 10		 Generation:180	 Time:6696.4s
+PE: 3	 Run time limit reached 	 Time:7237.6s
+Output population written to: /nics/b/home/sgarcia/runs-modcell-hpc/benchmark/gem-model/case9_out.pop_3
+ Generation:60	 Time:2119.8s
+PE: 10	 Generation:70	 Time:2505.0s
+PE: 10	 Generation:80	 Time:2950.4s
+PE: 10	 Generation:90	 Time:3357.8s
+PE: 10	 Generation:100	 Time:3704.1s
+...PE: 10 end migration: 3896s ...
+PE: 10	 Generation:110	 Time:4064.2s
+PE: 10	 Generation:120	 Time:4356.8s
+PE: 10 Begin migration: 4530s ...
+PE: 10	 Generation:130	 Time:4709.8s
+PE: 10	 Generation:140	 Time:5070.7s
+PE: 10	 Generation:150	 Time:5420.1s
+PE: 10	 Generation:160	 Time:5846.9s
+PE: 10	 Generation:170	 Time:6307.2s
+...PE: 10 end migration: 6769s ...
+PE: 10	 Generation:180	 Time:6873.2s
+PE: 10	 Run time limit reached 	 Time:7234.8s
+Output population written to: /nics/b/home/sgarcia/runs-modcell-hpc/benchmark/gem-model/case9_out.pop_10
+PE: 9	 Generation:10	 Time:1301.3s
+PE: 9	 Generation:20	 Time:2546.9s
+PE: 9 Begin migration: 3147s ...
+PE: 9	 Generation:30	 Time:3721.7s
+PE: 9	 Generation:40	 Time:4900.4s
+...PE: 9 end migration: 5020s ...
+PE: 9 Begin migration: 5995s ...
+PE: 9PE: 12	 Generation:10	 Time:622.5s
+PE: 12	 Generation:20	 Time:901.5s
+PE: 12 Begin migration: 1034s ...
+PE: 12	 Generation:30	 Time:1159.9s
+PE: 12	 Generation:40	 Time:1456.7s
+...PE: 12 end migration: 1546s ...
+PE: 12 Begin migration: 1693s ...
+PE: 12	 Generation:50	 Time:1693.3s
+PE: 12	PE: 15	 Generation:10	 Time:955.6s
+PE: 15	 Generation:20	 Time:1718.4s
+PE: 15 Begin migration: 2109s ...
+PE: 15	 Generation:30	 Time:2545.2s
+PE: 15	 Generation:40	PE: 11	 Generation:10	 Time:511.7s
+PE: 11	 Generation:20	 Generation:50	 Time:5994.9s
+PE: 9	 Generation:60	 Time:6858.5s
+PE: 9	 Run time limit reached 	 Time:7231.6s
+Output population written to: /nics/b/home/sgarcia/runs-modcell-hpc/benchmark/gem-model/case9_out.pop_9
+ Generation:60	 Time:1914.1s
+PE: 12	 Generation:70	 Time:2164.3s
+PE: 12	 Generation:80	 Time:2425.9s
+PE: 12	 Generation:90	 Time:2727.6s
+...PE: 12 end migration: 3027s ...
+PE: 12	 Generation:100	 Time:3026.5s
+PE: 12	 Generation:110	 Time:3356.4s
+PE: 12	 Generation:120 Time:3392.6s
+PE: 15	 Generation:50	 Time:4303.1s
+...PE: 15 end migration: 4381s ...
+PE: 15	 Generation:60	 Time:5473.7s
+PE: 15	 Generation:70	 Time:6187.1s
+PE: 15 Begin migration: 6538s ...
+PE: 15	 Generation:80	 Time:6856.1s
+PE: 15	 Run time limit reached 	 Time:7237.7s
+Output population written to: /nics/b/home/sgarcia/runs-modcell-hpc/benchmark/gem-model/case9_out.pop_15
+	 Time:3705.5s
+PE: 12 Begin migration: 3902s ...
+PE: 12	 Generation:130	 Time:4114.4s
+PE: 12	 Generation:140	 Time:4501.7s
+PE: 12	 Generation:150	 Time:4859.3s
+PE: 12	 Generation:160	 Time:5202.5s
+...PE: 12 end migration: 5505s ...
+PE: 12	 Generation:170		 Time:735.7s
+PE: 11 Begin migration: 848s ...
+PE: 11	 Generation:30	 Time:955.3s
+PE: 11	 Generation:40	 Time:1155.1s
+PE: 11	 Generation:50	 Time:1352.4s
+...PE: 11 end migration: 1445s ...
+PE: 11	 Generation:60	 Time:1661.7s
+PE: 11	 Generation:70	 Time:1981.9s
+PE: 11 Begin migration: 2144s ...
+PE: 11	 Generation:80	 Time:2311.8s
+PE: 11	 Generation:90 Time:5504.9s
+PE: 12 Begin migration: 5748s ...
+PE: 12	 Generation:180	 Time:5936.1s
+PE: 12	 Generation:190	 Time:6322.4s
+PE: 12	 Generation:200	 Time:6720.4s
+PE: 12	 Generation:210	 Time:7119.9s
+PE: 12	 Run time limit reached 	PE: 13	 Generation:10	 Time:544.2s
+PE: 13		 Time:2587.3s
+PE: 11	 Generation:100	 Time:2880.1s
+PE: 11	 Generation:110	 Time:3154.9s
+PE: 11	 Generation:120	 Time:3427.0s
+PE: 11	 Generation:130	 Time:3752.8s
+PE: 11	 Generation:140	 Time:4054.6s
+PE: 11	 Generation:150 Generation:20	 Time:812.7s
+PE: 13 Begin migration: 946s ...
+PE: 13	 Generation:30	 Time:1068.2s
+PE: 13	 Generation:40	 Time:1308.0s
+PE: 13	 Time:7203.7s
+Output population written to: /nics/b/home/sgarcia/runs-modcell-hpc/benchmark/gem-model/case9_out.pop_12
+	 Time:4331.9s
+PE: 11	 Generation:160	 Time:4658.1s
+...PE: 11 end migration: 4948s ...
+PE: 11	 Generation:170	 Time:4948.1s
+PE: 11 Begin migration: 5081s ...
+PE: 11	 Generation:180	 Generation:50	 Time:1560.8s
+PE: 13	 Generation:60	 Time:1785.7s
+PE: 13	 Generation:70	 Time:1998.4s
+PE: 13	 Generation:80	 Time:2257.1s
+PE: 13	 Generation:90	 Time:2553.6s
+...PE: 13 end migration: 2712s ...
+PE: 13 Begin migration: 2860s ...
+PE: 13	 Generation:100	 Time:2859.7s
+PE: 13 Time:5270.4s
+PE: 11	 Generation:190	 Time:5664.7s
+PE: 11	 Generation:200	 Time:6063.2s
+PE: 11	 Generation:210	 Time:6426.0s
+PE: 11	 Generation:220	 Time:6820.2s
+PE: 11	 Generation:230	 Time:7208.9s
+PE: 11	 Run time limit reached 	 Time:7208.9s
+Output population written to: /nics/b/home/sgarcia/runs-modcell-hpc/benchmark/gem-model/case9_out.pop_11
+	 Generation:110	 Time:3171.3s
+PE: 13	 Generation:120	 Time:3548.1s
+...PE: 13 end migration: 3851s ...
+PE: 13	 Generation:130	 Time:3864.3s
+PE: 13	 Generation:140	 Time:4023.6s
+PE: 13 Begin migration: 4200s ...
+PE: 13	 Generation:150	 Time:4200.2s
+PE: 13	 Generation:160	 Time:4355.3s
+PE: 13	 Generation:170	 Time:4533.3s
+PE: 13	 Generation:180	 Generation:10	 Time:906.7s
+PE: 2	 Generation:20	 Time:1429.6s
+PE: 2 Begin migration: 1570s ...
+PE: 2	PE: 14	 Time:4744.7s
+PE: 13	 Generation:190	 Time:4968.4s
+PE: 13	 Generation:200	 Time:5134.3s
+PE: 13	 Generation:210	 Time:5364.9s
+PE: 13	 Generation:10	 Time:706.7s
+PE: 14 Generation:30	 Time:1657.9s
+PE: 2		 Generation:220	 Time:5630.9s
+PE: 13	 Generation:230	 Time:5903.6s
+PE: 13	 Generation:240	 Time:6260.3s
+PE: 13	 Generation:250	 Time:6588.8s
+PE: 13	 Generation:260	 Time:6910.2s
+PE: 13	 Generation:40	 Generation:20 Run time limit reached 	 Time:7205.1s
+Output population written to: /nics/b/home/sgarcia/runs-modcell-hpc/benchmark/gem-model/case9_out.pop_13
+	 Time:1419.1s
+PE: 14 Begin migration: 1744s ...
+PE: 14	 Time:1873.2s
+PE: 2	PE: 5	 Generation:10	 Time:1026.0s
+PE: 5	 Generation:20	 Time:1685.0s
+PE: 5 Begin migration: 2000s ...
+PE: 5		 Generation:30 Generation:50	 Time:2097.6s
+PE: 14 Generation:30	 Time:2398.6s
+PE: 5	 Generation:40	 Time:3219.9s
+...PE: 5 end migration: 4021s ...
+PE: 5 Begin migration: 4042s ...
+PE: 5	 Generation:50	 Time:4041.7s
+PE: 5	 Generation:60		 Time:2085.0s
+...PE: 2 end migration: 2111s ...
+PE: 2	 Time:4233.4s
+PE: 5	 Generation:70	 Time:4409.9s
+PE: 5	 Generation:80		 Generation:40	 Generation:60	 Time:2362.7s
+PE: 2 Time:2862.2s
+...PE: 14 end migration: 3391s ...
+PE: 14 Begin migration: 3503s ...
+PE: 14	 Generation:50 Time:4613.5s
+PE: 5	 Generation:90	 Time:4837.0s
+PE: 5	 Generation:100	 Time:5074.6s
+PE: 5	 Generation:110	 Time:5336.9s
+PE: 5	 Generation:120	 Time:5578.2s
+PE: 5	 Generation:130	 Time:5828.3s
+PE: 5	 Generation:140	 Time:6130.3s
+...PE: 5 end migration: 6460s ...
+PE: 5	 Generation:70		 Generation:150	 Time:6459.6s
+PE: 5	 Generation:160	 Time:6650.0s
+PE: 5	 Time:3503.1s
+PE: 14	 Time:2703.2s
+PE: 2 Begin migration: 2945s ...
+PE: 2	 Generation:60	 Time:3864.0s
+PE: 14	 Generation:170	 Time:6834.7s
+PE: 5 Begin migration: 6944s ...
+PE: 5	 Generation:180	 Time:7082.7s
+PE: 5	 Run time limit reached 	 Time:7206.6s
+Output population written to: /nics/b/home/sgarcia/runs-modcell-hpc/benchmark/gem-model/case9_out.pop_5
+ Generation:80	 Time:3653.8s
+PE: 2		 Generation:90	 Time:4172.3s
+...PE: 2 end migration: 4254s ...
+PE: 2 Begin migration: 4743s ...
+PE: 2 Generation:70		 Time:4056.6s
+PE: 14	PE: 4	 Generation:10	 Time:728.1s
+PE: 4	 Generation:20	 Generation:100	 Time:4743.2s
+PE: 2 Generation:80	 Time:4249.7s
+PE: 14	 Time:1114.2s
+PE: 4 Begin migration: 1250s ...
+PE: 4	 Generation:30	 Time:1378.4s
+PE: 4	 Generation:40	 Time:1631.2s
+PE: 4	 Generation:50		 Generation:90 Time:1895.3s
+PE: 4	 Generation:60	 Time:2161.9s
+PE: 4	 Generation:70	 Time:2402.7s
+PE: 4	 Generation:80	 Time:2677.1s
+PE: 4	 Generation:90	 Generation:110	 Time:5346.4s
+PE: 2		 Time:4429.2s
+PE: 14	 Generation:120	 Time:2902.1s
+...PE: 4 end migration: 2942s ...
+PE: 4 Begin migration: 3101s ...
+PE: 4	 Generation:100	 Time:3100.8s
+PE: 4	 Generation:110	 Time:3292.6s
+PE: 4	 Generation:120	 Time:3486.3s
+PE: 4	 Generation:130	 Generation:100	 Time:3675.5s
+PE: 4	 Generation:140	 Time:4131.3s
+...PE: 4 end migration: 4188s ...
+PE: 4 Begin migration: 4332s ...
+PE: 4	 Generation:150	 Time:4331.6s
+PE: 4	 Generation:160	 Time:4557.6s
+PE: 4	 Generation:170	 Time:4793.9s
+PE: 4 Time:6019.4s
+PE: 2	 Generation:130 Time:4652.9s
+PE: 14		 Generation:180	 Time:5111.9s
+PE: 4	 Generation:190	 Generation:110	 Time:6720.6s
+...PE: 2 end migration: 7052s ...
+PE: 2	 Time:5432.5s
+PE: 4	 Generation:200	 Time:5649.1s
+PE: 4	 Generation:210	 Time:6510.2s
+PE: 4	 Generation:220	 Time:6912.4s
+...PE: 4 end migration: 7094s ...
+PE: 4	 Run time limit reached 	 Time:7216.0s
+Output population written to: /nics/b/home/sgarcia/runs-modcell-hpc/benchmark/gem-model/case9_out.pop_4
+	 Time:4885.8s
+PE: 14	 Run time limit reached  Generation:120	 Time:7223.2s
+Output population written to: /nics/b/home/sgarcia/runs-modcell-hpc/benchmark/gem-model/case9_out.pop_2
+	 Time:5126.6s
+PE: 14	 Generation:130	 Time:5380.8s
+PE: 14	 Generation:140	 Time:5617.4s
+PE: 14	 Generation:150	 Time:5818.1s
+PE: 14	 Generation:160	 Time:6100.0s
+PE: 14	 Generation:170	 Time:6397.6s
+PE: 14	 Generation:180	 Time:6683.0s
+PE: 14	 Generation:190	 Time:6973.4s
+...PE: 14 end migration: 7100s ...
+PE: 14	 Run time limit reached 	 Time:7201.4s
+Output population written to: /nics/b/home/sgarcia/runs-modcell-hpc/benchmark/gem-model/case9_out.pop_14
+PE: 1	 Generation:10	 Time:868.0s
+PE: 1	 Generation:20	 Time:1631.4s
+PE: 1 Begin migration: 1818s ...
+PE: 1	 Generation:30	 Time:1987.8s
+PE: 1	 Generation:40	 Time:2307.4s
+...PE: 1 end migration: 2501s ...
+PE: 1 Begin migration: 2593s ...
+PE: 1	 Generation:50	 Time:2593.0s
+PE: 1	 Generation:60	 Time:2875.8s
+PE: 1	 Generation:70	 Time:3838.7s
+PE: 1	 Generation:80	 Time:4699.4s
+PE: 1	 Generation:90	 Time:5475.5s
+...PE: 1 end migration: 5888s ...
+PE: 1 Begin migration: 6118s ...
+PE: 1	 Generation:100	 Time:6117.6s
+PE: 1	 Generation:110	 Time:6926.3s
+PE: 1	 Run time limit reached 	 Time:7262.4s
+Output population written to: /nics/b/home/sgarcia/runs-modcell-hpc/benchmark/gem-model/case9_out.pop_1

@@ -1,0 +1,10 @@
+#PBS -S /bin/bash
+#PBS -A ACF-UTK0011
+#PBS -l nodes=1,walltime=01:25:00
+module load openmpi/3.0.0-gcc6.3.0
+
+cd /nics/b/home/sgarcia/runs-modcell-hpc/benchmark/gem-model-nomr
+
+# Run modcell
+eval "mpiexec -n 16 /nics/b/home/sgarcia/modcell-hpc/src/modcell /nics/b/home/sgarcia/modcell-hpc/cases/ecoli-gem/ /nics/b/home/sgarcia/runs-modcell-hpc/benchmark/gem-model-nomr/case22_out.pop --initial_population="" 	--objective_type=wgcp 	--alpha=4 	--beta=0 	--population_size=500 	--n_generations=100000000 	--seed=0 	--crossover_probability=0.8 	--mutation_probability=0.05 	--max_run_time=3600 	--migration_fraction=0.3 	--migration_interval=50 	--migration_topology=1 	--migration_policy=0 	"
+		

@@ -3,4 +3,7 @@
 *.ipynb_checkpoints/
 __pycache__/
 other/
+old/
 notes.md
+# These files are redundant since they are consolidated into one, and otherwise take too much space
+*.pop_*

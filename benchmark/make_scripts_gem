@@ -1,0 +1,44 @@
+#!/bin/bash
+
+problem_path="${MODCELLHPC_PATH}/cases/ecoli-gem/"
+case_path="${MODCELLHPC_PATH}/benchmark/gem-model"
+
+# Fixed parameters specified below
+max_run_time="3600"
+n_cores=16
+
+echo -e "Case\tpop_size\tmigration_interval\tmigration_topology\tmigration_policy" > $case_path/params.tsv
+case=0
+for pop_size in {100,1000,5000}; do
+for migration_interval in {5,25,50}; do
+for migration_topology in {0,1}; do
+for migration_policy in {0,2}; do
+        output_file="${case_path}/case${case}_out.pop"
+        echo "\
+# Run modcell
+eval \"mpiexec -n $n_cores ${MODCELLHPC_PATH}/src/modcell $problem_path $output_file --initial_population=\"\" \
+        --objective_type=wgcp \
+        --alpha=4 \
+        --beta=0 \
+        --population_size=$pop_size \
+        --n_generations=100000000 \
+        --seed=0 \
+        --crossover_probability=0.8 \
+        --mutation_probability=0.05 \
+        --max_run_time=$max_run_time \
+        --migration_fraction=0.3 \
+        --migration_interval=$migration_interval \
+        --migration_topology=$migration_topology \
+        --migration_policy=$migration_policy \
+        \"
+                " > "${case_path}/${case}.pbs"
+
+        # Other files
+        echo "eval \"${MODCELLHPC_PATH}/io/popmerge.sh $case_path/ case${case}_out\"" > $case_path/${case}_cons.sh
+        echo -e "$case\t$pop_size\t$migration_interval\t$migration_topology\t$migration_policy" >> $case_path/params.tsv
+        ((case++))
+done
+done
+done
+done
+

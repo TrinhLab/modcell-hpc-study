@@ -1,0 +1,5224 @@
+Comm size: 4.
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/ala__79.mps'...
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/ala__79.mps'...
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/ala__79.mps'...
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/ala__79.mps'...
+Problem: ala__79
+Problem: ala__79
+Problem: ala__79
+Problem: ala__79
+Objective: COST
+Objective: COST
+Objective: COST
+Objective: COST
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+One free row was removed
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+One free row was removed
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+One free row was removed
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+One free row was removed
+Constructing initial basis...
+Constructing initial basis...
+Constructing initial basis...
+Constructing initial basis...
+Size of triangular part is 1699
+Size of triangular part is 1699
+Size of triangular part is 1699
+Size of triangular part is 1699
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/ac72.mps'...
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/ac72.mps'...
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/ac72.mps'...
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/ac72.mps'...
+Problem: ac72
+Problem: ac72
+Problem: ac72
+Problem: ac72
+Objective: COST
+Objective: COST
+Objective: COST
+Objective: COST
+1878 rows, 2712 columns, 10577 non-zeros
+11188 records were read
+One free row was removed
+1878 rows, 2712 columns, 10577 non-zeros
+11188 records were read
+One free row was removed
+1878 rows, 2712 columns, 10577 non-zeros
+11188 records were read
+One free row was removed
+Constructing initial basis...
+Constructing initial basis...
+Constructing initial basis...
+Size of triangular part is 1698
+Size of triangular part is 1698
+Size of triangular part is 1698
+1878 rows, 2712 columns, 10577 non-zeros
+11188 records were read
+One free row was removed
+Constructing initial basis...
+Size of triangular part is 1698
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/2agpg51.mps'...
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/2agpg51.mps'...
+Problem: 2agpg51
+Problem: 2agpg51
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/2agpg51.mps'...
+Problem: 2agpg51
+Objective: COST
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/2agpg51.mps'...
+Objective: COST
+Objective: COST
+Problem: 2agpg51
+Objective: COST
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+One free row was removed
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+One free row was removed
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+One free row was removed
+Constructing initial basis...
+Constructing initial basis...
+Constructing initial basis...
+Size of triangular part is 1698
+Size of triangular part is 1698
+Size of triangular part is 1698
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+One free row was removed
+Constructing initial basis...
+Size of triangular part is 1698
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/1tdec35.mps'...
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/1tdec35.mps'...
+Problem: 1tdec35
+Problem: 1tdec35
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/1tdec35.mps'...
+Problem: 1tdec35
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/1tdec35.mps'...
+Problem: 1tdec35
+Objective: COST
+Objective: COST
+Objective: COST
+Objective: COST
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+One free row was removed
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+One free row was removed
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+One free row was removed
+Constructing initial basis...
+Constructing initial basis...
+Constructing initial basis...
+Size of triangular part is 1699
+Size of triangular part is 1699
+Size of triangular part is 1699
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+One free row was removed
+Constructing initial basis...
+Size of triangular part is 1699
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/alaal81.mps'...
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/alaal81.mps'...
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/alaal81.mps'...
+Problem: alaal81
+Problem: alaal81
+Problem: alaal81
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/alaal81.mps'...
+Problem: alaal81
+Objective: COST
+Objective: COST
+Objective: COST
+Objective: COST
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+One free row was removed
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+One free row was removed
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+One free row was removed
+Constructing initial basis...
+Constructing initial basis...
+Constructing initial basis...
+Size of triangular part is 1699
+Size of triangular part is 1699
+Size of triangular part is 1699
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+One free row was removed
+Constructing initial basis...
+Size of triangular part is 1699
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/sbt6p71.mps'...
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/sbt6p71.mps'...
+Problem: sbt6p71
+Problem: sbt6p71
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/sbt6p71.mps'...
+Problem: sbt6p71
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/sbt6p71.mps'...
+Problem: sbt6p71
+Objective: COST
+Objective: COST
+Objective: COST
+Objective: COST
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+One free row was removed
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+One free row was removed
+Constructing initial basis...
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+One free row was removed
+Constructing initial basis...
+Constructing initial basis...
+Size of triangular part is 1698
+Size of triangular part is 1698
+Size of triangular part is 1698
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+One free row was removed
+Constructing initial basis...
+Size of triangular part is 1698
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/ocdce28.mps'...
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/ocdce28.mps'...
+Problem: ocdce28
+Problem: ocdce28
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/ocdce28.mps'...
+Problem: ocdce28
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/ocdce28.mps'...
+Problem: ocdce28
+Objective: COST
+Objective: COST
+Objective: COST
+Objective: COST
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+One free row was removed
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+One free row was removed
+Constructing initial basis...
+Constructing initial basis...
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+One free row was removed
+Size of triangular part is 1699
+Size of triangular part is 1699
+Constructing initial basis...
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+One free row was removed
+Size of triangular part is 1699
+Constructing initial basis...
+Size of triangular part is 1699
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/ocdca27.mps'...
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/ocdca27.mps'...
+Problem: ocdca27
+Problem: ocdca27
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/ocdca27.mps'...
+Problem: ocdca27
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/ocdca27.mps'...
+Objective: COST
+Problem: ocdca27
+Objective: COST
+Objective: COST
+Objective: COST
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+One free row was removed
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+One free row was removed
+Constructing initial basis...
+Constructing initial basis...
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+One free row was removed
+Size of triangular part is 1699
+Constructing initial basis...
+Size of triangular part is 1699
+Size of triangular part is 1699
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+One free row was removed
+Constructing initial basis...
+Size of triangular part is 1699
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/1hdec31.mps'...
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/1hdec31.mps'...
+Problem: 1hdec31
+Problem: 1hdec31
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/1hdec31.mps'...
+Problem: 1hdec31
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/1hdec31.mps'...
+Problem: 1hdec31
+Objective: COST
+Objective: COST
+Objective: COST
+Objective: COST
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+One free row was removed
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+One free row was removed
+Constructing initial basis...
+Constructing initial basis...
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+One free row was removed
+Size of triangular part is 1699
+Size of triangular part is 1699
+Constructing initial basis...
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+One free row was removed
+Constructing initial basis...
+Size of triangular part is 1699
+Size of triangular part is 1699
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/2tdec62.mps'...
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/2tdec62.mps'...
+Problem: 2tdec62
+Problem: 2tdec62
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/2tdec62.mps'...
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/2tdec62.mps'...
+Problem: 2tdec62
+Problem: 2tdec62
+Objective: COST
+Objective: COST
+Objective: COST
+Objective: COST
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+One free row was removed
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+One free row was removed
+Constructing initial basis...
+Constructing initial basis...
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+One free row was removed
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+One free row was removed
+Size of triangular part is 1698
+Size of triangular part is 1698
+Constructing initial basis...
+Constructing initial basis...
+Size of triangular part is 1698
+Size of triangular part is 1698
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/pg14148.mps'...
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/pg14148.mps'...
+Problem: pg14148
+Problem: pg14148
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/pg14148.mps'...
+Problem: pg14148
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/pg14148.mps'...
+Problem: pg14148
+Objective: COST
+Objective: COST
+Objective: COST
+Objective: COST
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+One free row was removed
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+One free row was removed
+Constructing initial basis...
+Constructing initial basis...
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+One free row was removed
+Constructing initial basis...
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+One free row was removed
+Size of triangular part is 1699
+Size of triangular part is 1699
+Constructing initial basis...
+Size of triangular part is 1699
+Size of triangular part is 1699
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/12dgr13.mps'...
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/12dgr13.mps'...
+Problem: 12dgr13
+Problem: 12dgr13
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/12dgr13.mps'...
+Problem: 12dgr13
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/12dgr13.mps'...
+Problem: 12dgr13
+Objective: COST
+Objective: COST
+Objective: COST
+Objective: COST
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+One free row was removed
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+One free row was removed
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+One free row was removed
+Constructing initial basis...
+Constructing initial basis...
+Constructing initial basis...
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+One free row was removed
+Constructing initial basis...
+Size of triangular part is 1698
+Size of triangular part is 1698
+Size of triangular part is 1698
+Size of triangular part is 1698
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/mnl1p25.mps'...
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/mnl1p25.mps'...
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/mnl1p25.mps'...
+Problem: mnl1p25
+Problem: mnl1p25
+Problem: mnl1p25
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/mnl1p25.mps'...
+Problem: mnl1p25
+Objective: COST
+Objective: COST
+Objective: COST
+Objective: COST
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+One free row was removed
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+One free row was removed
+One free row was removed
+Constructing initial basis...
+Constructing initial basis...
+Constructing initial basis...
+Size of triangular part is 1698
+Size of triangular part is 1698
+Size of triangular part is 1698
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+One free row was removed
+Constructing initial basis...
+Size of triangular part is 1698
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/acald73.mps'...
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/acald73.mps'...
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/acald73.mps'...
+Problem: acald73
+Problem: acald73
+Problem: acald73
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/acald73.mps'...
+Problem: acald73
+Objective: COST
+Objective: COST
+Objective: COST
+Objective: COST
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+One free row was removed
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+One free row was removed
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+One free row was removed
+Constructing initial basis...
+Constructing initial basis...
+Constructing initial basis...
+Size of triangular part is 1699
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+One free row was removed
+Size of triangular part is 1699
+Size of triangular part is 1699
+Constructing initial basis...
+Size of triangular part is 1699
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/4abut67.mps'...
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/4abut67.mps'...
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/4abut67.mps'...
+Problem: 4abut67
+Problem: 4abut67
+Problem: 4abut67
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/4abut67.mps'...
+Problem: 4abut67
+Objective: COST
+Objective: COST
+Objective: COST
+Objective: COST
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+One free row was removed
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+One free row was removed
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+One free row was removed
+Constructing initial basis...
+Constructing initial basis...
+Constructing initial basis...
+Size of triangular part is 1699
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+One free row was removed
+Size of triangular part is 1699
+Size of triangular part is 1699
+Constructing initial basis...
+Size of triangular part is 1699
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/pg12046.mps'...
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/pg12046.mps'...
+Problem: pg12046
+Problem: pg12046
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/pg12046.mps'...
+Problem: pg12046
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/pg12046.mps'...
+Problem: pg12046
+Objective: COST
+Objective: COST
+Objective: COST
+Objective: COST
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+One free row was removed
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+One free row was removed
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+One free row was removed
+Constructing initial basis...
+Constructing initial basis...
+Constructing initial basis...
+Size of triangular part is 1698
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+One free row was removed
+Size of triangular part is 1698
+Size of triangular part is 1698
+Constructing initial basis...
+Size of triangular part is 1698
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/pg18152.mps'...
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/pg18152.mps'...
+Problem: pg18152
+Problem: pg18152
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/pg18152.mps'...
+Problem: pg18152
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/pg18152.mps'...
+Problem: pg18152
+Objective: COST
+Objective: COST
+Objective: COST
+Objective: COST
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+One free row was removed
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+One free row was removed
+Constructing initial basis...
+Constructing initial basis...
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+One free row was removed
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+One free row was removed
+Constructing initial basis...
+Size of triangular part is 1698
+Size of triangular part is 1698
+Constructing initial basis...
+Size of triangular part is 1698
+Size of triangular part is 1698
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/pa12032.mps'...
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/pa12032.mps'...
+Problem: pa12032
+Problem: pa12032
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/pa12032.mps'...
+Problem: pa12032
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/pa12032.mps'...
+Problem: pa12032
+Objective: COST
+Objective: COST
+Objective: COST
+Objective: COST
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+One free row was removed
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+One free row was removed
+Constructing initial basis...
+Constructing initial basis...
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+One free row was removed
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+One free row was removed
+Constructing initial basis...
+Size of triangular part is 1698
+Constructing initial basis...
+Size of triangular part is 1698
+Size of triangular part is 1698
+Size of triangular part is 1698
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/1ddec30.mps'...
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/1ddec30.mps'...
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/1ddec30.mps'...
+Problem: 1ddec30
+Problem: 1ddec30
+Problem: 1ddec30
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/1ddec30.mps'...
+Problem: 1ddec30
+Objective: COST
+Objective: COST
+Objective: COST
+Objective: COST
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+One free row was removed
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+One free row was removed
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+One free row was removed
+Constructing initial basis...
+Constructing initial basis...
+Constructing initial basis...
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+One free row was removed
+Constructing initial basis...
+Size of triangular part is 1699
+Size of triangular part is 1699
+Size of triangular part is 1699
+Size of triangular part is 1699
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/pyr68.mps'...
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/pyr68.mps'...
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/pyr68.mps'...
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/pyr68.mps'...
+Problem: pyr68
+Problem: pyr68
+Problem: pyr68
+Problem: pyr68
+Objective: COST
+Objective: COST
+Objective: COST
+Objective: COST
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+One free row was removed
+One free row was removed
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+One free row was removed
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+One free row was removed
+Constructing initial basis...
+Constructing initial basis...
+Constructing initial basis...
+Constructing initial basis...
+Size of triangular part is 1699
+Size of triangular part is 1699
+Size of triangular part is 1699
+Size of triangular part is 1699
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/1tdec36.mps'...
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/1tdec36.mps'...
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/1tdec36.mps'...
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/1tdec36.mps'...
+Problem: 1tdec36
+Problem: 1tdec36
+Problem: 1tdec36
+Problem: 1tdec36
+Objective: COST
+Objective: COST
+Objective: COST
+Objective: COST
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+One free row was removed
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+One free row was removed
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+One free row was removed
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+One free row was removed
+Constructing initial basis...
+Constructing initial basis...
+Constructing initial basis...
+Constructing initial basis...
+Size of triangular part is 1699
+Size of triangular part is 1699
+Size of triangular part is 1699
+Size of triangular part is 1699
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/apg1282.mps'...
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/apg1282.mps'...
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/apg1282.mps'...
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/apg1282.mps'...
+Problem: apg1282
+Problem: apg1282
+Problem: apg1282
+Problem: apg1282
+Objective: COST
+Objective: COST
+Objective: COST
+Objective: COST
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+One free row was removed
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+One free row was removed
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+One free row was removed
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+One free row was removed
+Constructing initial basis...
+Constructing initial basis...
+Constructing initial basis...
+Constructing initial basis...
+Size of triangular part is 1698
+Size of triangular part is 1698
+Size of triangular part is 1698
+Size of triangular part is 1698
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/2agpg46.mps'...
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/2agpg46.mps'...
+Problem: 2agpg46
+Problem: 2agpg46
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/2agpg46.mps'...
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/2agpg46.mps'...
+Problem: 2agpg46
+Problem: 2agpg46
+Objective: COST
+Objective: COST
+Objective: COST
+Objective: COST
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+One free row was removed
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+One free row was removed
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+One free row was removed
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+One free row was removed
+Constructing initial basis...
+Constructing initial basis...
+Constructing initial basis...
+Constructing initial basis...
+Size of triangular part is 1698
+Size of triangular part is 1698
+Size of triangular part is 1698
+Size of triangular part is 1698
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/hdca14.mps'...
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/hdca14.mps'...
+Problem: hdca14
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/hdca14.mps'...
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/hdca14.mps'...
+Problem: hdca14
+Problem: hdca14
+Problem: hdca14
+Objective: COST
+Objective: COST
+Objective: COST
+Objective: COST
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+One free row was removed
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+1878 rows, 2713 columns, 10578 non-zeros
+One free row was removed
+11190 records were read
+One free row was removed
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+One free row was removed
+Constructing initial basis...
+Constructing initial basis...
+Constructing initial basis...
+Constructing initial basis...
+Size of triangular part is 1699
+Size of triangular part is 1699
+Size of triangular part is 1699
+Size of triangular part is 1699
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/2agpe40.mps'...
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/2agpe40.mps'...
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/2agpe40.mps'...
+Problem: 2agpe40
+Problem: 2agpe40
+Problem: 2agpe40
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/2agpe40.mps'...
+Problem: 2agpe40
+Objective: COST
+Objective: COST
+Objective: COST
+Objective: COST
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+One free row was removed
+One free row was removed
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+One free row was removed
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+One free row was removed
+Constructing initial basis...
+Constructing initial basis...
+Constructing initial basis...
+Constructing initial basis...
+Size of triangular part is 1697
+Size of triangular part is 1697
+Size of triangular part is 1697
+Size of triangular part is 1697
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/1hdec32.mps'...
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/1hdec32.mps'...
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/1hdec32.mps'...
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/1hdec32.mps'...
+Problem: 1hdec32
+Problem: 1hdec32
+Problem: 1hdec32
+Problem: 1hdec32
+Objective: COST
+Objective: COST
+Objective: COST
+Objective: COST
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+One free row was removed
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+One free row was removed
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+One free row was removed
+Constructing initial basis...
+Constructing initial basis...
+Constructing initial basis...
+Size of triangular part is 1699
+Size of triangular part is 1699
+Size of triangular part is 1699
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+One free row was removed
+Constructing initial basis...
+Size of triangular part is 1699
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/12dgr12.mps'...
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/12dgr12.mps'...
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/12dgr12.mps'...
+Problem: 12dgr12
+Problem: 12dgr12
+Problem: 12dgr12
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/12dgr12.mps'...
+Problem: 12dgr12
+Objective: COST
+Objective: COST
+Objective: COST
+Objective: COST
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+One free row was removed
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+One free row was removed
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+One free row was removed
+Constructing initial basis...
+Constructing initial basis...
+Constructing initial basis...
+Size of triangular part is 1698
+Size of triangular part is 1698
+Size of triangular part is 1698
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+One free row was removed
+Constructing initial basis...
+Size of triangular part is 1698
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/man23.mps'...
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/man23.mps'...
+Problem: man23
+Problem: man23
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/man23.mps'...
+Problem: man23
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/man23.mps'...
+Problem: man23
+Objective: COST
+Objective: COST
+Objective: COST
+Objective: COST
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+One free row was removed
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+One free row was removed
+Constructing initial basis...
+1878 rows, 2713 columns, 10578 non-zeros
+Constructing initial basis...
+11190 records were read
+One free row was removed
+Constructing initial basis...
+Size of triangular part is 1698
+Size of triangular part is 1698
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+One free row was removed
+Size of triangular part is 1698
+Constructing initial basis...
+Size of triangular part is 1698
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/ttdca76.mps'...
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/ttdca76.mps'...
+Problem: ttdca76
+Problem: ttdca76
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/ttdca76.mps'...
+Problem: ttdca76
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/ttdca76.mps'...
+Problem: ttdca76
+Objective: COST
+Objective: COST
+Objective: COST
+Objective: COST
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+One free row was removed
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+One free row was removed
+Constructing initial basis...
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+One free row was removed
+Constructing initial basis...
+Constructing initial basis...
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+One free row was removed
+Size of triangular part is 1699
+Size of triangular part is 1699
+Constructing initial basis...
+Size of triangular part is 1699
+Size of triangular part is 1699
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/pe18044.mps'...
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/pe18044.mps'...
+Problem: pe18044
+Problem: pe18044
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/pe18044.mps'...
+Problem: pe18044
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/pe18044.mps'...
+Problem: pe18044
+Objective: COST
+Objective: COST
+Objective: COST
+Objective: COST
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+One free row was removed
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+One free row was removed
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+One free row was removed
+Constructing initial basis...
+Constructing initial basis...
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+One free row was removed
+Constructing initial basis...
+Constructing initial basis...
+Size of triangular part is 1698
+Size of triangular part is 1698
+Size of triangular part is 1698
+Size of triangular part is 1698
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/glu__99.mps'...
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/glu__99.mps'...
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/glu__99.mps'...
+Problem: glu__99
+Problem: glu__99
+Problem: glu__99
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/glu__99.mps'...
+Problem: glu__99
+Objective: COST
+Objective: COST
+Objective: COST
+Objective: COST
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+One free row was removed
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+One free row was removed
+One free row was removed
+Constructing initial basis...
+Constructing initial basis...
+Constructing initial basis...
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+One free row was removed
+Constructing initial basis...
+Size of triangular part is 1699
+Size of triangular part is 1699
+Size of triangular part is 1699
+Size of triangular part is 1699
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/sucsa74.mps'...
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/sucsa74.mps'...
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/sucsa74.mps'...
+Problem: sucsa74
+Problem: sucsa74
+Problem: sucsa74
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/sucsa74.mps'...
+Problem: sucsa74
+Objective: COST
+Objective: COST
+Objective: COST
+Objective: COST
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+One free row was removed
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+One free row was removed
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+One free row was removed
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+One free row was removed
+Constructing initial basis...
+Constructing initial basis...
+Constructing initial basis...
+Constructing initial basis...
+Size of triangular part is 1698
+Size of triangular part is 1698
+Size of triangular part is 1698
+Size of triangular part is 1698
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/2agpg49.mps'...
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/2agpg49.mps'...
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/2agpg49.mps'...
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/2agpg49.mps'...
+Problem: 2agpg49
+Problem: 2agpg49
+Problem: 2agpg49
+Problem: 2agpg49
+Objective: COST
+Objective: COST
+Objective: COST
+Objective: COST
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+One free row was removed
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+One free row was removed
+1878 rows, 2713 columns, 10578 non-zeros
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+11190 records were read
+One free row was removed
+One free row was removed
+Constructing initial basis...
+Constructing initial basis...
+Constructing initial basis...
+Constructing initial basis...
+Size of triangular part is 1698
+Size of triangular part is 1698
+Size of triangular part is 1698
+Size of triangular part is 1698
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/pgp1253.mps'...
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/pgp1253.mps'...
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/pgp1253.mps'...
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/pgp1253.mps'...
+Problem: pgp1253
+Problem: pgp1253
+Problem: pgp1253
+Problem: pgp1253
+Objective: COST
+Objective: COST
+Objective: COST
+Objective: COST
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+One free row was removed
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+One free row was removed
+1878 rows, 2713 columns, 10578 non-zeros
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+11190 records were read
+One free row was removed
+One free row was removed
+Constructing initial basis...
+Constructing initial basis...
+Constructing initial basis...
+Constructing initial basis...
+Size of triangular part is 1698
+Size of triangular part is 1698
+Size of triangular part is 1698
+Size of triangular part is 1698
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/2odec60.mps'...
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/2odec60.mps'...
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/2odec60.mps'...
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/2odec60.mps'...
+Problem: 2odec60
+Problem: 2odec60
+Problem: 2odec60
+Problem: 2odec60
+Objective: COST
+Objective: COST
+Objective: COST
+Objective: COST
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+One free row was removed
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+One free row was removed
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+One free row was removed
+One free row was removed
+Constructing initial basis...
+Constructing initial basis...
+Constructing initial basis...
+Constructing initial basis...
+Size of triangular part is 1698
+Size of triangular part is 1698
+Size of triangular part is 1698
+Size of triangular part is 1698
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/ps18066.mps'...
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/ps18066.mps'...
+Problem: ps18066
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/ps18066.mps'...
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/ps18066.mps'...
+Problem: ps18066
+Problem: ps18066
+Problem: ps18066
+Objective: COST
+Objective: COST
+Objective: COST
+Objective: COST
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+One free row was removed
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+One free row was removed
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+One free row was removed
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+One free row was removed
+Constructing initial basis...
+Constructing initial basis...
+Constructing initial basis...
+Constructing initial basis...
+Size of triangular part is 1698
+Size of triangular part is 1698
+Size of triangular part is 1698
+Size of triangular part is 1698
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/ser__72.mps'...
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/ser__72.mps'...
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/ser__72.mps'...
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/ser__72.mps'...
+Problem: ser__72
+Problem: ser__72
+Problem: ser__72
+Problem: ser__72
+Objective: COST
+Objective: COST
+Objective: COST
+Objective: COST
+1878 rows, 2712 columns, 10577 non-zeros
+11188 records were read
+One free row was removed
+1878 rows, 2712 columns, 10577 non-zeros
+11188 records were read
+One free row was removed
+1878 rows, 2712 columns, 10577 non-zeros
+11188 records were read
+One free row was removed
+1878 rows, 2712 columns, 10577 non-zeros
+11188 records were read
+One free row was removed
+Constructing initial basis...
+Constructing initial basis...
+Constructing initial basis...
+Constructing initial basis...
+Size of triangular part is 1699
+Size of triangular part is 1699
+Size of triangular part is 1699
+Size of triangular part is 1699
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/micit24.mps'...
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/micit24.mps'...
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/micit24.mps'...
+Problem: micit24
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/micit24.mps'...
+Problem: micit24
+Problem: micit24
+Problem: micit24
+Objective: COST
+Objective: COST
+Objective: COST
+Objective: COST
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+One free row was removed
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+One free row was removed
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+One free row was removed
+One free row was removed
+Constructing initial basis...
+Constructing initial basis...
+Constructing initial basis...
+Constructing initial basis...
+Size of triangular part is 1699
+Size of triangular part is 1699
+Size of triangular part is 1699
+Size of triangular part is 1699
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/ps12061.mps'...
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/ps12061.mps'...
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/ps12061.mps'...
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/ps12061.mps'...
+Problem: ps12061
+Problem: ps12061
+Problem: ps12061
+Problem: ps12061
+Objective: COST
+Objective: COST
+Objective: COST
+Objective: COST
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+One free row was removed
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+One free row was removed
+One free row was removed
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+One free row was removed
+Constructing initial basis...
+Constructing initial basis...
+Constructing initial basis...
+Constructing initial basis...
+Size of triangular part is 1698
+Size of triangular part is 1698
+Size of triangular part is 1698
+Size of triangular part is 1698
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/1agpe22.mps'...
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/1agpe22.mps'...
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/1agpe22.mps'...
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/1agpe22.mps'...
+Problem: 1agpe22
+Problem: 1agpe22
+Problem: 1agpe22
+Problem: 1agpe22
+Objective: COST
+Objective: COST
+Objective: COST
+Objective: COST
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+One free row was removed
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+One free row was removed
+One free row was removed
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+One free row was removed
+Constructing initial basis...
+Constructing initial basis...
+Constructing initial basis...
+Constructing initial basis...
+Size of triangular part is 1699
+Size of triangular part is 1699
+Size of triangular part is 1699
+Size of triangular part is 1699
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/pgp1657.mps'...
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/pgp1657.mps'...
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/pgp1657.mps'...
+Problem: pgp1657
+Problem: pgp1657
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/pgp1657.mps'...
+Problem: pgp1657
+Problem: pgp1657
+Objective: COST
+Objective: COST
+Objective: COST
+Objective: COST
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+One free row was removed
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+One free row was removed
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+One free row was removed
+Constructing initial basis...
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+One free row was removed
+Constructing initial basis...
+Constructing initial basis...
+Constructing initial basis...
+Size of triangular part is 1698
+Size of triangular part is 1698
+Size of triangular part is 1698
+Size of triangular part is 1698
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/ps14163.mps'...
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/ps14163.mps'...
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/ps14163.mps'...
+Problem: ps14163
+Problem: ps14163
+Problem: ps14163
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/ps14163.mps'...
+Problem: ps14163
+Objective: COST
+Objective: COST
+Objective: COST
+Objective: COST
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+One free row was removed
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+One free row was removed
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+One free row was removed
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+One free row was removed
+Constructing initial basis...
+Constructing initial basis...
+Constructing initial basis...
+Constructing initial basis...
+Size of triangular part is 1698
+Size of triangular part is 1698
+Size of triangular part is 1698
+Size of triangular part is 1698
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/2ippm57.mps'...
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/2ippm57.mps'...
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/2ippm57.mps'...
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/2ippm57.mps'...
+Problem: 2ippm57
+Problem: 2ippm57
+Problem: 2ippm57
+Problem: 2ippm57
+Objective: COST
+Objective: COST
+Objective: COST
+Objective: COST
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+One free row was removed
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+One free row was removed
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+One free row was removed
+Constructing initial basis...
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+One free row was removed
+Constructing initial basis...
+Constructing initial basis...
+Constructing initial basis...
+Size of triangular part is 1698
+Size of triangular part is 1698
+Size of triangular part is 1698
+Size of triangular part is 1698
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/ps14062.mps'...
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/ps14062.mps'...
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/ps14062.mps'...
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/ps14062.mps'...
+Problem: ps14062
+Problem: ps14062
+Problem: ps14062
+Problem: ps14062
+Objective: COST
+Objective: COST
+Objective: COST
+Objective: COST
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+One free row was removed
+One free row was removed
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+One free row was removed
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+One free row was removed
+Constructing initial basis...
+Constructing initial basis...
+Constructing initial basis...
+Constructing initial basis...
+Size of triangular part is 1698
+Size of triangular part is 1698
+Size of triangular part is 1698
+Size of triangular part is 1698
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/actp77.mps'...
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/actp77.mps'...
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/actp77.mps'...
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/actp77.mps'...
+Problem: actp77
+Problem: actp77
+Problem: actp77
+Problem: actp77
+Objective: COST
+Objective: COST
+Objective: COST
+Objective: COST
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+One free row was removed
+One free row was removed
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+One free row was removed
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+One free row was removed
+Constructing initial basis...
+Constructing initial basis...
+Constructing initial basis...
+Constructing initial basis...
+Size of triangular part is 1698
+Size of triangular part is 1698
+Size of triangular part is 1698
+Size of triangular part is 1698
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/1odec34.mps'...
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/1odec34.mps'...
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/1odec34.mps'...
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/1odec34.mps'...
+Problem: 1odec34
+Problem: 1odec34
+Problem: 1odec34
+Problem: 1odec34
+Objective: COST
+Objective: COST
+Objective: COST
+Objective: COST
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+One free row was removed
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+One free row was removed
+One free row was removed
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+One free row was removed
+Constructing initial basis...
+Constructing initial basis...
+Constructing initial basis...
+Constructing initial basis...
+Size of triangular part is 1699
+Size of triangular part is 1699
+Size of triangular part is 1699
+Size of triangular part is 1699
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/3c4mo65.mps'...
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/3c4mo65.mps'...
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/3c4mo65.mps'...
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/3c4mo65.mps'...
+Problem: 3c4mo65
+Problem: 3c4mo65
+Problem: 3c4mo65
+Problem: 3c4mo65
+Objective: COST
+Objective: COST
+Objective: COST
+Objective: COST
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+One free row was removed
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+One free row was removed
+One free row was removed
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+One free row was removed
+Constructing initial basis...
+Constructing initial basis...
+Constructing initial basis...
+Constructing initial basis...
+Size of triangular part is 1698
+Size of triangular part is 1698
+Size of triangular part is 1698
+Size of triangular part is 1698
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/quin69.mps'...
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/quin69.mps'...
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/quin69.mps'...
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/quin69.mps'...
+Problem: quin69
+Problem: quin69
+Problem: quin69
+Problem: quin69
+Objective: COST
+Objective: COST
+Objective: COST
+Objective: COST
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+One free row was removed
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+One free row was removed
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+One free row was removed
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+One free row was removed
+Constructing initial basis...
+Constructing initial basis...
+Constructing initial basis...
+Constructing initial basis...
+Size of triangular part is 1699
+Size of triangular part is 1699
+Size of triangular part is 1699
+Size of triangular part is 1699
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/pa18138.mps'...
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/pa18138.mps'...
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/pa18138.mps'...
+Problem: pa18138
+Problem: pa18138
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/pa18138.mps'...
+Problem: pa18138
+Problem: pa18138
+Objective: COST
+Objective: COST
+Objective: COST
+Objective: COST
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+One free row was removed
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+One free row was removed
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+One free row was removed
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+One free row was removed
+Constructing initial basis...
+Constructing initial basis...
+Constructing initial basis...
+Constructing initial basis...
+Size of triangular part is 1698
+Size of triangular part is 1698
+Size of triangular part is 1698
+Size of triangular part is 1698
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/acg5s74.mps'...
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/acg5s74.mps'...
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/acg5s74.mps'...
+Problem: acg5s74
+Problem: acg5s74
+Problem: acg5s74
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/acg5s74.mps'...
+Problem: acg5s74
+Objective: COST
+Objective: COST
+Objective: COST
+Objective: COST
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+One free row was removed
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+One free row was removed
+Constructing initial basis...
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+One free row was removed
+Constructing initial basis...
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+One free row was removed
+Constructing initial basis...
+Size of triangular part is 1698
+Constructing initial basis...
+Size of triangular part is 1698
+Size of triangular part is 1698
+Size of triangular part is 1698
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/akg78.mps'...
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/akg78.mps'...
+Problem: akg78
+Problem: akg78
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/akg78.mps'...
+Problem: akg78
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/akg78.mps'...
+Problem: akg78
+Objective: COST
+Objective: COST
+Objective: COST
+Objective: COST
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+One free row was removed
+One free row was removed
+Constructing initial basis...
+Constructing initial basis...
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+One free row was removed
+Constructing initial basis...
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+One free row was removed
+Size of triangular part is 1698
+Size of triangular part is 1698
+Constructing initial basis...
+Size of triangular part is 1698
+Size of triangular part is 1698
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/succ73.mps'...
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/succ73.mps'...
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/succ73.mps'...
+Problem: succ73
+Problem: succ73
+Problem: succ73
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/succ73.mps'...
+Problem: succ73
+Objective: COST
+Objective: COST
+Objective: COST
+Objective: COST
+1878 rows, 2712 columns, 10577 non-zeros
+11188 records were read
+One free row was removed
+1878 rows, 2712 columns, 10577 non-zeros
+11188 records were read
+One free row was removed
+1878 rows, 2712 columns, 10577 non-zeros
+11188 records were read
+One free row was removed
+1878 rows, 2712 columns, 10577 non-zeros
+11188 records were read
+One free row was removed
+Constructing initial basis...
+Constructing initial basis...
+Constructing initial basis...
+Constructing initial basis...
+Size of triangular part is 1698
+Size of triangular part is 1698
+Size of triangular part is 1698
+Size of triangular part is 1698
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/glyc_12.mps'...
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/glyc_12.mps'...
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/glyc_12.mps'...
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/glyc_12.mps'...
+Problem: glyc_12
+Problem: glyc_12
+Problem: glyc_12
+Problem: glyc_12
+Objective: COST
+Objective: COST
+Objective: COST
+Objective: COST
+1878 rows, 2712 columns, 10577 non-zeros
+11188 records were read
+One free row was removed
+1878 rows, 2712 columns, 10577 non-zeros
+11188 records were read
+1878 rows, 2712 columns, 10577 non-zeros
+One free row was removed
+11188 records were read
+One free row was removed
+1878 rows, 2712 columns, 10577 non-zeros
+11188 records were read
+One free row was removed
+Constructing initial basis...
+Constructing initial basis...
+Constructing initial basis...
+Constructing initial basis...
+Size of triangular part is 1698
+Size of triangular part is 1698
+Size of triangular part is 1698
+Size of triangular part is 1698
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/appl83.mps'...
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/appl83.mps'...
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/appl83.mps'...
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/appl83.mps'...
+Problem: appl83
+Problem: appl83
+Problem: appl83
+Problem: appl83
+Objective: COST
+Objective: COST
+Objective: COST
+Objective: COST
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+One free row was removed
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+One free row was removed
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+One free row was removed
+Constructing initial basis...
+Constructing initial basis...
+Constructing initial basis...
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+One free row was removed
+Size of triangular part is 1698
+Size of triangular part is 1698
+Constructing initial basis...
+Size of triangular part is 1698
+Size of triangular part is 1698
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/2agpg45.mps'...
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/2agpg45.mps'...
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/2agpg45.mps'...
+Problem: 2agpg45
+Problem: 2agpg45
+Problem: 2agpg45
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/2agpg45.mps'...
+Problem: 2agpg45
+Objective: COST
+Objective: COST
+Objective: COST
+Objective: COST
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+One free row was removed
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+One free row was removed
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+One free row was removed
+Constructing initial basis...
+Constructing initial basis...
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+One free row was removed
+Constructing initial basis...
+Size of triangular part is 1699
+Constructing initial basis...
+Size of triangular part is 1699
+Size of triangular part is 1699
+Size of triangular part is 1699
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/ps16064.mps'...
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/ps16064.mps'...
+Problem: ps16064
+Problem: ps16064
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/ps16064.mps'...
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/ps16064.mps'...
+Problem: ps16064
+Problem: ps16064
+Objective: COST
+Objective: COST
+Objective: COST
+Objective: COST
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+One free row was removed
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+One free row was removed
+Constructing initial basis...
+Constructing initial basis...
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+One free row was removed
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+One free row was removed
+Constructing initial basis...
+Constructing initial basis...
+Size of triangular part is 1698
+Size of triangular part is 1698
+Size of triangular part is 1698
+Size of triangular part is 1698
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/bglyc85.mps'...
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/bglyc85.mps'...
+Problem: bglyc85
+Problem: bglyc85
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/bglyc85.mps'...
+Problem: bglyc85
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/bglyc85.mps'...
+Problem: bglyc85
+Objective: COST
+Objective: COST
+Objective: COST
+Objective: COST
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+One free row was removed
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+One free row was removed
+Constructing initial basis...
+Constructing initial basis...
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+One free row was removed
+Size of triangular part is 1699
+Size of triangular part is 1699
+Constructing initial basis...
+Size of triangular part is 1699
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+One free row was removed
+Constructing initial basis...
+Size of triangular part is 1699
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/12dgr10.mps'...
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/12dgr10.mps'...
+Problem: 12dgr10
+Problem: 12dgr10
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/12dgr10.mps'...
+Problem: 12dgr10
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/12dgr10.mps'...
+Objective: COST
+Objective: COST
+Problem: 12dgr10
+Objective: COST
+Objective: COST
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+One free row was removed
+One free row was removed
+Constructing initial basis...
+Constructing initial basis...
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+One free row was removed
+Size of triangular part is 1698
+Size of triangular part is 1698
+Constructing initial basis...
+Size of triangular part is 1698
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+One free row was removed
+Constructing initial basis...
+Size of triangular part is 1698
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/athr_84.mps'...
+Problem: athr_84
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/athr_84.mps'...
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/athr_84.mps'...
+Problem: athr_84
+Problem: athr_84
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/athr_84.mps'...
+Problem: athr_84
+Objective: COST
+Objective: COST
+Objective: COST
+Objective: COST
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+One free row was removed
+Constructing initial basis...
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+One free row was removed
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+One free row was removed
+Constructing initial basis...
+Constructing initial basis...
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+Size of triangular part is 1699
+One free row was removed
+Constructing initial basis...
+Size of triangular part is 1699
+Size of triangular part is 1699
+Size of triangular part is 1699
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/2tdec61.mps'...
+Problem: 2tdec61
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/2tdec61.mps'...
+Problem: 2tdec61
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/2tdec61.mps'...
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/2tdec61.mps'...
+Problem: 2tdec61
+Problem: 2tdec61
+Objective: COST
+Objective: COST
+Objective: COST
+Objective: COST
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+One free row was removed
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+One free row was removed
+Constructing initial basis...
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+One free row was removed
+Constructing initial basis...
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+One free row was removed
+Constructing initial basis...
+Size of triangular part is 1699
+Constructing initial basis...
+Size of triangular part is 1699
+Size of triangular part is 1699
+Size of triangular part is 1699
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/4hbz69.mps'...
+Problem: 4hbz69
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/4hbz69.mps'...
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/4hbz69.mps'...
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/4hbz69.mps'...
+Problem: 4hbz69
+Problem: 4hbz69
+Problem: 4hbz69
+Objective: COST
+Objective: COST
+Objective: COST
+Objective: COST
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+One free row was removed
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+One free row was removed
+Constructing initial basis...
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+One free row was removed
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+One free row was removed
+Constructing initial basis...
+Constructing initial basis...
+Constructing initial basis...
+Size of triangular part is 1699
+Size of triangular part is 1699
+Size of triangular part is 1699
+Size of triangular part is 1699
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/2mcac58.mps'...
+Problem: 2mcac58
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/2mcac58.mps'...
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/2mcac58.mps'...
+Problem: 2mcac58
+Problem: 2mcac58
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/2mcac58.mps'...
+Problem: 2mcac58
+Objective: COST
+Objective: COST
+Objective: COST
+Objective: COST
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+One free row was removed
+Constructing initial basis...
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+One free row was removed
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+One free row was removed
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+One free row was removed
+Constructing initial basis...
+Constructing initial basis...
+Size of triangular part is 1699
+Constructing initial basis...
+Size of triangular part is 1699
+Size of triangular part is 1699
+Size of triangular part is 1699
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/hdcap15.mps'...
+Problem: hdcap15
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/hdcap15.mps'...
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/hdcap15.mps'...
+Problem: hdcap15
+Problem: hdcap15
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/hdcap15.mps'...
+Problem: hdcap15
+Objective: COST
+Objective: COST
+Objective: COST
+Objective: COST
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+One free row was removed
+Constructing initial basis...
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+One free row was removed
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+One free row was removed
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+One free row was removed
+Constructing initial basis...
+Size of triangular part is 1699
+Constructing initial basis...
+Constructing initial basis...
+Size of triangular part is 1699
+Size of triangular part is 1699
+Size of triangular part is 1699
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/3c2hm63.mps'...
+Problem: 3c2hm63
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/3c2hm63.mps'...
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/3c2hm63.mps'...
+Problem: 3c2hm63
+Problem: 3c2hm63
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/3c2hm63.mps'...
+Problem: 3c2hm63
+Objective: COST
+Objective: COST
+Objective: COST
+Objective: COST
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+One free row was removed
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+One free row was removed
+Constructing initial basis...
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+One free row was removed
+Constructing initial basis...
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+One free row was removed
+Constructing initial basis...
+Size of triangular part is 1698
+Constructing initial basis...
+Size of triangular part is 1698
+Size of triangular part is 1698
+Size of triangular part is 1698
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/hxa18.mps'...
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/hxa18.mps'...
+Problem: hxa18
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/hxa18.mps'...
+Problem: hxa18
+Problem: hxa18
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/hxa18.mps'...
+Problem: hxa18
+Objective: COST
+Objective: COST
+Objective: COST
+Objective: COST
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+One free row was removed
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+One free row was removed
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+Constructing initial basis...
+One free row was removed
+Constructing initial basis...
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+One free row was removed
+Constructing initial basis...
+Constructing initial basis...
+Size of triangular part is 1699
+Size of triangular part is 1699
+Size of triangular part is 1699
+Size of triangular part is 1699
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/leu__20.mps'...
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/leu__20.mps'...
+Problem: leu__20
+Problem: leu__20
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/leu__20.mps'...
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/leu__20.mps'...
+Problem: leu__20
+Problem: leu__20
+Objective: COST
+Objective: COST
+Objective: COST
+Objective: COST
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+One free row was removed
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+One free row was removed
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+One free row was removed
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+One free row was removed
+Constructing initial basis...
+Constructing initial basis...
+Constructing initial basis...
+Constructing initial basis...
+Size of triangular part is 1699
+Size of triangular part is 1699
+Size of triangular part is 1699
+Size of triangular part is 1699
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/4mop70.mps'...
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/4mop70.mps'...
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/4mop70.mps'...
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/4mop70.mps'...
+Problem: 4mop70
+Problem: 4mop70
+Problem: 4mop70
+Problem: 4mop70
+Objective: COST
+Objective: COST
+Objective: COST
+Objective: COST
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+One free row was removed
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+One free row was removed
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+One free row was removed
+One free row was removed
+Constructing initial basis...
+Constructing initial basis...
+Constructing initial basis...
+Constructing initial basis...
+Size of triangular part is 1698
+Size of triangular part is 1698
+Size of triangular part is 1698
+Size of triangular part is 1698
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/1agpe18.mps'...
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/1agpe18.mps'...
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/1agpe18.mps'...
+Problem: 1agpe18
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/1agpe18.mps'...
+Problem: 1agpe18
+Problem: 1agpe18
+Problem: 1agpe18
+Objective: COST
+Objective: COST
+Objective: COST
+Objective: COST
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+One free row was removed
+One free row was removed
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+One free row was removed
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+One free row was removed
+Constructing initial basis...
+Constructing initial basis...
+Constructing initial basis...
+Constructing initial basis...
+Size of triangular part is 1699
+Size of triangular part is 1699
+Size of triangular part is 1699
+Size of triangular part is 1699
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/3mob66.mps'...
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/3mob66.mps'...
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/3mob66.mps'...
+Problem: 3mob66
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/3mob66.mps'...
+Problem: 3mob66
+Problem: 3mob66
+Problem: 3mob66
+Objective: COST
+Objective: COST
+Objective: COST
+Objective: COST
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+One free row was removed
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+One free row was removed
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+One free row was removed
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+One free row was removed
+Constructing initial basis...
+Constructing initial basis...
+Constructing initial basis...
+Constructing initial basis...
+Size of triangular part is 1699
+Size of triangular part is 1699
+Size of triangular part is 1699
+Size of triangular part is 1699
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/pg18051.mps'...
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/pg18051.mps'...
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/pg18051.mps'...
+Problem: pg18051
+Problem: pg18051
+Problem: pg18051
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/pg18051.mps'...
+Problem: pg18051
+Objective: COST
+Objective: COST
+Objective: COST
+Objective: COST
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+One free row was removed
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+One free row was removed
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+One free row was removed
+Constructing initial basis...
+Constructing initial basis...
+Constructing initial basis...
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+One free row was removed
+Constructing initial basis...
+Size of triangular part is 1699
+Size of triangular part is 1699
+Size of triangular part is 1699
+Size of triangular part is 1699
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/glyco13.mps'...
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/glyco13.mps'...
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/glyco13.mps'...
+Problem: glyco13
+Problem: glyco13
+Problem: glyco13
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/glyco13.mps'...
+Problem: glyco13
+Objective: COST
+Objective: COST
+Objective: COST
+Objective: COST
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+One free row was removed
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+One free row was removed
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+One free row was removed
+Constructing initial basis...
+Constructing initial basis...
+Constructing initial basis...
+Size of triangular part is 1699
+Size of triangular part is 1699
+Size of triangular part is 1699
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+One free row was removed
+Constructing initial basis...
+Size of triangular part is 1699
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/ttdce78.mps'...
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/ttdce78.mps'...
+Problem: ttdce78
+Problem: ttdce78
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/ttdce78.mps'...
+Problem: ttdce78
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/ttdce78.mps'...
+Problem: ttdce78
+Objective: COST
+Objective: COST
+Objective: COST
+Objective: COST
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+One free row was removed
+One free row was removed
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+One free row was removed
+Constructing initial basis...
+Constructing initial basis...
+Constructing initial basis...
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+One free row was removed
+Size of triangular part is 1699
+Size of triangular part is 1699
+Size of triangular part is 1699
+Constructing initial basis...
+Size of triangular part is 1699
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/cdpdt88.mps'...
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/cdpdt88.mps'...
+Problem: cdpdt88
+Problem: cdpdt88
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/cdpdt88.mps'...
+Problem: cdpdt88
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/cdpdt88.mps'...
+Problem: cdpdt88
+Objective: COST
+Objective: COST
+Objective: COST
+Objective: COST
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+One free row was removed
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+One free row was removed
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+One free row was removed
+Constructing initial basis...
+Constructing initial basis...
+Constructing initial basis...
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+One free row was removed
+Constructing initial basis...
+Size of triangular part is 1698
+Size of triangular part is 1698
+Size of triangular part is 1698
+Size of triangular part is 1698
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/1agpg27.mps'...
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/1agpg27.mps'...
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/1agpg27.mps'...
+Problem: 1agpg27
+Problem: 1agpg27
+Problem: 1agpg27
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/1agpg27.mps'...
+Problem: 1agpg27
+Objective: COST
+Objective: COST
+Objective: COST
+Objective: COST
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+One free row was removed
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+One free row was removed
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+One free row was removed
+Constructing initial basis...
+Constructing initial basis...
+Constructing initial basis...
+Size of triangular part is 1698
+Size of triangular part is 1698
+Size of triangular part is 1698
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+One free row was removed
+Constructing initial basis...
+Size of triangular part is 1698
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/1odec33.mps'...
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/1odec33.mps'...
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/1odec33.mps'...
+Problem: 1odec33
+Problem: 1odec33
+Problem: 1odec33
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/1odec33.mps'...
+Problem: 1odec33
+Objective: COST
+Objective: COST
+Objective: COST
+Objective: COST
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+One free row was removed
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+One free row was removed
+Constructing initial basis...
+Constructing initial basis...
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+One free row was removed
+Size of triangular part is 1699
+Size of triangular part is 1699
+Constructing initial basis...
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+One free row was removed
+Constructing initial basis...
+Size of triangular part is 1699
+Size of triangular part is 1699
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/2agpe44.mps'...
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/2agpe44.mps'...
+Problem: 2agpe44
+Problem: 2agpe44
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/2agpe44.mps'...
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/2agpe44.mps'...
+Problem: 2agpe44
+Problem: 2agpe44
+Objective: COST
+Objective: COST
+Objective: COST
+Objective: COST
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+One free row was removed
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+One free row was removed
+Constructing initial basis...
+Constructing initial basis...
+Size of triangular part is 1698
+Size of triangular part is 1698
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+One free row was removed
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+One free row was removed
+Constructing initial basis...
+Constructing initial basis...
+Size of triangular part is 1698
+Size of triangular part is 1698
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/ttdce79.mps'...
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/ttdce79.mps'...
+Problem: ttdce79
+Problem: ttdce79
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/ttdce79.mps'...
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/ttdce79.mps'...
+Problem: ttdce79
+Problem: ttdce79
+Objective: COST
+Objective: COST
+Objective: COST
+Objective: COST
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+One free row was removed
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+One free row was removed
+Constructing initial basis...
+Constructing initial basis...
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+One free row was removed
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+One free row was removed
+Size of triangular part is 1699
+Size of triangular part is 1699
+Constructing initial basis...
+Constructing initial basis...
+Size of triangular part is 1699
+Size of triangular part is 1699
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/pa18037.mps'...
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/pa18037.mps'...
+Problem: pa18037
+Problem: pa18037
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/pa18037.mps'...
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/pa18037.mps'...
+Problem: pa18037
+Problem: pa18037
+Objective: COST
+Objective: COST
+Objective: COST
+Objective: COST
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+One free row was removed
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+One free row was removed
+Constructing initial basis...
+Constructing initial basis...
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+One free row was removed
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+One free row was removed
+Constructing initial basis...
+Constructing initial basis...
+Size of triangular part is 1698
+Size of triangular part is 1698
+Size of triangular part is 1698
+Size of triangular part is 1698
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/2agpe43.mps'...
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/2agpe43.mps'...
+Problem: 2agpe43
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/2agpe43.mps'...
+Problem: 2agpe43
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/2agpe43.mps'...
+Problem: 2agpe43
+Problem: 2agpe43
+Objective: COST
+Objective: COST
+Objective: COST
+Objective: COST
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+One free row was removed
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+One free row was removed
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+One free row was removed
+Constructing initial basis...
+Constructing initial basis...
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+One free row was removed
+Constructing initial basis...
+Constructing initial basis...
+Size of triangular part is 1698
+Size of triangular part is 1698
+Size of triangular part is 1698
+Size of triangular part is 1698
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/2amsa52.mps'...
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/2amsa52.mps'...
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/2amsa52.mps'...
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/2amsa52.mps'...
+Problem: 2amsa52
+Problem: 2amsa52
+Problem: 2amsa52
+Problem: 2amsa52
+Objective: COST
+Objective: COST
+Objective: COST
+Objective: COST
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+One free row was removed
+1878 rows, 2713 columns, 10578 non-zeros
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+One free row was removed
+11190 records were read
+One free row was removed
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+One free row was removed
+Constructing initial basis...
+Constructing initial basis...
+Constructing initial basis...
+Constructing initial basis...
+Size of triangular part is 1698
+Size of triangular part is 1698
+Size of triangular part is 1698
+Size of triangular part is 1698
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/23dhm38.mps'...
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/23dhm38.mps'...
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/23dhm38.mps'...
+Problem: 23dhm38
+Problem: 23dhm38
+Problem: 23dhm38
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/23dhm38.mps'...
+Problem: 23dhm38
+Objective: COST
+Objective: COST
+Objective: COST
+Objective: COST
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+One free row was removed
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+1878 rows, 2713 columns, 10578 non-zeros
+One free row was removed
+11190 records were read
+One free row was removed
+Constructing initial basis...
+1878 rows, 2713 columns, 10578 non-zeros
+Constructing initial basis...
+11190 records were read
+One free row was removed
+Constructing initial basis...
+Constructing initial basis...
+Size of triangular part is 1699
+Size of triangular part is 1699
+Size of triangular part is 1699
+Size of triangular part is 1699
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/12dgr15.mps'...
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/12dgr15.mps'...
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/12dgr15.mps'...
+Problem: 12dgr15
+Problem: 12dgr15
+Problem: 12dgr15
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/12dgr15.mps'...
+Problem: 12dgr15
+Objective: COST
+Objective: COST
+Objective: COST
+Objective: COST
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+One free row was removed
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+One free row was removed
+One free row was removed
+Constructing initial basis...
+Constructing initial basis...
+Constructing initial basis...
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+One free row was removed
+Constructing initial basis...
+Size of triangular part is 1698
+Size of triangular part is 1698
+Size of triangular part is 1698
+Size of triangular part is 1698
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/pe14040.mps'...
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/pe14040.mps'...
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/pe14040.mps'...
+Problem: pe14040
+Problem: pe14040
+Problem: pe14040
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/pe14040.mps'...
+Problem: pe14040
+Objective: COST
+Objective: COST
+Objective: COST
+Objective: COST
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+One free row was removed
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+One free row was removed
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+One free row was removed
+Constructing initial basis...
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+One free row was removed
+Constructing initial basis...
+Constructing initial basis...
+Constructing initial basis...
+Size of triangular part is 1698
+Size of triangular part is 1698
+Size of triangular part is 1698
+Size of triangular part is 1698
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/pgp1859.mps'...
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/pgp1859.mps'...
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/pgp1859.mps'...
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/pgp1859.mps'...
+Problem: pgp1859
+Problem: pgp1859
+Problem: pgp1859
+Problem: pgp1859
+Objective: COST
+Objective: COST
+Objective: COST
+Objective: COST
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+One free row was removed
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+One free row was removed
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+One free row was removed
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+One free row was removed
+Constructing initial basis...
+Constructing initial basis...
+Constructing initial basis...
+Constructing initial basis...
+Size of triangular part is 1698
+Size of triangular part is 1698
+Size of triangular part is 1698
+Size of triangular part is 1698
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/ggptr97.mps'...
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/ggptr97.mps'...
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/ggptr97.mps'...
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/ggptr97.mps'...
+Problem: ggptr97
+Problem: ggptr97
+Problem: ggptr97
+Problem: ggptr97
+Objective: COST
+Objective: COST
+Objective: COST
+Objective: COST
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+One free row was removed
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+One free row was removed
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+One free row was removed
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+One free row was removed
+Constructing initial basis...
+Constructing initial basis...
+Constructing initial basis...
+Constructing initial basis...
+Size of triangular part is 1698
+Size of triangular part is 1698
+Size of triangular part is 1698
+Size of triangular part is 1698
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/mal__22.mps'...
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/mal__22.mps'...
+Problem: mal__22
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/mal__22.mps'...
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/mal__22.mps'...
+Problem: mal__22
+Problem: mal__22
+Problem: mal__22
+Objective: COST
+Objective: COST
+Objective: COST
+Objective: COST
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+One free row was removed
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+One free row was removed
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+One free row was removed
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+Constructing initial basis...
+Constructing initial basis...
+Constructing initial basis...
+One free row was removed
+Constructing initial basis...
+Size of triangular part is 1699
+Size of triangular part is 1699
+Size of triangular part is 1699
+Size of triangular part is 1699
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/1agpe19.mps'...
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/1agpe19.mps'...
+Problem: 1agpe19
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/1agpe19.mps'...
+Problem: 1agpe19
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/1agpe19.mps'...
+Problem: 1agpe19
+Problem: 1agpe19
+Objective: COST
+Objective: COST
+Objective: COST
+Objective: COST
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+One free row was removed
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+One free row was removed
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+One free row was removed
+Constructing initial basis...
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+Constructing initial basis...
+One free row was removed
+Constructing initial basis...
+Constructing initial basis...
+Size of triangular part is 1698
+Size of triangular part is 1698
+Size of triangular part is 1698
+Size of triangular part is 1698
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/pa14033.mps'...
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/pa14033.mps'...
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/pa14033.mps'...
+Problem: pa14033
+Problem: pa14033
+Problem: pa14033
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/pa14033.mps'...
+Problem: pa14033
+Objective: COST
+Objective: COST
+Objective: COST
+Objective: COST
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+One free row was removed
+1878 rows, 2713 columns, 10578 non-zeros
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+One free row was removed
+11190 records were read
+One free row was removed
+Constructing initial basis...
+Constructing initial basis...
+Constructing initial basis...
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+One free row was removed
+Size of triangular part is 1698
+Constructing initial basis...
+Size of triangular part is 1698
+Size of triangular part is 1698
+Size of triangular part is 1698
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/pgp1656.mps'...
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/pgp1656.mps'...
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/pgp1656.mps'...
+Problem: pgp1656
+Problem: pgp1656
+Problem: pgp1656
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/pgp1656.mps'...
+Problem: pgp1656
+Objective: COST
+Objective: COST
+Objective: COST
+Objective: COST
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+One free row was removed
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+One free row was removed
+Constructing initial basis...
+Constructing initial basis...
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+One free row was removed
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+One free row was removed
+Constructing initial basis...
+Constructing initial basis...
+Size of triangular part is 1699
+Size of triangular part is 1699
+Size of triangular part is 1699
+Size of triangular part is 1699
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/s7p70.mps'...
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/s7p70.mps'...
+Problem: s7p70
+Problem: s7p70
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/s7p70.mps'...
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/s7p70.mps'...
+Problem: s7p70
+Problem: s7p70
+Objective: COST
+Objective: COST
+Objective: COST
+Objective: COST
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+One free row was removed
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+One free row was removed
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+One free row was removed
+Constructing initial basis...
+Constructing initial basis...
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+One free row was removed
+Constructing initial basis...
+Constructing initial basis...
+Size of triangular part is 1698
+Size of triangular part is 1698
+Size of triangular part is 1698
+Size of triangular part is 1698
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/lipid21.mps'...
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/lipid21.mps'...
+Problem: lipid21
+Problem: lipid21
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/lipid21.mps'...
+Problem: lipid21
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/lipid21.mps'...
+Problem: lipid21
+Objective: COST
+Objective: COST
+Objective: COST
+Objective: COST
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+One free row was removed
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+One free row was removed
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+One free row was removed
+Constructing initial basis...
+Constructing initial basis...
+Constructing initial basis...
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+One free row was removed
+Size of triangular part is 1698
+Constructing initial basis...
+Size of triangular part is 1698
+Size of triangular part is 1698
+Size of triangular part is 1698
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/ocdca26.mps'...
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/ocdca26.mps'...
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/ocdca26.mps'...
+Problem: ocdca26
+Problem: ocdca26
+Problem: ocdca26
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/ocdca26.mps'...
+Problem: ocdca26
+Objective: COST
+Objective: COST
+Objective: COST
+Objective: COST
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+One free row was removed
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+One free row was removed
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+One free row was removed
+Constructing initial basis...
+Constructing initial basis...
+Constructing initial basis...
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+One free row was removed
+Constructing initial basis...
+Size of triangular part is 1699
+Size of triangular part is 1699
+Size of triangular part is 1699
+Size of triangular part is 1699
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/2agpg47.mps'...
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/2agpg47.mps'...
+Problem: 2agpg47
+Problem: 2agpg47
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/2agpg47.mps'...
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/2agpg47.mps'...
+Problem: 2agpg47
+Problem: 2agpg47
+Objective: COST
+Objective: COST
+Objective: COST
+Objective: COST
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+One free row was removed
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+One free row was removed
+Constructing initial basis...
+Constructing initial basis...
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+One free row was removed
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+One free row was removed
+Constructing initial basis...
+Constructing initial basis...
+Size of triangular part is 1698
+Size of triangular part is 1698
+Size of triangular part is 1698
+Size of triangular part is 1698
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/2hdec56.mps'...
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/2hdec56.mps'...
+Problem: 2hdec56
+Problem: 2hdec56
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/2hdec56.mps'...
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/2hdec56.mps'...
+Problem: 2hdec56
+Problem: 2hdec56
+Objective: COST
+Objective: COST
+Objective: COST
+Objective: COST
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+One free row was removed
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+One free row was removed
+Constructing initial basis...
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+One free row was removed
+Constructing initial basis...
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+One free row was removed
+Constructing initial basis...
+Constructing initial basis...
+Size of triangular part is 1698
+Size of triangular part is 1698
+Size of triangular part is 1698
+Size of triangular part is 1698
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/1agpg25.mps'...
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/1agpg25.mps'...
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/1agpg25.mps'...
+Problem: 1agpg25
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/1agpg25.mps'...
+Problem: 1agpg25
+Problem: 1agpg25
+Problem: 1agpg25
+Objective: COST
+Objective: COST
+Objective: COST
+Objective: COST
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+One free row was removed
+One free row was removed
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+One free row was removed
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+One free row was removed
+Constructing initial basis...
+Constructing initial basis...
+Constructing initial basis...
+Constructing initial basis...
+Size of triangular part is 1699
+Size of triangular part is 1699
+Size of triangular part is 1699
+Size of triangular part is 1699
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/4abut68.mps'...
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/4abut68.mps'...
+Problem: 4abut68
+Problem: 4abut68
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/4abut68.mps'...
+Problem: 4abut68
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/4abut68.mps'...
+Problem: 4abut68
+Objective: COST
+Objective: COST
+Objective: COST
+Objective: COST
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+One free row was removed
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+One free row was removed
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+One free row was removed
+Constructing initial basis...
+Constructing initial basis...
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+One free row was removed
+Constructing initial basis...
+Constructing initial basis...
+Size of triangular part is 1698
+Size of triangular part is 1698
+Size of triangular part is 1698
+Size of triangular part is 1698
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/2odec59.mps'...
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/2odec59.mps'...
+Problem: 2odec59
+Problem: 2odec59
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/2odec59.mps'...
+Problem: 2odec59
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/2odec59.mps'...
+Problem: 2odec59
+Objective: COST
+Objective: COST
+Objective: COST
+Objective: COST
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+One free row was removed
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+One free row was removed
+Constructing initial basis...
+Constructing initial basis...
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+One free row was removed
+Constructing initial basis...
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+One free row was removed
+Size of triangular part is 1698
+Size of triangular part is 1698
+Constructing initial basis...
+Size of triangular part is 1698
+Size of triangular part is 1698
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/2ddec54.mps'...
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/2ddec54.mps'...
+Problem: 2ddec54
+Problem: 2ddec54
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/2ddec54.mps'...
+Problem: 2ddec54
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/2ddec54.mps'...
+Problem: 2ddec54
+Objective: COST
+Objective: COST
+Objective: COST
+Objective: COST
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+One free row was removed
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+One free row was removed
+Constructing initial basis...
+Constructing initial basis...
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+One free row was removed
+Constructing initial basis...
+1878 rows, 2713 columns, 10578 non-zeros
+Size of triangular part is 1698
+11190 records were read
+One free row was removed
+Size of triangular part is 1698
+Constructing initial basis...
+Size of triangular part is 1698
+Size of triangular part is 1698
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/dha92.mps'...
+Problem: dha92
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/dha92.mps'...
+Problem: dha92
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/dha92.mps'...
+Problem: dha92
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/dha92.mps'...
+Problem: dha92
+Objective: COST
+Objective: COST
+Objective: COST
+Objective: COST
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+One free row was removed
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+One free row was removed
+Constructing initial basis...
+Constructing initial basis...
+Size of triangular part is 1698
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+One free row was removed
+Size of triangular part is 1698
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+One free row was removed
+Constructing initial basis...
+Constructing initial basis...
+Size of triangular part is 1698
+Size of triangular part is 1698
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/1agpg26.mps'...
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/1agpg26.mps'...
+Problem: 1agpg26
+Problem: 1agpg26
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/1agpg26.mps'...
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/1agpg26.mps'...
+Problem: 1agpg26
+Problem: 1agpg26
+Objective: COST
+Objective: COST
+Objective: COST
+Objective: COST
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+One free row was removed
+Constructing initial basis...
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+One free row was removed
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+One free row was removed
+Constructing initial basis...
+Size of triangular part is 1698
+Constructing initial basis...
+Size of triangular part is 1698
+Size of triangular part is 1698
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+One free row was removed
+Constructing initial basis...
+Size of triangular part is 1698
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/pa14134.mps'...
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/pa14134.mps'...
+Problem: pa14134
+Problem: pa14134
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/pa14134.mps'...
+Problem: pa14134
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/pa14134.mps'...
+Problem: pa14134
+Objective: COST
+Objective: COST
+Objective: COST
+Objective: COST
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+One free row was removed
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+One free row was removed
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+One free row was removed
+Constructing initial basis...
+Constructing initial basis...
+Constructing initial basis...
+Size of triangular part is 1698
+Size of triangular part is 1698
+Size of triangular part is 1698
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+One free row was removed
+Constructing initial basis...
+Size of triangular part is 1698
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/ppa60.mps'...
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/ppa60.mps'...
+Problem: ppa60
+Problem: ppa60
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/ppa60.mps'...
+Problem: ppa60
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/ppa60.mps'...
+Problem: ppa60
+Objective: COST
+Objective: COST
+Objective: COST
+Objective: COST
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+One free row was removed
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+One free row was removed
+Constructing initial basis...
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+One free row was removed
+Constructing initial basis...
+Constructing initial basis...
+Size of triangular part is 1698
+Size of triangular part is 1698
+Size of triangular part is 1698
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+One free row was removed
+Constructing initial basis...
+Size of triangular part is 1698
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/pe16143.mps'...
+Problem: pe16143
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/pe16143.mps'...
+Problem: pe16143
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/pe16143.mps'...
+Problem: pe16143
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/pe16143.mps'...
+Objective: COST
+Problem: pe16143
+Objective: COST
+Objective: COST
+Objective: COST
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+One free row was removed
+Constructing initial basis...
+Size of triangular part is 1698
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+One free row was removed
+Constructing initial basis...
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+One free row was removed
+Constructing initial basis...
+Size of triangular part is 1698
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+One free row was removed
+Size of triangular part is 1698
+Constructing initial basis...
+Size of triangular part is 1698
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/ps18167.mps'...
+Problem: ps18167
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/ps18167.mps'...
+Problem: ps18167
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/ps18167.mps'...
+Problem: ps18167
+Objective: COST
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/ps18167.mps'...
+Problem: ps18167
+Objective: COST
+Objective: COST
+Objective: COST
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+One free row was removed
+Constructing initial basis...
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+One free row was removed
+Size of triangular part is 1698
+Constructing initial basis...
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+One free row was removed
+Size of triangular part is 1698
+Constructing initial basis...
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+One free row was removed
+Size of triangular part is 1698
+Constructing initial basis...
+Size of triangular part is 1698
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/1agpe21.mps'...
+Problem: 1agpe21
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/1agpe21.mps'...
+Problem: 1agpe21
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/1agpe21.mps'...
+Problem: 1agpe21
+Objective: COST
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/1agpe21.mps'...
+Problem: 1agpe21
+Objective: COST
+Objective: COST
+Objective: COST
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+One free row was removed
+Constructing initial basis...
+Size of triangular part is 1698
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+One free row was removed
+Constructing initial basis...
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+One free row was removed
+Size of triangular part is 1698
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+One free row was removed
+Constructing initial basis...
+Constructing initial basis...
+Size of triangular part is 1698
+Size of triangular part is 1698
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/12dgr16.mps'...
+Problem: 12dgr16
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/12dgr16.mps'...
+Problem: 12dgr16
+Objective: COST
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/12dgr16.mps'...
+Problem: 12dgr16
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/12dgr16.mps'...
+Problem: 12dgr16
+Objective: COST
+Objective: COST
+Objective: COST
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+One free row was removed
+Constructing initial basis...
+Size of triangular part is 1698
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+One free row was removed
+Constructing initial basis...
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+Size of triangular part is 1698
+One free row was removed
+Constructing initial basis...
+Size of triangular part is 1698
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+One free row was removed
+Constructing initial basis...
+Size of triangular part is 1698
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/2agpg50.mps'...
+Problem: 2agpg50
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/2agpg50.mps'...
+Problem: 2agpg50
+Objective: COST
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/2agpg50.mps'...
+Problem: 2agpg50
+Objective: COST
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/2agpg50.mps'...
+Problem: 2agpg50
+Objective: COST
+Objective: COST
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+One free row was removed
+Constructing initial basis...
+Size of triangular part is 1698
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+One free row was removed
+Constructing initial basis...
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+One free row was removed
+Size of triangular part is 1698
+Constructing initial basis...
+Size of triangular part is 1698
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+One free row was removed
+Constructing initial basis...
+Size of triangular part is 1698
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/hdcea16.mps'...
+Problem: hdcea16
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/hdcea16.mps'...
+Problem: hdcea16
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/hdcea16.mps'...
+Problem: hdcea16
+Objective: COST
+Objective: COST
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/hdcea16.mps'...
+Problem: hdcea16
+Objective: COST
+Objective: COST
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+One free row was removed
+Constructing initial basis...
+Size of triangular part is 1699
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+One free row was removed
+Constructing initial basis...
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+One free row was removed
+Size of triangular part is 1699
+Constructing initial basis...
+Size of triangular part is 1699
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+One free row was removed
+Constructing initial basis...
+Size of triangular part is 1699
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/pg16049.mps'...
+Problem: pg16049
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/pg16049.mps'...
+Problem: pg16049
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/pg16049.mps'...
+Problem: pg16049
+Objective: COST
+Objective: COST
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/pg16049.mps'...
+Problem: pg16049
+Objective: COST
+Objective: COST
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+One free row was removed
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+One free row was removed
+Constructing initial basis...
+Constructing initial basis...
+Size of triangular part is 1699
+Size of triangular part is 1699
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+One free row was removed
+Constructing initial basis...
+Size of triangular part is 1699
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+One free row was removed
+Constructing initial basis...
+Size of triangular part is 1699
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/2aobu53.mps'...
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/2aobu53.mps'...
+Problem: 2aobu53
+Problem: 2aobu53
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/2aobu53.mps'...
+Problem: 2aobu53
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/2aobu53.mps'...
+Problem: 2aobu53
+Objective: COST
+Objective: COST
+Objective: COST
+Objective: COST
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+One free row was removed
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+One free row was removed
+Constructing initial basis...
+Constructing initial basis...
+Size of triangular part is 1698
+Size of triangular part is 1698
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+One free row was removed
+Constructing initial basis...
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+One free row was removed
+Size of triangular part is 1698
+Constructing initial basis...
+Size of triangular part is 1698
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/2hdec55.mps'...
+Problem: 2hdec55
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/2hdec55.mps'...
+Problem: 2hdec55
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/2hdec55.mps'...
+Problem: 2hdec55
+Objective: COST
+Objective: COST
+Objective: COST
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/2hdec55.mps'...
+Problem: 2hdec55
+Objective: COST
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+One free row was removed
+Constructing initial basis...
+Size of triangular part is 1698
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+One free row was removed
+Constructing initial basis...
+Size of triangular part is 1698
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+One free row was removed
+Constructing initial basis...
+Size of triangular part is 1698
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+One free row was removed
+Constructing initial basis...
+Size of triangular part is 1698
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/pe16042.mps'...
+Problem: pe16042
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/pe16042.mps'...
+Problem: pe16042
+Objective: COST
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/pe16042.mps'...
+Problem: pe16042
+Objective: COST
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/pe16042.mps'...
+Problem: pe16042
+Objective: COST
+Objective: COST
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+One free row was removed
+Constructing initial basis...
+Size of triangular part is 1698
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+One free row was removed
+Constructing initial basis...
+Size of triangular part is 1698
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+One free row was removed
+Constructing initial basis...
+Size of triangular part is 1698
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+One free row was removed
+Constructing initial basis...
+Size of triangular part is 1698
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/ocdce29.mps'...
+Problem: ocdce29
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/ocdce29.mps'...
+Problem: ocdce29
+Objective: COST
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/ocdce29.mps'...
+Problem: ocdce29
+Objective: COST
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/ocdce29.mps'...
+Problem: ocdce29
+Objective: COST
+Objective: COST
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+One free row was removed
+Constructing initial basis...
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+One free row was removed
+Size of triangular part is 1699
+Constructing initial basis...
+Size of triangular part is 1699
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+One free row was removed
+Constructing initial basis...
+Size of triangular part is 1699
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+One free row was removed
+Constructing initial basis...
+Size of triangular part is 1699
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/pa16035.mps'...
+Problem: pa16035
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/pa16035.mps'...
+Problem: pa16035
+Objective: COST
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/pa16035.mps'...
+Problem: pa16035
+Objective: COST
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/pa16035.mps'...
+Problem: pa16035
+Objective: COST
+Objective: COST
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+One free row was removed
+Constructing initial basis...
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+One free row was removed
+Size of triangular part is 1698
+Constructing initial basis...
+Size of triangular part is 1698
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+One free row was removed
+Constructing initial basis...
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+One free row was removed
+Size of triangular part is 1698
+Constructing initial basis...
+Size of triangular part is 1698
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/octap31.mps'...
+Problem: octap31
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/octap31.mps'...
+Problem: octap31
+Objective: COST
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/octap31.mps'...
+Problem: octap31
+Objective: COST
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/octap31.mps'...
+Problem: octap31
+Objective: COST
+Objective: COST
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+One free row was removed
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+One free row was removed
+Constructing initial basis...
+Constructing initial basis...
+Size of triangular part is 1699
+Size of triangular part is 1699
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+One free row was removed
+Constructing initial basis...
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+One free row was removed
+Size of triangular part is 1699
+Constructing initial basis...
+Size of triangular part is 1699
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/acser76.mps'...
+Problem: acser76
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/acser76.mps'...
+Problem: acser76
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/acser76.mps'...
+Objective: COST
+Problem: acser76
+Objective: COST
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/acser76.mps'...
+Problem: acser76
+Objective: COST
+Objective: COST
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+One free row was removed
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+One free row was removed
+Constructing initial basis...
+Constructing initial basis...
+Size of triangular part is 1698
+Size of triangular part is 1698
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+One free row was removed
+Constructing initial basis...
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+One free row was removed
+Size of triangular part is 1698
+Constructing initial basis...
+Size of triangular part is 1698
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/2agpg48.mps'...
+Problem: 2agpg48
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/2agpg48.mps'...
+Problem: 2agpg48
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/2agpg48.mps'...
+Problem: 2agpg48
+Objective: COST
+Objective: COST
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/2agpg48.mps'...
+Problem: 2agpg48
+Objective: COST
+Objective: COST
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+One free row was removed
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+One free row was removed
+Constructing initial basis...
+Constructing initial basis...
+Size of triangular part is 1698
+Size of triangular part is 1698
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+One free row was removed
+Constructing initial basis...
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+One free row was removed
+Size of triangular part is 1698
+Constructing initial basis...
+Size of triangular part is 1698
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/pgp1455.mps'...
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/pgp1455.mps'...
+Problem: pgp1455
+Problem: pgp1455
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/pgp1455.mps'...
+Problem: pgp1455
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/pgp1455.mps'...
+Problem: pgp1455
+Objective: COST
+Objective: COST
+Objective: COST
+Objective: COST
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+One free row was removed
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+One free row was removed
+Constructing initial basis...
+Constructing initial basis...
+Size of triangular part is 1699
+Size of triangular part is 1699
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+One free row was removed
+Constructing initial basis...
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+One free row was removed
+Constructing initial basis...
+Size of triangular part is 1699
+Size of triangular part is 1699
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/pe14141.mps'...
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/pe14141.mps'...
+Problem: pe14141
+Problem: pe14141
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/pe14141.mps'...
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/pe14141.mps'...
+Problem: pe14141
+Problem: pe14141
+Objective: COST
+Objective: COST
+Objective: COST
+Objective: COST
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+One free row was removed
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+One free row was removed
+Constructing initial basis...
+Constructing initial basis...
+Size of triangular part is 1698
+Size of triangular part is 1698
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+One free row was removed
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+One free row was removed
+Constructing initial basis...
+Constructing initial basis...
+Size of triangular part is 1698
+Size of triangular part is 1698
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/ghb98.mps'...
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/ghb98.mps'...
+Problem: ghb98
+Problem: ghb98
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/ghb98.mps'...
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/ghb98.mps'...
+Problem: ghb98
+Problem: ghb98
+Objective: COST
+Objective: COST
+Objective: COST
+Objective: COST
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+One free row was removed
+One free row was removed
+Constructing initial basis...
+Constructing initial basis...
+Size of triangular part is 1698
+Size of triangular part is 1698
+1878 rows, 2713 columns, 10578 non-zeros
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+One free row was removed
+11190 records were read
+One free row was removed
+Constructing initial basis...
+Constructing initial basis...
+Size of triangular part is 1698
+Size of triangular part is 1698
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/etoh93.mps'...
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/etoh93.mps'...
+Problem: etoh93
+Problem: etoh93
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/etoh93.mps'...
+Problem: etoh93
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/etoh93.mps'...
+Problem: etoh93
+Objective: COST
+Objective: COST
+Objective: COST
+Objective: COST
+1878 rows, 2712 columns, 10577 non-zeros
+11188 records were read
+One free row was removed
+1878 rows, 2712 columns, 10577 non-zeros
+11188 records were read
+One free row was removed
+Constructing initial basis...
+Constructing initial basis...
+1878 rows, 2712 columns, 10577 non-zeros
+11188 records were read
+One free row was removed
+1878 rows, 2712 columns, 10577 non-zeros
+11188 records were read
+One free row was removed
+Size of triangular part is 1698
+Constructing initial basis...
+Size of triangular part is 1698
+Constructing initial basis...
+Size of triangular part is 1698
+Size of triangular part is 1698
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/3c3hm64.mps'...
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/3c3hm64.mps'...
+Problem: 3c3hm64
+Problem: 3c3hm64
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/3c3hm64.mps'...
+Problem: 3c3hm64
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/3c3hm64.mps'...
+Problem: 3c3hm64
+Objective: COST
+Objective: COST
+Objective: COST
+Objective: COST
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+One free row was removed
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+One free row was removed
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+One free row was removed
+Constructing initial basis...
+Constructing initial basis...
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+One free row was removed
+Constructing initial basis...
+Constructing initial basis...
+Size of triangular part is 1698
+Size of triangular part is 1698
+Size of triangular part is 1698
+Size of triangular part is 1698
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/cdpdd86.mps'...
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/cdpdd86.mps'...
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/cdpdd86.mps'...
+Problem: cdpdd86
+Problem: cdpdd86
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/cdpdd86.mps'...
+Problem: cdpdd86
+Problem: cdpdd86
+Objective: COST
+Objective: COST
+Objective: COST
+Objective: COST
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+One free row was removed
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+One free row was removed
+1878 rows, 2713 columns, 10578 non-zeros
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+11190 records were read
+One free row was removed
+One free row was removed
+Constructing initial basis...
+Constructing initial basis...
+Constructing initial basis...
+Constructing initial basis...
+Size of triangular part is 1698
+Size of triangular part is 1698
+Size of triangular part is 1698
+Size of triangular part is 1698
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/acglu75.mps'...
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/acglu75.mps'...
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/acglu75.mps'...
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/acglu75.mps'...
+Problem: acglu75
+Problem: acglu75
+Problem: acglu75
+Problem: acglu75
+Objective: COST
+Objective: COST
+Objective: COST
+Objective: COST
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+One free row was removed
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+One free row was removed
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+One free row was removed
+Constructing initial basis...
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+One free row was removed
+Constructing initial basis...
+Constructing initial basis...
+Constructing initial basis...
+Size of triangular part is 1698
+Size of triangular part is 1698
+Size of triangular part is 1698
+Size of triangular part is 1698
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/fum95.mps'...
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/fum95.mps'...
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/fum95.mps'...
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/fum95.mps'...
+Problem: fum95
+Problem: fum95
+Problem: fum95
+Problem: fum95
+Objective: COST
+Objective: COST
+Objective: COST
+Objective: COST
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+One free row was removed
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+One free row was removed
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+One free row was removed
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+One free row was removed
+Constructing initial basis...
+Constructing initial basis...
+Constructing initial basis...
+Constructing initial basis...
+Size of triangular part is 1699
+Size of triangular part is 1699
+Size of triangular part is 1699
+Size of triangular part is 1699
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/12dgr14.mps'...
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/12dgr14.mps'...
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/12dgr14.mps'...
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/12dgr14.mps'...
+Problem: 12dgr14
+Problem: 12dgr14
+Problem: 12dgr14
+Problem: 12dgr14
+Objective: COST
+Objective: COST
+Objective: COST
+Objective: COST
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+One free row was removed
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+One free row was removed
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+One free row was removed
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+One free row was removed
+Constructing initial basis...
+Constructing initial basis...
+Constructing initial basis...
+Constructing initial basis...
+Size of triangular part is 1698
+Size of triangular part is 1698
+Size of triangular part is 1698
+Size of triangular part is 1698
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/23ddh37.mps'...
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/23ddh37.mps'...
+Problem: 23ddh37
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/23ddh37.mps'...
+Problem: 23ddh37
+Problem: 23ddh37
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/23ddh37.mps'...
+Problem: 23ddh37
+Objective: COST
+Objective: COST
+Objective: COST
+Objective: COST
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+One free row was removed
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+One free row was removed
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+One free row was removed
+Constructing initial basis...
+Constructing initial basis...
+Constructing initial basis...
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+One free row was removed
+Size of triangular part is 1698
+Constructing initial basis...
+Size of triangular part is 1698
+Size of triangular part is 1698
+Size of triangular part is 1698
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/tre75.mps'...
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/tre75.mps'...
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/tre75.mps'...
+Problem: tre75
+Problem: tre75
+Problem: tre75
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/tre75.mps'...
+Problem: tre75
+Objective: COST
+Objective: COST
+Objective: COST
+Objective: COST
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+One free row was removed
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+One free row was removed
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+One free row was removed
+Constructing initial basis...
+Constructing initial basis...
+Constructing initial basis...
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+One free row was removed
+Size of triangular part is 1699
+Size of triangular part is 1699
+Constructing initial basis...
+Size of triangular part is 1699
+Size of triangular part is 1699
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/1agpg28.mps'...
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/1agpg28.mps'...
+Problem: 1agpg28
+Problem: 1agpg28
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/1agpg28.mps'...
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/1agpg28.mps'...
+Problem: 1agpg28
+Problem: 1agpg28
+Objective: COST
+Objective: COST
+Objective: COST
+Objective: COST
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+One free row was removed
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+One free row was removed
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+One free row was removed
+Constructing initial basis...
+Constructing initial basis...
+Constructing initial basis...
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+One free row was removed
+Size of triangular part is 1699
+Constructing initial basis...
+Size of triangular part is 1699
+Size of triangular part is 1699
+Size of triangular part is 1699
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/ala__80.mps'...
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/ala__80.mps'...
+Problem: ala__80
+Problem: ala__80
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/ala__80.mps'...
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/ala__80.mps'...
+Problem: ala__80
+Problem: ala__80
+Objective: COST
+Objective: COST
+Objective: COST
+Objective: COST
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+One free row was removed
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+One free row was removed
+Constructing initial basis...
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+One free row was removed
+Constructing initial basis...
+Constructing initial basis...
+Size of triangular part is 1699
+Size of triangular part is 1699
+Size of triangular part is 1699
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+One free row was removed
+Constructing initial basis...
+Size of triangular part is 1699
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/2agpe41.mps'...
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/2agpe41.mps'...
+Problem: 2agpe41
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/2agpe41.mps'...
+Problem: 2agpe41
+Problem: 2agpe41
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/2agpe41.mps'...
+Problem: 2agpe41
+Objective: COST
+Objective: COST
+Objective: COST
+Objective: COST
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+One free row was removed
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+One free row was removed
+Constructing initial basis...
+Constructing initial basis...
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+One free row was removed
+Size of triangular part is 1698
+Size of triangular part is 1698
+Constructing initial basis...
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+One free row was removed
+Constructing initial basis...
+Size of triangular part is 1698
+Size of triangular part is 1698
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/2agpe39.mps'...
+Problem: 2agpe39
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/2agpe39.mps'...
+Problem: 2agpe39
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/2agpe39.mps'...
+Problem: 2agpe39
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/2agpe39.mps'...
+Problem: 2agpe39
+Objective: COST
+Objective: COST
+Objective: COST
+Objective: COST
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+One free row was removed
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+One free row was removed
+Constructing initial basis...
+Constructing initial basis...
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+One free row was removed
+Size of triangular part is 1699
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+One free row was removed
+Constructing initial basis...
+Size of triangular part is 1699
+Constructing initial basis...
+Size of triangular part is 1699
+Size of triangular part is 1699
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/12dgr11.mps'...
+Problem: 12dgr11
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/12dgr11.mps'...
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/12dgr11.mps'...
+Problem: 12dgr11
+Problem: 12dgr11
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/12dgr11.mps'...
+Problem: 12dgr11
+Objective: COST
+Objective: COST
+Objective: COST
+Objective: COST
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+One free row was removed
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+One free row was removed
+Constructing initial basis...
+Constructing initial basis...
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+One free row was removed
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+One free row was removed
+Constructing initial basis...
+Size of triangular part is 1698
+Constructing initial basis...
+Size of triangular part is 1698
+Size of triangular part is 1698
+Size of triangular part is 1698
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/lac__19.mps'...
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/lac__19.mps'...
+Problem: lac__19
+Problem: lac__19
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/lac__19.mps'...
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/lac__19.mps'...
+Problem: lac__19
+Problem: lac__19
+Objective: COST
+Objective: COST
+Objective: COST
+Objective: COST
+1878 rows, 2712 columns, 10577 non-zeros
+11188 records were read
+One free row was removed
+1878 rows, 2712 columns, 10577 non-zeros
+11188 records were read
+One free row was removed
+1878 rows, 2712 columns, 10577 non-zeros
+11188 records were read
+One free row was removed
+Constructing initial basis...
+Constructing initial basis...
+1878 rows, 2712 columns, 10577 non-zeros
+11188 records were read
+One free row was removed
+Constructing initial basis...
+Constructing initial basis...
+Size of triangular part is 1698
+Size of triangular part is 1698
+Size of triangular part is 1698
+Size of triangular part is 1698
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/hdcea17.mps'...
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/hdcea17.mps'...
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/hdcea17.mps'...
+Problem: hdcea17
+Problem: hdcea17
+Problem: hdcea17
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/hdcea17.mps'...
+Problem: hdcea17
+Objective: COST
+Objective: COST
+Objective: COST
+Objective: COST
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+One free row was removed
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+One free row was removed
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+Constructing initial basis...
+One free row was removed
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+One free row was removed
+Constructing initial basis...
+Constructing initial basis...
+Constructing initial basis...
+Size of triangular part is 1699
+Size of triangular part is 1699
+Size of triangular part is 1699
+Size of triangular part is 1699
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/pg14047.mps'...
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/pg14047.mps'...
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/pg14047.mps'...
+Problem: pg14047
+Problem: pg14047
+Problem: pg14047
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/pg14047.mps'...
+Problem: pg14047
+Objective: COST
+Objective: COST
+Objective: COST
+Objective: COST
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+One free row was removed
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+One free row was removed
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+One free row was removed
+Constructing initial basis...
+Constructing initial basis...
+Constructing initial basis...
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+One free row was removed
+Size of triangular part is 1698
+Constructing initial basis...
+Size of triangular part is 1698
+Size of triangular part is 1698
+Size of triangular part is 1698
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/gal96.mps'...
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/gal96.mps'...
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/gal96.mps'...
+Problem: gal96
+Problem: gal96
+Problem: gal96
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/gal96.mps'...
+Problem: gal96
+Objective: COST
+Objective: COST
+Objective: COST
+Objective: COST
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+One free row was removed
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+One free row was removed
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+One free row was removed
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+Constructing initial basis...
+One free row was removed
+Constructing initial basis...
+Constructing initial basis...
+Constructing initial basis...
+Size of triangular part is 1698
+Size of triangular part is 1698
+Size of triangular part is 1698
+Size of triangular part is 1698
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/1agpe17.mps'...
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/1agpe17.mps'...
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/1agpe17.mps'...
+Problem: 1agpe17
+Problem: 1agpe17
+Problem: 1agpe17
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/1agpe17.mps'...
+Problem: 1agpe17
+Objective: COST
+Objective: COST
+Objective: COST
+Objective: COST
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+One free row was removed
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+One free row was removed
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+One free row was removed
+Constructing initial basis...
+Constructing initial basis...
+Constructing initial basis...
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+One free row was removed
+Constructing initial basis...
+Size of triangular part is 1699
+Size of triangular part is 1699
+Size of triangular part is 1699
+Size of triangular part is 1699
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/ttdca77.mps'...
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/ttdca77.mps'...
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/ttdca77.mps'...
+Problem: ttdca77
+Problem: ttdca77
+Problem: ttdca77
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/ttdca77.mps'...
+Problem: ttdca77
+Objective: COST
+Objective: COST
+Objective: COST
+Objective: COST
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+One free row was removed
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+One free row was removed
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+One free row was removed
+Constructing initial basis...
+Constructing initial basis...
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+One free row was removed
+Constructing initial basis...
+Constructing initial basis...
+Size of triangular part is 1699
+Size of triangular part is 1699
+Size of triangular part is 1699
+Size of triangular part is 1699
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/glu__10.mps'...
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/glu__10.mps'...
+Problem: glu__10
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/glu__10.mps'...
+Problem: glu__10
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/glu__10.mps'...
+Problem: glu__10
+Problem: glu__10
+Objective: COST
+Objective: COST
+Objective: COST
+Objective: COST
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+One free row was removed
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+1878 rows, 2713 columns, 10578 non-zeros
+One free row was removed
+11190 records were read
+One free row was removed
+Constructing initial basis...
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+One free row was removed
+Constructing initial basis...
+Constructing initial basis...
+Constructing initial basis...
+Size of triangular part is 1699
+Size of triangular part is 1699
+Size of triangular part is 1699
+Size of triangular part is 1699
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/cdpdt87.mps'...
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/cdpdt87.mps'...
+Problem: cdpdt87
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/cdpdt87.mps'...
+Problem: cdpdt87
+Problem: cdpdt87
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/cdpdt87.mps'...
+Problem: cdpdt87
+Objective: COST
+Objective: COST
+Objective: COST
+Objective: COST
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+One free row was removed
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+One free row was removed
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+One free row was removed
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+One free row was removed
+Constructing initial basis...
+Constructing initial basis...
+Constructing initial basis...
+Constructing initial basis...
+Size of triangular part is 1698
+Size of triangular part is 1698
+Size of triangular part is 1698
+Size of triangular part is 1698
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/octa30.mps'...
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/octa30.mps'...
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/octa30.mps'...
+Problem: octa30
+Problem: octa30
+Problem: octa30
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/octa30.mps'...
+Problem: octa30
+Objective: COST
+Objective: COST
+Objective: COST
+Objective: COST
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+One free row was removed
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+One free row was removed
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+One free row was removed
+Constructing initial basis...
+Constructing initial basis...
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+One free row was removed
+Constructing initial basis...
+Constructing initial basis...
+Size of triangular part is 1699
+Size of triangular part is 1699
+Size of triangular part is 1699
+Size of triangular part is 1699
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/dca89.mps'...
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/dca89.mps'...
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/dca89.mps'...
+Problem: dca89
+Problem: dca89
+Problem: dca89
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/dca89.mps'...
+Problem: dca89
+Objective: COST
+Objective: COST
+Objective: COST
+Objective: COST
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+One free row was removed
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+One free row was removed
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+One free row was removed
+Constructing initial basis...
+Constructing initial basis...
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+One free row was removed
+Constructing initial basis...
+Constructing initial basis...
+Size of triangular part is 1699
+Size of triangular part is 1699
+Size of triangular part is 1699
+Size of triangular part is 1699
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/1agpg24.mps'...
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/1agpg24.mps'...
+Problem: 1agpg24
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/1agpg24.mps'...
+Problem: 1agpg24
+Problem: 1agpg24
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/1agpg24.mps'...
+Problem: 1agpg24
+Objective: COST
+Objective: COST
+Objective: COST
+Objective: COST
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+One free row was removed
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+One free row was removed
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+One free row was removed
+Constructing initial basis...
+Constructing initial basis...
+Constructing initial basis...
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+One free row was removed
+Constructing initial basis...
+Size of triangular part is 1698
+Size of triangular part is 1698
+Size of triangular part is 1698
+Size of triangular part is 1698
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/for94.mps'...
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/for94.mps'...
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/for94.mps'...
+Problem: for94
+Problem: for94
+Problem: for94
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/for94.mps'...
+Problem: for94
+Objective: COST
+Objective: COST
+Objective: COST
+Objective: COST
+1878 rows, 2712 columns, 10577 non-zeros
+11188 records were read
+One free row was removed
+1878 rows, 2712 columns, 10577 non-zeros
+11188 records were read
+One free row was removed
+1878 rows, 2712 columns, 10577 non-zeros
+11188 records were read
+One free row was removed
+Constructing initial basis...
+1878 rows, 2712 columns, 10577 non-zeros
+11188 records were read
+One free row was removed
+Constructing initial basis...
+Constructing initial basis...
+Constructing initial basis...
+Size of triangular part is 1698
+Size of triangular part is 1698
+Size of triangular part is 1698
+Size of triangular part is 1698
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/pa16136.mps'...
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/pa16136.mps'...
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/pa16136.mps'...
+Problem: pa16136
+Problem: pa16136
+Problem: pa16136
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/pa16136.mps'...
+Problem: pa16136
+Objective: COST
+Objective: COST
+Objective: COST
+Objective: COST
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+One free row was removed
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+One free row was removed
+Constructing initial basis...
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+One free row was removed
+Constructing initial basis...
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+One free row was removed
+Constructing initial basis...
+Size of triangular part is 1698
+Constructing initial basis...
+Size of triangular part is 1698
+Size of triangular part is 1698
+Size of triangular part is 1698
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/gly11.mps'...
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/gly11.mps'...
+Problem: gly11
+Problem: gly11
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/gly11.mps'...
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/gly11.mps'...
+Problem: gly11
+Problem: gly11
+Objective: COST
+Objective: COST
+Objective: COST
+Objective: COST
+1878 rows, 2712 columns, 10577 non-zeros
+11188 records were read
+One free row was removed
+1878 rows, 2712 columns, 10577 non-zeros
+11188 records were read
+One free row was removed
+Constructing initial basis...
+1878 rows, 2712 columns, 10577 non-zeros
+11188 records were read
+One free row was removed
+1878 rows, 2712 columns, 10577 non-zeros
+11188 records were read
+One free row was removed
+Constructing initial basis...
+Constructing initial basis...
+Constructing initial basis...
+Size of triangular part is 1699
+Size of triangular part is 1699
+Size of triangular part is 1699
+Size of triangular part is 1699
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/ddcap91.mps'...
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/ddcap91.mps'...
+Problem: ddcap91
+Problem: ddcap91
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/ddcap91.mps'...
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/ddcap91.mps'...
+Problem: ddcap91
+Problem: ddcap91
+Objective: COST
+Objective: COST
+Objective: COST
+Objective: COST
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+One free row was removed
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+One free row was removed
+Constructing initial basis...
+Constructing initial basis...
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+One free row was removed
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+One free row was removed
+Constructing initial basis...
+Constructing initial basis...
+Size of triangular part is 1699
+Size of triangular part is 1699
+Size of triangular part is 1699
+Size of triangular part is 1699
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/ddca90.mps'...
+Problem: ddca90
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/ddca90.mps'...
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/ddca90.mps'...
+Problem: ddca90
+Problem: ddca90
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/ddca90.mps'...
+Problem: ddca90
+Objective: COST
+Objective: COST
+Objective: COST
+Objective: COST
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+One free row was removed
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+One free row was removed
+One free row was removed
+Constructing initial basis...
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+One free row was removed
+Constructing initial basis...
+Constructing initial basis...
+Constructing initial basis...
+Size of triangular part is 1699
+Size of triangular part is 1699
+Size of triangular part is 1699
+Size of triangular part is 1699
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/pgp1858.mps'...
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/pgp1858.mps'...
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/pgp1858.mps'...
+Problem: pgp1858
+Problem: pgp1858
+Problem: pgp1858
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/pgp1858.mps'...
+Problem: pgp1858
+Objective: COST
+Objective: COST
+Objective: COST
+Objective: COST
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+One free row was removed
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+One free row was removed
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+One free row was removed
+Constructing initial basis...
+Constructing initial basis...
+Constructing initial basis...
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+One free row was removed
+Size of triangular part is 1699
+Size of triangular part is 1699
+Constructing initial basis...
+Size of triangular part is 1699
+Size of triangular part is 1699
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/pg16150.mps'...
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/pg16150.mps'...
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/pg16150.mps'...
+Problem: pg16150
+Problem: pg16150
+Problem: pg16150
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/pg16150.mps'...
+Problem: pg16150
+Objective: COST
+Objective: COST
+Objective: COST
+Objective: COST
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+One free row was removed
+One free row was removed
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+One free row was removed
+Constructing initial basis...
+Constructing initial basis...
+Constructing initial basis...
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+One free row was removed
+Size of triangular part is 1698
+Size of triangular part is 1698
+Constructing initial basis...
+Size of triangular part is 1698
+Size of triangular part is 1698
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/2agpe42.mps'...
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/2agpe42.mps'...
+Problem: 2agpe42
+Problem: 2agpe42
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/2agpe42.mps'...
+Problem: 2agpe42
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/2agpe42.mps'...
+Problem: 2agpe42
+Objective: COST
+Objective: COST
+Objective: COST
+Objective: COST
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+One free row was removed
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+One free row was removed
+Constructing initial basis...
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+One free row was removed
+Constructing initial basis...
+Constructing initial basis...
+Size of triangular part is 1697
+Size of triangular part is 1697
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+One free row was removed
+Size of triangular part is 1697
+Constructing initial basis...
+Size of triangular part is 1697
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/aact71.mps'...
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/aact71.mps'...
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/aact71.mps'...
+Problem: aact71
+Problem: aact71
+Problem: aact71
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/aact71.mps'...
+Problem: aact71
+Objective: COST
+Objective: COST
+Objective: COST
+Objective: COST
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+One free row was removed
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+One free row was removed
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+One free row was removed
+Constructing initial basis...
+Constructing initial basis...
+Constructing initial basis...
+Size of triangular part is 1698
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+One free row was removed
+Size of triangular part is 1698
+Size of triangular part is 1698
+Constructing initial basis...
+Size of triangular part is 1698
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/pgp1454.mps'...
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/pgp1454.mps'...
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/pgp1454.mps'...
+Problem: pgp1454
+Problem: pgp1454
+Problem: pgp1454
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/pgp1454.mps'...
+Problem: pgp1454
+Objective: COST
+Objective: COST
+Objective: COST
+Objective: COST
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+One free row was removed
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+One free row was removed
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+One free row was removed
+Constructing initial basis...
+Constructing initial basis...
+Constructing initial basis...
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+One free row was removed
+Size of triangular part is 1698
+Constructing initial basis...
+Size of triangular part is 1698
+Size of triangular part is 1698
+Size of triangular part is 1698
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/1agpg23.mps'...
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/1agpg23.mps'...
+Problem: 1agpg23
+Problem: 1agpg23
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/1agpg23.mps'...
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/1agpg23.mps'...
+Problem: 1agpg23
+Problem: 1agpg23
+Objective: COST
+Objective: COST
+Objective: COST
+Objective: COST
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+One free row was removed
+Constructing initial basis...
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+One free row was removed
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+One free row was removed
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+One free row was removed
+Constructing initial basis...
+Constructing initial basis...
+Size of triangular part is 1699
+Constructing initial basis...
+Size of triangular part is 1699
+Size of triangular part is 1699
+Size of triangular part is 1699
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/1agpe20.mps'...
+Problem: 1agpe20
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/1agpe20.mps'...
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/1agpe20.mps'...
+Problem: 1agpe20
+Problem: 1agpe20
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/1agpe20.mps'...
+Problem: 1agpe20
+Objective: COST
+Objective: COST
+Objective: COST
+Objective: COST
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+One free row was removed
+Constructing initial basis...
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+One free row was removed
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+One free row was removed
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+One free row was removed
+Constructing initial basis...
+Constructing initial basis...
+Size of triangular part is 1699
+Constructing initial basis...
+Size of triangular part is 1699
+Size of triangular part is 1699
+Size of triangular part is 1699
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/pe12039.mps'...
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/pe12039.mps'...
+Problem: pe12039
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/pe12039.mps'...
+Problem: pe12039
+Problem: pe12039
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/pe12039.mps'...
+Problem: pe12039
+Objective: COST
+Objective: COST
+Objective: COST
+Objective: COST
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+One free row was removed
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+One free row was removed
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+One free row was removed
+Constructing initial basis...
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+Constructing initial basis...
+One free row was removed
+Constructing initial basis...
+Constructing initial basis...
+Size of triangular part is 1698
+Size of triangular part is 1698
+Size of triangular part is 1698
+Size of triangular part is 1698
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/val__80.mps'...
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/val__80.mps'...
+Problem: val__80
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/val__80.mps'...
+Problem: val__80
+Problem: val__80
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/val__80.mps'...
+Problem: val__80
+Objective: COST
+Objective: COST
+Objective: COST
+Objective: COST
+1878 rows, 2712 columns, 10577 non-zeros
+11188 records were read
+One free row was removed
+1878 rows, 2712 columns, 10577 non-zeros
+11188 records were read
+One free row was removed
+1878 rows, 2712 columns, 10577 non-zeros
+11188 records were read
+One free row was removed
+1878 rows, 2712 columns, 10577 non-zeros
+11188 records were read
+One free row was removed
+Constructing initial basis...
+Constructing initial basis...
+Constructing initial basis...
+Constructing initial basis...
+Size of triangular part is 1699
+Size of triangular part is 1699
+Size of triangular part is 1699
+Size of triangular part is 1699
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/1agpg29.mps'...
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/1agpg29.mps'...
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/1agpg29.mps'...
+Problem: 1agpg29
+Problem: 1agpg29
+Problem: 1agpg29
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/1agpg29.mps'...
+Problem: 1agpg29
+Objective: COST
+Objective: COST
+Objective: COST
+Objective: COST
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+One free row was removed
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+One free row was removed
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+One free row was removed
+Constructing initial basis...
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+One free row was removed
+Constructing initial basis...
+Constructing initial basis...
+Constructing initial basis...
+Size of triangular part is 1698
+Size of triangular part is 1698
+Size of triangular part is 1698
+Size of triangular part is 1698
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/pe18145.mps'...
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/pe18145.mps'...
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/pe18145.mps'...
+Problem: pe18145
+Problem: pe18145
+Problem: pe18145
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/pe18145.mps'...
+Problem: pe18145
+Objective: COST
+Objective: COST
+Objective: COST
+Objective: COST
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+One free row was removed
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+One free row was removed
+Constructing initial basis...
+Constructing initial basis...
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+One free row was removed
+Constructing initial basis...
+Size of triangular part is 1698
+Size of triangular part is 1698
+Size of triangular part is 1698
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+One free row was removed
+Constructing initial basis...
+Size of triangular part is 1698
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/ps16165.mps'...
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/ps16165.mps'...
+Problem: ps16165
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/ps16165.mps'...
+Problem: ps16165
+Problem: ps16165
+Objective: COST
+Objective: COST
+Reading problem data from '/nics/b/home/sgarcia/modcell-hpc/cases/ecoli-native/ps16165.mps'...
+Objective: COST
+Problem: ps16165
+Objective: COST
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+One free row was removed
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+One free row was removed
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+One free row was removed
+Constructing initial basis...
+Constructing initial basis...
+Constructing initial basis...
+Size of triangular part is 1698
+Size of triangular part is 1698
+Size of triangular part is 1698
+1878 rows, 2713 columns, 10578 non-zeros
+11190 records were read
+One free row was removed
+Constructing initial basis...
+Size of triangular part is 1698
+(PE=0) Initial population not specified (initialize at random)
+PE: 1	 Generation:10	 Time:6846.9s
+PE: 3	 Generation:10	 Time:7193.4s
+PE: 0	 Generation:10	 Time:7183.6s
+PE: 2	 Generation:10	 Time:7684.0s
+PE: 1	 Generation:20	 Time:12010.7s
+PE: 0	 Generation:20	 Time:12980.7s
+PE: 3	 Generation:20	 Time:13452.6s
+PE: 2	 Generation:20	 Time:13484.1s
+PE: 1 Begin migration: 14182s ...
+PE: 0 Begin migration: 15760s ...
+PE: 2 Begin migration: 15798s ...
+PE: 1	 Generation:30	 Time:16157.4s
+PE: 3 Begin migration: 16865s ...
+PE: 2	 Generation:30	 Time:17981.9s
+PE: 0	 Generation:30	 Time:18583.2s
+PE: 3	 Generation:30	 Time:19051.3s
+PE: 1	 Generation:40	 Time:19715.3s
+...PE: 1 end migration: 20023s ...
+...PE: 3 end migration: 21676s ...
+PE: 2	 Generation:40	 Time:21778.5s
+...PE: 0 end migration: 21897s ...
+PE: 3	 Generation:40	 Time:22333.4s
+...PE: 2 end migration: 22870s ...
+PE: 3 Begin migration: 23454s ...
+PE: 3	 Generation:50	 Time:23454.0s
+PE: 0	 Generation:40	 Time:24114.0s
+PE: 1 Begin migration: 24160s ...
+PE: 1	 Generation:50	 Time:24160.4s
+PE: 3	 Generation:60	 Time:24576.0s
+PE: 3	 Generation:70	 Time:25404.8s
+PE: 2 Begin migration: 25855s ...
+PE: 2	 Generation:50	 Time:25854.8s
+PE: 3	 Generation:80	 Time:26396.4s
+PE: 3	 Generation:90	 Time:27565.2s
+PE: 0 Begin migration: 28062s ...
+PE: 0	 Generation:50	 Time:28062.3s
+PE: 3	 Generation:100	 Time:28822.5s
+PE: 1	 Generation:60	 Time:28882.9s
+...PE: 3 end migration: 29671s ...
+PE: 0	 Generation:60	 Time:29725.6s
+...PE: 2 end migration: 29775s ...
+...PE: 1 end migration: 29849s ...
+PE: 2	 Generation:60	 Time:30268.2s
+...PE: 0 end migration: 30272s ...
+PE: 3	 Generation:110	 Time:30572.3s
+PE: 3	 Generation:120	 Time:31862.2s
+PE: 0	 Generation:70	 Time:32120.2s
+PE: 1	 Generation:70	 Time:32357.5s
+PE: 3 Begin migration: 32505s ...
+PE: 3	 Generation:130	 Time:33224.6s
+PE: 1 Begin migration: 33287s ...
+PE: 0 Begin migration: 33633s ...
+PE: 1	 Generation:80	 Time:34164.4s
+PE: 2	 Generation:70	 Time:35005.9s
+PE: 0	 Generation:80	 Time:35383.0s
+PE: 2 Begin migration: 35456s ...
+PE: 3	 Generation:140	 Time:35573.7s
+PE: 1	 Generation:90	 Time:35953.7s
+PE: 2	 Generation:80	 Time:36001.3s
+PE: 2	 Run time limit reached 	 Time:36001.3s
+...PE: 0 end migration: 36100s ...
+PE: 0	 Run time limit reached 	 Time:36099.8s
+PE: 1	 Run time limit reached 	 Time:36133.1s
+PE: 3	 Run time limit reached 	 Time:36137.0s
+Barrier reached, writting populations...
+Output population written to: /nics/b/home/sgarcia/runs-modcell-hpc/benchmark/native-10h/case12_out.pop_1
+Output population written to: /nics/b/home/sgarcia/runs-modcell-hpc/benchmark/native-10h/case12_out.pop_3
+Output population written to: /nics/b/home/sgarcia/runs-modcell-hpc/benchmark/native-10h/case12_out.pop_2
+Output population written to: /nics/b/home/sgarcia/runs-modcell-hpc/benchmark/native-10h/case12_out.pop_0
+Barrier reached, all processes exiting...

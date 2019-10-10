@@ -1,0 +1,52 @@
+tput: No value for $TERM and no -T specified
+tput: No value for $TERM and no -T specified
+tput: No value for $TERM and no -T specified
+tput: No value for $TERM and no -T specified
+tput: No value for $TERM and no -T specified
+tput: No value for $TERM and no -T specified
+tput: No value for $TERM and no -T specified
+tput: No value for $TERM and no -T specified
+tput: No value for $TERM and no -T specified
+tput: No value for $TERM and no -T specified
+tput: No value for $TERM and no -T specified
+tput: No value for $TERM and no -T specified
+tput: No value for $TERM and no -T specified
+tput: No value for $TERM and no -T specified
+tput: No value for $TERM and no -T specified
+tput: No value for $TERM and no -T specified
+tput: No value for $TERM and no -T specified
+tput: No value for $TERM and no -T specified
+[acf-rc046:02656] Read -1, expected 350980, errno = 14
+[acf-rc046:02656] Read -1, expected 350980, errno = 14
+[acf-rc046:02656] Read -1, expected 350980, errno = 14
+[acf-rc046:02656] Read -1, expected 350980, errno = 14
+[acf-rc046:02656] Read -1, expected 350980, errno = 14
+[acf-rc046:02656] Read -1, expected 350980, errno = 14
+[acf-rc046:02656] Read -1, expected 350980, errno = 14
+[acf-rc046:02656] Read -1, expected 350980, errno = 14
+[acf-rc046:02656] Read -1, expected 350980, errno = 14
+[acf-rc046:02656] Read -1, expected 350980, errno = 14
+[acf-rc046:02656] Read -1, expected 350980, errno = 14
+[acf-rc046:02656] Read -1, expected 350980, errno = 14
+[acf-rc046:02655] *** Process received signal ***
+[acf-rc046:02655] Signal: Segmentation fault (11)
+[acf-rc046:02655] Signal code: Address not mapped (1)
+[acf-rc046:02655] Failing at address: 0x2b4a66e64010
+[acf-rc046:02655] [ 0] /lib64/libpthread.so.0(+0xf5d0)[0x2b4a24af05d0]
+[acf-rc046:02655] [ 1] /lib64/libc.so.6(+0x153cf5)[0x2b4a24e50cf5]
+[acf-rc046:02655] [ 2] /sw/acf/openmpi/3.0.0/centos7.3_gnu6.3.0/lib/openmpi/mca_btl_vader.so(+0x2f3f)[0x2b4a3688af3f]
+[acf-rc046:02655] [ 3] /sw/acf/openmpi/3.0.0/centos7.3_gnu6.3.0/lib/openmpi/mca_pml_ob1.so(mca_pml_ob1_send_request_schedule_once+0x1ba)[0x2b4a37892d6a]
+[acf-rc046:02655] [ 4] /sw/acf/openmpi/3.0.0/centos7.3_gnu6.3.0/lib/openmpi/mca_pml_ob1.so(mca_pml_ob1_recv_frag_callback_ack+0x241)[0x2b4a3788a441]
+[acf-rc046:02655] [ 5] /sw/acf/openmpi/3.0.0/centos7.3_gnu6.3.0/lib/openmpi/mca_btl_vader.so(mca_btl_vader_poll_handle_frag+0x71)[0x2b4a3688c801]
+[acf-rc046:02655] [ 6] /sw/acf/openmpi/3.0.0/centos7.3_gnu6.3.0/lib/openmpi/mca_btl_vader.so(+0x4c8e)[0x2b4a3688cc8e]
+[acf-rc046:02655] [ 7] /sw/acf/openmpi/3.0.0/centos7.3_gnu6.3.0/lib/libopen-pal.so.40(opal_progress+0x3c)[0x2b4a253af2bc]
+[acf-rc046:02655] [ 8] /sw/cs400_centos7.3_acfsoftware/openmpi/3.0.0/centos7.3_gnu6.3.0/lib/libmpi.so.40(ompi_request_default_wait+0xf5)[0x2b4a248162d5]
+[acf-rc046:02655] [ 9] /sw/cs400_centos7.3_acfsoftware/openmpi/3.0.0/centos7.3_gnu6.3.0/lib/libmpi.so.40(ompi_coll_base_barrier_intra_recursivedoubling+0x1e6)[0x2b4a24872c26]
+[acf-rc046:02655] [10] /sw/cs400_centos7.3_acfsoftware/openmpi/3.0.0/centos7.3_gnu6.3.0/lib/libmpi.so.40(MPI_Barrier+0x45)[0x2b4a2482d905]
+[acf-rc046:02655] [11] /nics/b/home/sgarcia/modcell-hpc/src/modcell(+0x269c)[0x5599c19c369c]
+[acf-rc046:02655] [12] /lib64/libc.so.6(__libc_start_main+0xf5)[0x2b4a24d1f3d5]
+[acf-rc046:02655] [13] /nics/b/home/sgarcia/modcell-hpc/src/modcell(+0x279e)[0x5599c19c379e]
+[acf-rc046:02655] *** End of error message ***
+--------------------------------------------------------------------------
+mpiexec noticed that process rank 5 with PID 0 on node acf-rc046 exited on signal 11 (Segmentation fault).
+--------------------------------------------------------------------------

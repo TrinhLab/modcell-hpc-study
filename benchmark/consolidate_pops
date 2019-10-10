@@ -1,0 +1,15 @@
+#!/bin/sh
+
+set -e
+
+if [ "$#" != "1" ]; then
+	echo "error. usage: consolidate_pops case_path" && exit
+else
+	case_path=$1
+fi
+
+for n in $(awk 'NR>1 {print $1}' "$case_path/params.tsv"); do
+	eval "${MODCELLHPC_PATH}/io/popmerge.sh $case_path/ case${n}_out"
+done
+
+

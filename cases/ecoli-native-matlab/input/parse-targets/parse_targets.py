@@ -10,7 +10,7 @@ def parse_frame(df):
     print("Candidates:\t", df.shape[0])
     # Discard metabolies with very low yield
     df = df[df["Max. yield"] >= 0.1]
-    print("Yield above 0.01:\t", df.shape[0])
+    print("Yield above 0.1:\t", df.shape[0])
     # Discard metabolites without solution
     df = df[df["50% yield cMCS size"].map(lambda x: isinstance(x, (int, float)))]
     print("Contain 50% yield cMCS:\t", df.shape[0])

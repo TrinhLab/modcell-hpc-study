@@ -1,12 +1,12 @@
 Anaerobic------
 Original products:	 1805
 Candidates:	 947
-Yield above 0.01:	 718
+Yield above 0.1:	 718
 Contain 50% yield cMCS:	 261
 Unique compartment:	 161
 Aerobic--------
 Original products:	 1805
 Candidates:	 966
-Yield above 0.01:	 861
+Yield above 0.1:	 861
 Contain 50% yield cMCS:	 830
 Unique compartment:	 614

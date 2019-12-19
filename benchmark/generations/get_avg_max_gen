@@ -1,0 +1,49 @@
+#!/bin/bash
+
+set -e
+shopt -s nullglob
+
+if [ "$#" != "1" ]; then
+	echo "error. usage: $0 problem_name" && exit
+else
+	prob_name=$1
+fi
+
+output_file="${prob_name}_avg_gen.tsv"
+
+MODCELLHPC_S_PATH="${HOME}/wrk/s/matlab/modcell-hpc-study" # This is for the modcell-hpc-study repository
+
+log_dir="${MODCELLHPC_S_PATH}/benchmark/${prob_name}/logs"
+
+printf 'Case\tgen_avg\tgen_std\n' > "$output_file"
+
+for in_log in "${log_dir}"/*.pbs.o*
+do
+	echo "$in_log"
+
+	PEs=$(sed -n 's/Comm size: \(.*\)./\1/p' "$in_log")
+
+	hours=1 # Do not normalize w.r.t. hours
+
+	temp_file="generations.txt"
+
+	# Extract the maximum generations in each PE
+	printf '' > "$temp_file"
+	for i in $(seq  0 $PEs); do
+		sed -n "s|PE: $i\t Generation:\(.*\)\t.*|\1|p" "$in_log" | awk -v h=$hours 'BEGIN{a=0}{if ($1>0+a) a=$1} END{print a/h}' >> "$temp_file"
+	done
+
+	case=$(echo -n "$in_log" | sed -n 's:.*/\(.*\).pbs.*:\1:p')
+	printf "%s\t" "$case" >> "$output_file"
+
+	# Average and stdev
+	awk '{for(i=1;i<=NF;i++) {sum[i] += $i; sumsq[i] += ($i)^2}}
+	      END {for (i=1;i<=NF;i++) {
+	      printf "%.1f\t%.1f \n", sum[i]/NR, sqrt((sumsq[i]-sum[i]^2/NR)/NR)}
+	     }' "$temp_file" >> "$output_file"
+done
+
+rm "$temp_file"
+
+# Sort ouput
+

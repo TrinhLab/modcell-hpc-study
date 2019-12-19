@@ -12,10 +12,10 @@ n_cases=$(awk 'BEGIN{a=0}{if ($1>0+a) a=$1} END{print a}' "$case_path/params.tsv
 
 # Matlab metrics
 temp_script=$(mktemp)
-full_path=$(realpath $case_path)
+full_path=$(realpath "$case_path")
 n_cases_mat=$((n_cases+1))
 echo "calc_metrics(\"${full_path}\", ${n_cases_mat})" >> "$temp_script"
-eval "${MATLAB_BIN} -nodesktop -nodisplay -sd ~/wrk/s/matlab < $temp_script" # NOTE: This will not return error exit code if the matlab script errors
+eval "${MATLAB_BIN} -nodesktop -nodisplay -sd ~/wrk/s/matlab < $temp_script"  #NOTE: This will not return error exit code if the matlab script errors
 
 # Cover metrics
 echo "Case,MinCS,compat_prod,total_prod" > "$case_path/cover_size.csv"
@@ -35,6 +35,10 @@ for i in $(seq 0 "$n_cases"); do
 
 	# cleanup
 	rm "$case_path/case${i}_out_shift1.csv" sc_output
+	## Uncomment below to save for further inspection instead of deleting
+	##mkdir -p "${case_path}/backup-covers"
+	##mv "${case_path}/case${i}_out_shift1.csv" "${case_path}/backup-covers/"
+	##mv sc_output "$case_path/backup-covers/sc_output_case${i}"
 done
 
 # Join tables

@@ -1,0 +1,6 @@
+#!/bin/sh
+
+for target in gem-model-1h gem-model-2h native-5h native-10h; do
+	./get_avg_max_gen $target
+done
+

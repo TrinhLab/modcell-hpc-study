@@ -1,0 +1,3 @@
+#!/bin/sh
+
+mc_pltmoduleusage ./results/a5_b1.csv -f 'Arial' -fs 10 -i2n ../../cases/ecoli-native-matlab/input/pathway_table.csv -w 6

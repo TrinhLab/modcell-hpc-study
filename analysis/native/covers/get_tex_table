@@ -1,0 +1,40 @@
+#!/bin/sh
+
+FILE="./a5_b1_incovers_format_t0p5.tsv"
+OUT_FILE="./a5_b1_incovers_format_t0p5.tex"
+
+TOP=100
+
+general_subs() {
+# General substitutions
+	cat "$1" | sed 1d | sed "$TOP"q | cut -f1,2,3 |\
+	sed -e 's/\t/\t\&\t/g' \
+	-e 's/_/\\_/g'  \
+	-e 's:-->:\$\\rightarrow\$:g' \
+	-e 's:<=>:\$\\leftrightarrow\$:g' \
+	-e 's:$:\t\\\\:g' > "$2"
+}
+
+add_latex(){
+# Latex table syntax
+ed -s $1 << END
+1i
+\resizebox{\textwidth}{!}{%
+\rowcolors{2}{gray!25}{white}
+\begin{tabular}{lll}
+\toprule
+Index 	& 	Reaction deletions 	& Reaction modules\\\\
+\midrule
+.
+\$a
+\end{tabular}}
+.
+wq
+END
+}
+
+general_subs "$FILE" "$OUT_FILE"
+add_latex "$OUT_FILE"
+
+
+

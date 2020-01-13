@@ -24,3 +24,8 @@ environment run:
 pip install ipykernel
 ipython kernel install --user --name=modcell-analysis
 ~~~
+If the avove leads to some issues you also run:
+~~~
+python -m ipykernel install --user --name=modcell-analysis
+~~~
+

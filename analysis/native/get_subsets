@@ -1,0 +1,20 @@
+#!/bin/sh
+
+set -e
+if [ "$#" != "1" ]; then
+	echo "error. usage: $0 pf_path" && exit
+else
+	pf_path=$1
+fi
+
+pf=$(basename "$pf_path" .csv)
+designs="${pf}.covers.designs"
+
+mc_setcover_finddesigns "${pf}.covers" > "$designs"
+printf "Unique designs in covers: %d \n" $(wc -l < "$designs")
+
+targets=$(tr '\n' ',' < "$designs" | sed 's/\(.*\),/\[\1\]/')
+
+mc_getsubset "${pf}.csv" "$targets"  "${pf}_incovers.csv"
+
+rm "$designs"

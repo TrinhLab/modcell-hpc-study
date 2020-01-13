@@ -1,0 +1,4 @@
+#!/bin/sh
+
+#mc_pltpf a5_b1_compa_0p5.csv  -w 5 -x 15 -f Arial -i2n ../../cases/ecoli-native-matlab/input/pathway_table.csv -fs 8
+mc_pltpf a5_b1_compa_0p5.csv  -w 5 -x 5 -f Arial -i2n ../../cases/ecoli-native-matlab/input/pathway_table.csv -fs 8

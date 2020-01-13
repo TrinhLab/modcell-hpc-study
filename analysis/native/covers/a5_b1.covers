@@ -1,0 +1,15 @@
+Products below compatibility in all designs (76/161): ['1agpe120', '1agpe140', '1agpe160', '1agpe161', '1agpe180', '1agpe181', '1agpg120', '1agpg140', '1agpg141', '1agpg160', '1agpg161', '1agpg181', '23ddhb', '2agpe120', '2agpe140', '2agpe160', '2agpe161', '2agpe180', '2agpe181', '2agpg120', '2agpg140', '2agpg141', '2agpg160', '2agpg161', '2agpg181', '2amsa', '2aobut', '2ddecg3p', '2ippm', '2mcacn', '2tdec7eg3p', '3c2hmp', '3c3hmp', '3c4mop', '4abut', '4abutn', '4hbz', '4mop', 'aact', 'acg5sa', 'acglu', 'acser', 'actp', 'akg', 'ala__D', 'ala__L', 'alaala', 'appl', 'athr__L', 'bglycogen', 'cdpdddecg', 'cdpdtdec7eg', 'cdpdtdecg', 'dha', 'fum', 'gal', 'ggptrc', 'ghb', 'glu__D', 'glu__L', 'gly', 'glyc__R', 'glycogen', 'leu__L', 'mal__L', 'man', 'micit', 'mnl1p', 'pyr', 'quin', 's7p', 'sbt6p', 'ser__L', 'sucsal', 'tre', 'val__L']
+Minimal cover size: 3
+Covers (Solution index) 	 Objective value:
+[101, 109, 121] 	 3.0
+[109, 121, 124] 	 3.0
+[101, 110, 121] 	 3.0
+[25, 101, 121] 	 3.0
+[82, 101, 121] 	 3.0
+[110, 121, 124] 	 3.0
+[97, 109, 121] 	 3.0
+[97, 110, 121] 	 3.0
+[25, 97, 121] 	 3.0
+[25, 121, 124] 	 3.0
+[82, 121, 124] 	 3.0
+[82, 97, 121] 	 3.0

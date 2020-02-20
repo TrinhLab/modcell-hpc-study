@@ -2,6 +2,7 @@
 *.png
 *.ipynb_checkpoints/
 __pycache__/
+notes/
 other/
 backup/
 old/
@@ -60,3 +61,20 @@ cases/partition_3_b-matlab/
 cases/partition_3_b/
 
 analysis/unknown-modules/
+
+cases/ctherm-native-matlab/
+
+runs/create_input_native-aerobic-1.sh
+runs/create_input_native-aerobic-2.sh
+runs/create_input_native-aerobic-red.sh
+runs/native-aerobic-1/
+runs/native-aerobic-2/
+runs/native-aerobic-60h/
+runs/native-aerobic-red-60h/
+runs/native-aerobic/
+runs/native-arabinose/
+runs/native-galactose/
+runs/native-mannose/
+runs/native-xylose/
+runs/partitions.zip
+

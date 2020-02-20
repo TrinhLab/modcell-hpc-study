@@ -1,0 +1,77 @@
+#!/bin/bash
+
+# Notes:
+# 	- Since module minimization is relatively slow, the population is processed first to drop duplicates and non-pareto optimal solutions and then module minimization is done. Then duplicates are dropped again (Module minimzation also has looser objective value tolerance so more new unique solutions might also become dominated)
+
+set -e
+
+if [ "$#" != "1" ]; then
+	echo "error. usage: $0 case_path" && exit
+else
+	case_path=$1
+fi
+
+
+# Consolidate pops
+eval "${MODCELLHPC_S_PATH}/benchmark/consolidate_pops $case_path"
+
+problem_path=$(cut -f1 "$case_path/case_info.tsv")
+output_path="${MODCELLHPC_S_PATH}/analysis/$(basename "$case_path")/results"
+mkdir -p "$output_path"
+
+interm_pop="t_interm.pop"
+minimized_pop="t_min.pop"
+for fullfile in "$case_path/case"*"_out.pop" ; do
+
+	# Obtain info
+	echo "$fullfile"
+	echo "Case" > tmpf
+	case_n=$(echo "$fullfile" | sed -nE 's/.*case([0-9]+)_out.pop/\1/p')
+	echo "$case_n" >> tmpf
+	join <(sort -k 1b,1 < tmpf) <(sort -k 1b,1 < "${case_path}/params.tsv") | sort -r > tmpfs
+	alpha=$(awk 'NR==2 {print $2}' tmpfs) #ASSUMES alpha is $2
+	beta=$(awk 'NR==2 {print $3}' tmpfs) #ASSUMES beta is $3
+
+
+	# Convert to csv (drop duplicates and non-pareto optimal)
+	output_file="${output_path}/${case_n}_not_minimized.csv"
+	eval "python ${MODCELLHPC_PATH}/io/pop2csv.py $problem_path $fullfile -a $alpha -o $output_file "
+
+
+	# Minimize module reactions
+	## Convert csv back to pop
+	eval "${MODCELLHPC_PATH}/io/csv2pop.py $problem_path $output_file -o $interm_pop"
+
+
+	if [ "$beta" -ge 1 ]; then # minimizer does not make sense otherwise
+		## Run minimizer
+		objective_type="wgcp"
+		population_size=$(grep -c "#INDIVIDUAL" < "$interm_pop")
+		eval "${MODCELLHPC_PATH}/src/modcell $problem_path $minimized_pop --initial_population=$interm_pop --objective_type=$objective_type --alpha=$alpha --beta=$beta --population_size=$population_size --minimize_modules"
+		## Convert pop to csv
+		output_file2="${output_path}/${case_n}.csv"
+		eval "${MODCELLHPC_PATH}/io/pop2csv.py $problem_path $minimized_pop -a $alpha -o $output_file2 "
+
+	else
+		echo "No module minimzation performed due to beta=0"
+		# Rename csv without module minimzation
+		output_file2="${output_path}/${case_n}.csv"
+		cp "$output_file" "$output_file2"
+	fi
+
+	## Coalesce modules
+	output_file3="${output_path}/${case_n}_coal.csv"
+	eval "${MODCELLHPC_PATH}/tools/mc_coalesce_modules $output_file2 -o $output_file3 "
+
+	##  Shift index
+	output_file4="${output_path}/${case_n}_shift.csv"
+	eval "${MODCELLHPC_PATH}/tools/mc_shiftindex $output_file3 -o $output_file4 "
+
+	## Rename final file and remove intermediates
+	mv "$output_file4" "${output_path}/a${alpha}_b${beta}.csv"
+	mkdir -p "${output_path}/backup"
+	mv "$output_file" "$output_file2" "$output_file3" "${output_path}/backup" # This is just to keep track, can be deleted when no longer needed
+
+done
+
+rm tmpf tmpfs "$interm_pop"

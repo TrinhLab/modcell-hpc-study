@@ -1,0 +1,13 @@
+Solution index	Deletion_id	module_rxns	compatible_products
+1	ECH, ACALD, PEPCK_re, POR, PGM, RNF		ibutoh, btylace, btylpro, btylbut, btylibut, ibtylbut
+2	ECH, GLUDy, ALCD2x, PGM, H2ASE_syn, BIF		btylace, btylpro, btylbut, btylibut, ibtylbut
+3	GLUSy, PPDK, GLUDy, PGM, H2ASE_syn, FRNDPR2r		etoh, ibutoh, ibtylace, ibtylpro, ibtylbut, ibtylibut
+4	ECH, PEPCK_re, PGM, RNF, H2ASE_syn, BIF		
+5	ACALD, PEPCK_re, PGM, RNF, BIF, FRNDPR2r		btoh, btylace, btylbut
+6	ECH, PFL, ACALD, LDH_L, BIF, FRNDPR2r		btoh, ibutoh, btylace, btylbut, btylibut, ibtylbut
+7	ECH, PFL, GLUDy, PGM, H2ASE_syn, BIF		btoh
+8	PPDK, GLUDy, CEPA, GMPS, H2ASE_syn, FRNDPR2r		etoh, ibtylace, ibtylbut, ibtylibut
+9	GLUSy, PPDK, GLUDy, AHSL, H2ASE_syn, FRNDPR2r		etoh, ppoh, ibtylace, ibtylpro, ibtylbut, ibtylibut
+10	ECH, LDH_L, ALCD2x, PGM, H2ASE_syn, BIF		ibutoh, btylace, btylibut, ibtylbut
+11	ECH, GLUDy, PGM, RNF, H2ASE_syn, BIF		
+12	ECH, PEPCK_re, ALCD2x, PGM, H2ASE_syn, BIF		btylace, btylpro, btylbut, btylibut, ibtylbut

@@ -1,0 +1,10 @@
+#!/bin/sh
+
+prodnet_path="${MODCELLHPC_S_PATH}/cases/ctherm-ae-matlab/prodnet.mat"
+case_path="${MODCELLHPC_S_PATH}/cases/ctherm-ae"
+
+mkdir -p  "$case_path"
+temp_script=$(mktemp)
+echo "cd  ${case_path}" >> "$temp_script"
+echo "prodnet2txt(\"${prodnet_path}\")" >> "$temp_script"
+~/progs/matlab/bin/matlab -nodesktop -nodisplay -sd ~/wrk/s/matlab < "$temp_script"

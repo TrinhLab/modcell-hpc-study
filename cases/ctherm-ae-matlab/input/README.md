@@ -1,0 +1,3 @@
+- Alcohol and ester targets for C. therm
+- Models obtained from ctherm-gem(-dev) repository 01-24-20
+- Minimum growth rate is 20 % of maximum (0.2*0.3746)

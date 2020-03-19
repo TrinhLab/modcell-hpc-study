@@ -8,5 +8,5 @@ else
 fi
 #outname=$(mc_shiftindex $pf_path | cut -d: -f2 | sed 's/ //')
 fbname=$(basename "$pf_path" .csv)
-mc_setcover "$pf_path"  --max 5000 | tee "${fbname}.covers"
+mc_setcover "$pf_path"  --max 100 | tee "${fbname}.covers"
 

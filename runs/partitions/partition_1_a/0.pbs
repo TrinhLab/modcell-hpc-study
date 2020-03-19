@@ -1,0 +1,10 @@
+#PBS -S /bin/bash
+#PBS -A ACF-UTK0011
+#PBS -l nodes=3,walltime=11:00:00
+module load openmpi/3.0.0-gcc6.3.0
+
+cd /nics/b/home/sgarcia/runs-modcell-hpc/runs/partition_1_a
+
+# Run modcell
+eval "mpiexec -n 48 /nics/b/home/sgarcia/modcell-hpc/src/modcell /nics/b/home/sgarcia/modcell-hpc/cases/partition_1_a/ /nics/b/home/sgarcia/runs-modcell-hpc/runs/partition_1_a/case0_out.pop --initial_population="" 	--objective_type=wgcp 	--alpha=5 	--beta=1 	--population_size=200 	--n_generations=100000000 	--seed=0 	--crossover_probability=0.8 	--mutation_probability=0.05 	--max_run_time=36000 	--migration_fraction=0.3 	--migration_interval=25 	--migration_topology=0 	--migration_policy=0 	"
+		

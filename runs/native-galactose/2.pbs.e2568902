@@ -1,0 +1,27 @@
+tput: No value for $TERM and no -T specified
+tput: No value for $TERM and no -T specified
+tput: No value for $TERM and no -T specified
+tput: No value for $TERM and no -T specified
+tput: No value for $TERM and no -T specified
+tput: No value for $TERM and no -T specified
+tput: No value for $TERM and no -T specified
+tput: No value for $TERM and no -T specified
+tput: No value for $TERM and no -T specified
+tput: No value for $TERM and no -T specified
+tput: No value for $TERM and no -T specified
+tput: No value for $TERM and no -T specified
+tput: No value for $TERM and no -T specified
+tput: No value for $TERM and no -T specified
+tput: No value for $TERM and no -T specified
+tput: No value for $TERM and no -T specified
+tput: No value for $TERM and no -T specified
+tput: No value for $TERM and no -T specified
+[acf-bc038:128483] Attempt to free memory that is still in use by an ongoing MPI communication (buffer 0x2b2626eca000, size 704512).  MPI job will now abort.
+[acf-bk002:32433] Attempt to free memory that is still in use by an ongoing MPI communication (buffer 0x2b31958c2000, size 704512).  MPI job will now abort.
+--------------------------------------------------------------------------
+mpiexec detected that one or more processes exited with non-zero status, thus causing
+the job to be terminated. The first process to do so was:
+
+  Process name: [[15302,1],15]
+  Exit code:    1
+--------------------------------------------------------------------------

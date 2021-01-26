@@ -1,0 +1,19 @@
+Products below compatibility in all designs (65/161): ['1agpe120', '1agpe140', '1agpe160', '1agpe161', '1agpe181', '1agpg120', '1agpg140', '1agpg141', '1agpg161', '23ddhb', '2agpe120', '2agpe140', '2agpe160', '2agpe161', '2agpe181', '2agpg120', '2agpg140', '2agpg141', '2agpg161', '2amsa', '2aobut', '2ddecg3p', '2mcacn', '2tdec7eg3p', '3c4mop', '4abut', '4abutn', '4hbz', 'aact', 'acg5sa', 'acglu', 'acser', 'actp', 'akg', 'ala__D', 'ala__L', 'alaala', 'appl', 'athr__L', 'bglycogen', 'cdpdddecg', 'cdpdtdec7eg', 'cdpdtdecg', 'fum', 'gal', 'ggptrc', 'ghb', 'glu__D', 'glu__L', 'gly', 'glyc__R', 'glycogen', 'leu__L', 'mal__L', 'man', 'micit', 'mnl1p', 'pyr', 'quin', 's7p', 'sbt6p', 'ser__L', 'sucsal', 'tre', 'val__L']
+Minimal cover size: 5
+Covers (Solution index) 	 Objective value:
+[1, 14, 296, 316, 378] 	 5.0
+[1, 14, 296, 316, 383] 	 5.0
+[1, 14, 299, 316, 383] 	 5.0
+[1, 14, 308, 316, 383] 	 5.0
+[1, 14, 299, 316, 378] 	 5.0
+[1, 14, 308, 316, 378] 	 5.0
+[1, 14, 310, 316, 378] 	 5.0
+[1, 14, 310, 316, 383] 	 5.0
+[1, 14, 312, 316, 383] 	 5.0
+[1, 14, 312, 316, 378] 	 5.0
+[1, 14, 315, 316, 378] 	 5.0
+[1, 14, 315, 316, 383] 	 5.0
+[1, 14, 316, 327, 383] 	 5.0
+[1, 14, 316, 327, 378] 	 5.0
+[1, 14, 316, 335, 378] 	 5.0
+[1, 14, 316, 335, 383] 	 5.0

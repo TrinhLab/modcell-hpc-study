@@ -12,7 +12,6 @@ notes.md
 
 # WIP items:
 
-analysis/generations/
 analysis/pathway-identification.ipynb
 analysis/pathway-properties/
 cases/extract_models.m
@@ -21,12 +20,6 @@ cases/create_id2name.m
 
 analysis/native-aerobic-60h/
 analysis/native-aerobic-red-60h/
-
-analysis/native-arabinose/
-analysis/native-galactose/
-analysis/native-mannose/
-analysis/native-xylose/
-analysis/overall-sugars/
 
 benchmark/gem-model-1h/.gitignore
 cases/aerobic_curation/
@@ -37,14 +30,6 @@ cases/ecoli-native-aerobic-red/
 cases/ecoli-native-matlab/models/
 cases/generate_ecoli-native-aerobic-red.sh
 
-cases/native-arabinose-matlab/
-cases/native-arabinose/
-cases/native-galactose-matlab/
-cases/native-galactose/
-cases/native-mannose-matlab/
-cases/native-mannose/
-cases/native-xylose-matlab/
-cases/native-xylose/
 
 cases/partition_1_a-matlab/
 cases/partition_1_a/
@@ -71,9 +56,5 @@ runs/native-aerobic-2/
 runs/native-aerobic-60h/
 runs/native-aerobic-red-60h/
 runs/native-aerobic/
-runs/native-arabinose/
-runs/native-galactose/
-runs/native-mannose/
-runs/native-xylose/
 runs/partitions.zip
 

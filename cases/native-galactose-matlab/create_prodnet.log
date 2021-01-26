@@ -1,0 +1,1411 @@
+LP solver set as : glpk
+Set cobra solver to glpk...
+[Warning: File: /home/sg/progs/cplex/cplex/matlab/x86-64_linux/@Cplex/Cplex.p
+Line: 965 Column: 0
+Defining "changedParam" in the nested function shares it with the parent
+function.  In a future release, to share "changedParam" between parent and
+nested functions, explicitly define it in the parent function.] 
+[> In changeCobraSolver (line 423)
+  In initCobraToolbox (line 388)
+  In changeCobraSolver (line 217)
+  In Prodnet (line 126)
+  In create_prodnet (line 8)] 
+ > The compatibility can only be evaluated on Linux Ubuntu.
+ > The solver compatibility is not tested with MATLAB R2018b.
+
+-----------------------------------------------------------
+|              Creating production networks               |
+-----------------------------------------------------------
+Production network for: 12dgr120
+Adding heterologus metabolites...
+Adding heterologus reactions and specifying fixed module reactions/genes...
+	Heterologus: EX_12dgr120_c
+	Fixed module (includes associated genes): 
+GPR information may be missing. Gene deletions cannot be used.
+
+-----------------------------------------------------------
+Production network for: 12dgr140
+Adding heterologus metabolites...
+Adding heterologus reactions and specifying fixed module reactions/genes...
+	Heterologus: EX_12dgr140_c
+	Fixed module (includes associated genes): 
+GPR information may be missing. Gene deletions cannot be used.
+
+-----------------------------------------------------------
+Production network for: 12dgr141
+Adding heterologus metabolites...
+Adding heterologus reactions and specifying fixed module reactions/genes...
+	Heterologus: EX_12dgr141_c
+	Fixed module (includes associated genes): 
+GPR information may be missing. Gene deletions cannot be used.
+
+-----------------------------------------------------------
+Production network for: 12dgr160
+Adding heterologus metabolites...
+Adding heterologus reactions and specifying fixed module reactions/genes...
+	Heterologus: EX_12dgr160_c
+	Fixed module (includes associated genes): 
+GPR information may be missing. Gene deletions cannot be used.
+
+-----------------------------------------------------------
+Production network for: 12dgr161
+Adding heterologus metabolites...
+Adding heterologus reactions and specifying fixed module reactions/genes...
+	Heterologus: EX_12dgr161_c
+	Fixed module (includes associated genes): 
+GPR information may be missing. Gene deletions cannot be used.
+
+-----------------------------------------------------------
+Production network for: 12dgr180
+Adding heterologus metabolites...
+Adding heterologus reactions and specifying fixed module reactions/genes...
+	Heterologus: EX_12dgr180_c
+	Fixed module (includes associated genes): 
+GPR information may be missing. Gene deletions cannot be used.
+
+-----------------------------------------------------------
+Production network for: 12dgr181
+Adding heterologus metabolites...
+Adding heterologus reactions and specifying fixed module reactions/genes...
+	Heterologus: EX_12dgr181_c
+	Fixed module (includes associated genes): 
+GPR information may be missing. Gene deletions cannot be used.
+
+-----------------------------------------------------------
+Production network for: 1agpe120
+Adding heterologus metabolites...
+Adding heterologus reactions and specifying fixed module reactions/genes...
+	Heterologus: EX_1agpe120_p
+	Fixed module (includes associated genes): 
+GPR information may be missing. Gene deletions cannot be used.
+
+-----------------------------------------------------------
+Production network for: 1agpe140
+Adding heterologus metabolites...
+Adding heterologus reactions and specifying fixed module reactions/genes...
+	Heterologus: EX_1agpe140_p
+	Fixed module (includes associated genes): 
+GPR information may be missing. Gene deletions cannot be used.
+
+-----------------------------------------------------------
+Production network for: 1agpe160
+Adding heterologus metabolites...
+Adding heterologus reactions and specifying fixed module reactions/genes...
+	Heterologus: EX_1agpe160_p
+	Fixed module (includes associated genes): 
+GPR information may be missing. Gene deletions cannot be used.
+
+-----------------------------------------------------------
+Production network for: 1agpe161
+Adding heterologus metabolites...
+Adding heterologus reactions and specifying fixed module reactions/genes...
+	Heterologus: EX_1agpe161_p
+	Fixed module (includes associated genes): 
+GPR information may be missing. Gene deletions cannot be used.
+
+-----------------------------------------------------------
+Production network for: 1agpe180
+Adding heterologus metabolites...
+Adding heterologus reactions and specifying fixed module reactions/genes...
+	Heterologus: EX_1agpe180_p
+	Fixed module (includes associated genes): 
+GPR information may be missing. Gene deletions cannot be used.
+
+-----------------------------------------------------------
+Production network for: 1agpe181
+Adding heterologus metabolites...
+Adding heterologus reactions and specifying fixed module reactions/genes...
+	Heterologus: EX_1agpe181_p
+	Fixed module (includes associated genes): 
+GPR information may be missing. Gene deletions cannot be used.
+
+-----------------------------------------------------------
+Production network for: 1agpg120
+Adding heterologus metabolites...
+Adding heterologus reactions and specifying fixed module reactions/genes...
+	Heterologus: EX_1agpg120_p
+	Fixed module (includes associated genes): 
+GPR information may be missing. Gene deletions cannot be used.
+
+-----------------------------------------------------------
+Production network for: 1agpg140
+Adding heterologus metabolites...
+Adding heterologus reactions and specifying fixed module reactions/genes...
+	Heterologus: EX_1agpg140_p
+	Fixed module (includes associated genes): 
+GPR information may be missing. Gene deletions cannot be used.
+
+-----------------------------------------------------------
+Production network for: 1agpg141
+Adding heterologus metabolites...
+Adding heterologus reactions and specifying fixed module reactions/genes...
+	Heterologus: EX_1agpg141_p
+	Fixed module (includes associated genes): 
+GPR information may be missing. Gene deletions cannot be used.
+
+-----------------------------------------------------------
+Production network for: 1agpg160
+Adding heterologus metabolites...
+Adding heterologus reactions and specifying fixed module reactions/genes...
+	Heterologus: EX_1agpg160_p
+	Fixed module (includes associated genes): 
+GPR information may be missing. Gene deletions cannot be used.
+
+-----------------------------------------------------------
+Production network for: 1agpg161
+Adding heterologus metabolites...
+Adding heterologus reactions and specifying fixed module reactions/genes...
+	Heterologus: EX_1agpg161_p
+	Fixed module (includes associated genes): 
+GPR information may be missing. Gene deletions cannot be used.
+
+-----------------------------------------------------------
+Production network for: 1agpg180
+Adding heterologus metabolites...
+Adding heterologus reactions and specifying fixed module reactions/genes...
+	Heterologus: EX_1agpg180_p
+	Fixed module (includes associated genes): 
+GPR information may be missing. Gene deletions cannot be used.
+
+-----------------------------------------------------------
+Production network for: 1agpg181
+Adding heterologus metabolites...
+Adding heterologus reactions and specifying fixed module reactions/genes...
+	Heterologus: EX_1agpg181_p
+	Fixed module (includes associated genes): 
+GPR information may be missing. Gene deletions cannot be used.
+
+-----------------------------------------------------------
+Production network for: 1ddecg3p
+Adding heterologus metabolites...
+Adding heterologus reactions and specifying fixed module reactions/genes...
+	Heterologus: EX_1ddecg3p_c
+	Fixed module (includes associated genes): 
+GPR information may be missing. Gene deletions cannot be used.
+
+-----------------------------------------------------------
+Production network for: 1hdec9eg3p
+Adding heterologus metabolites...
+Adding heterologus reactions and specifying fixed module reactions/genes...
+	Heterologus: EX_1hdec9eg3p_c
+	Fixed module (includes associated genes): 
+GPR information may be missing. Gene deletions cannot be used.
+
+-----------------------------------------------------------
+Production network for: 1hdecg3p
+Adding heterologus metabolites...
+Adding heterologus reactions and specifying fixed module reactions/genes...
+	Heterologus: EX_1hdecg3p_c
+	Fixed module (includes associated genes): 
+GPR information may be missing. Gene deletions cannot be used.
+
+-----------------------------------------------------------
+Production network for: 1odec11eg3p
+Adding heterologus metabolites...
+Adding heterologus reactions and specifying fixed module reactions/genes...
+	Heterologus: EX_1odec11eg3p_c
+	Fixed module (includes associated genes): 
+GPR information may be missing. Gene deletions cannot be used.
+
+-----------------------------------------------------------
+Production network for: 1odecg3p
+Adding heterologus metabolites...
+Adding heterologus reactions and specifying fixed module reactions/genes...
+	Heterologus: EX_1odecg3p_c
+	Fixed module (includes associated genes): 
+GPR information may be missing. Gene deletions cannot be used.
+
+-----------------------------------------------------------
+Production network for: 1tdec7eg3p
+Adding heterologus metabolites...
+Adding heterologus reactions and specifying fixed module reactions/genes...
+	Heterologus: EX_1tdec7eg3p_c
+	Fixed module (includes associated genes): 
+GPR information may be missing. Gene deletions cannot be used.
+
+-----------------------------------------------------------
+Production network for: 1tdecg3p
+Adding heterologus metabolites...
+Adding heterologus reactions and specifying fixed module reactions/genes...
+	Heterologus: EX_1tdecg3p_c
+	Fixed module (includes associated genes): 
+GPR information may be missing. Gene deletions cannot be used.
+
+-----------------------------------------------------------
+Production network for: 23ddhb
+Adding heterologus metabolites...
+Adding heterologus reactions and specifying fixed module reactions/genes...
+	Heterologus: EX_23ddhb_c
+	Fixed module (includes associated genes): 
+GPR information may be missing. Gene deletions cannot be used.
+
+-----------------------------------------------------------
+Production network for: 23dhmb
+Adding heterologus metabolites...
+Adding heterologus reactions and specifying fixed module reactions/genes...
+	Heterologus: EX_23dhmb_c
+	Fixed module (includes associated genes): 
+GPR information may be missing. Gene deletions cannot be used.
+
+-----------------------------------------------------------
+Production network for: 2agpe120
+Adding heterologus metabolites...
+Adding heterologus reactions and specifying fixed module reactions/genes...
+	Heterologus: EX_2agpe120_c
+	Fixed module (includes associated genes): 
+GPR information may be missing. Gene deletions cannot be used.
+
+-----------------------------------------------------------
+Production network for: 2agpe140
+Adding heterologus metabolites...
+Adding heterologus reactions and specifying fixed module reactions/genes...
+	Heterologus: EX_2agpe140_c
+	Fixed module (includes associated genes): 
+GPR information may be missing. Gene deletions cannot be used.
+
+-----------------------------------------------------------
+Production network for: 2agpe160
+Adding heterologus metabolites...
+Adding heterologus reactions and specifying fixed module reactions/genes...
+	Heterologus: EX_2agpe160_c
+	Fixed module (includes associated genes): 
+GPR information may be missing. Gene deletions cannot be used.
+
+-----------------------------------------------------------
+Production network for: 2agpe161
+Adding heterologus metabolites...
+Adding heterologus reactions and specifying fixed module reactions/genes...
+	Heterologus: EX_2agpe161_c
+	Fixed module (includes associated genes): 
+GPR information may be missing. Gene deletions cannot be used.
+
+-----------------------------------------------------------
+Production network for: 2agpe180
+Adding heterologus metabolites...
+Adding heterologus reactions and specifying fixed module reactions/genes...
+	Heterologus: EX_2agpe180_c
+	Fixed module (includes associated genes): 
+GPR information may be missing. Gene deletions cannot be used.
+
+-----------------------------------------------------------
+Production network for: 2agpe181
+Adding heterologus metabolites...
+Adding heterologus reactions and specifying fixed module reactions/genes...
+	Heterologus: EX_2agpe181_c
+	Fixed module (includes associated genes): 
+GPR information may be missing. Gene deletions cannot be used.
+
+-----------------------------------------------------------
+Production network for: 2agpg120
+Adding heterologus metabolites...
+Adding heterologus reactions and specifying fixed module reactions/genes...
+	Heterologus: EX_2agpg120_c
+	Fixed module (includes associated genes): 
+GPR information may be missing. Gene deletions cannot be used.
+
+-----------------------------------------------------------
+Production network for: 2agpg140
+Adding heterologus metabolites...
+Adding heterologus reactions and specifying fixed module reactions/genes...
+	Heterologus: EX_2agpg140_c
+	Fixed module (includes associated genes): 
+GPR information may be missing. Gene deletions cannot be used.
+
+-----------------------------------------------------------
+Production network for: 2agpg141
+Adding heterologus metabolites...
+Adding heterologus reactions and specifying fixed module reactions/genes...
+	Heterologus: EX_2agpg141_c
+	Fixed module (includes associated genes): 
+GPR information may be missing. Gene deletions cannot be used.
+
+-----------------------------------------------------------
+Production network for: 2agpg160
+Adding heterologus metabolites...
+Adding heterologus reactions and specifying fixed module reactions/genes...
+	Heterologus: EX_2agpg160_c
+	Fixed module (includes associated genes): 
+GPR information may be missing. Gene deletions cannot be used.
+
+-----------------------------------------------------------
+Production network for: 2agpg161
+Adding heterologus metabolites...
+Adding heterologus reactions and specifying fixed module reactions/genes...
+	Heterologus: EX_2agpg161_c
+	Fixed module (includes associated genes): 
+GPR information may be missing. Gene deletions cannot be used.
+
+-----------------------------------------------------------
+Production network for: 2agpg180
+Adding heterologus metabolites...
+Adding heterologus reactions and specifying fixed module reactions/genes...
+	Heterologus: EX_2agpg180_c
+	Fixed module (includes associated genes): 
+GPR information may be missing. Gene deletions cannot be used.
+
+-----------------------------------------------------------
+Production network for: 2agpg181
+Adding heterologus metabolites...
+Adding heterologus reactions and specifying fixed module reactions/genes...
+	Heterologus: EX_2agpg181_c
+	Fixed module (includes associated genes): 
+GPR information may be missing. Gene deletions cannot be used.
+
+-----------------------------------------------------------
+Production network for: 2amsa
+Adding heterologus metabolites...
+Adding heterologus reactions and specifying fixed module reactions/genes...
+	Heterologus: EX_2amsa_c
+	Fixed module (includes associated genes): 
+GPR information may be missing. Gene deletions cannot be used.
+
+-----------------------------------------------------------
+Production network for: 2aobut
+Adding heterologus metabolites...
+Adding heterologus reactions and specifying fixed module reactions/genes...
+	Heterologus: EX_2aobut_c
+	Fixed module (includes associated genes): 
+GPR information may be missing. Gene deletions cannot be used.
+
+-----------------------------------------------------------
+Production network for: 2ddecg3p
+Adding heterologus metabolites...
+Adding heterologus reactions and specifying fixed module reactions/genes...
+	Heterologus: EX_2ddecg3p_c
+	Fixed module (includes associated genes): 
+GPR information may be missing. Gene deletions cannot be used.
+
+-----------------------------------------------------------
+Production network for: 2hdec9eg3p
+Adding heterologus metabolites...
+Adding heterologus reactions and specifying fixed module reactions/genes...
+	Heterologus: EX_2hdec9eg3p_c
+	Fixed module (includes associated genes): 
+GPR information may be missing. Gene deletions cannot be used.
+
+-----------------------------------------------------------
+Production network for: 2hdecg3p
+Adding heterologus metabolites...
+Adding heterologus reactions and specifying fixed module reactions/genes...
+	Heterologus: EX_2hdecg3p_c
+	Fixed module (includes associated genes): 
+GPR information may be missing. Gene deletions cannot be used.
+
+-----------------------------------------------------------
+Production network for: 2ippm
+Adding heterologus metabolites...
+Adding heterologus reactions and specifying fixed module reactions/genes...
+	Heterologus: EX_2ippm_c
+	Fixed module (includes associated genes): 
+GPR information may be missing. Gene deletions cannot be used.
+
+-----------------------------------------------------------
+Production network for: 2mcacn
+Adding heterologus metabolites...
+Adding heterologus reactions and specifying fixed module reactions/genes...
+	Heterologus: EX_2mcacn_c
+	Fixed module (includes associated genes): 
+GPR information may be missing. Gene deletions cannot be used.
+
+-----------------------------------------------------------
+Production network for: 2odec11eg3p
+Adding heterologus metabolites...
+Adding heterologus reactions and specifying fixed module reactions/genes...
+	Heterologus: EX_2odec11eg3p_c
+	Fixed module (includes associated genes): 
+GPR information may be missing. Gene deletions cannot be used.
+
+-----------------------------------------------------------
+Production network for: 2odecg3p
+Adding heterologus metabolites...
+Adding heterologus reactions and specifying fixed module reactions/genes...
+	Heterologus: EX_2odecg3p_p
+	Fixed module (includes associated genes): 
+GPR information may be missing. Gene deletions cannot be used.
+
+-----------------------------------------------------------
+Production network for: 2tdec7eg3p
+Adding heterologus metabolites...
+Adding heterologus reactions and specifying fixed module reactions/genes...
+	Heterologus: EX_2tdec7eg3p_c
+	Fixed module (includes associated genes): 
+GPR information may be missing. Gene deletions cannot be used.
+
+-----------------------------------------------------------
+Production network for: 2tdecg3p
+Adding heterologus metabolites...
+Adding heterologus reactions and specifying fixed module reactions/genes...
+	Heterologus: EX_2tdecg3p_c
+	Fixed module (includes associated genes): 
+GPR information may be missing. Gene deletions cannot be used.
+
+-----------------------------------------------------------
+Production network for: 3c2hmp
+Adding heterologus metabolites...
+Adding heterologus reactions and specifying fixed module reactions/genes...
+	Heterologus: EX_3c2hmp_c
+	Fixed module (includes associated genes): 
+GPR information may be missing. Gene deletions cannot be used.
+
+-----------------------------------------------------------
+Production network for: 3c3hmp
+Adding heterologus metabolites...
+Adding heterologus reactions and specifying fixed module reactions/genes...
+	Heterologus: EX_3c3hmp_c
+	Fixed module (includes associated genes): 
+GPR information may be missing. Gene deletions cannot be used.
+
+-----------------------------------------------------------
+Production network for: 3c4mop
+Adding heterologus metabolites...
+Adding heterologus reactions and specifying fixed module reactions/genes...
+	Heterologus: EX_3c4mop_c
+	Fixed module (includes associated genes): 
+GPR information may be missing. Gene deletions cannot be used.
+
+-----------------------------------------------------------
+Production network for: 3mob
+Adding heterologus metabolites...
+Adding heterologus reactions and specifying fixed module reactions/genes...
+	Heterologus: EX_3mob_c
+	Fixed module (includes associated genes): 
+GPR information may be missing. Gene deletions cannot be used.
+
+-----------------------------------------------------------
+Production network for: 4abut
+Adding heterologus metabolites...
+Adding heterologus reactions and specifying fixed module reactions/genes...
+	Heterologus: EX_4abut_c
+	Fixed module (includes associated genes): 
+GPR information may be missing. Gene deletions cannot be used.
+
+-----------------------------------------------------------
+Production network for: 4abutn
+Adding heterologus metabolites...
+Adding heterologus reactions and specifying fixed module reactions/genes...
+	Heterologus: EX_4abutn_c
+	Fixed module (includes associated genes): 
+GPR information may be missing. Gene deletions cannot be used.
+
+-----------------------------------------------------------
+Production network for: 4hbz
+Adding heterologus metabolites...
+Adding heterologus reactions and specifying fixed module reactions/genes...
+	Heterologus: EX_4hbz_c
+	Fixed module (includes associated genes): 
+GPR information may be missing. Gene deletions cannot be used.
+
+-----------------------------------------------------------
+Production network for: 4mop
+Adding heterologus metabolites...
+Adding heterologus reactions and specifying fixed module reactions/genes...
+	Heterologus: EX_4mop_c
+	Fixed module (includes associated genes): 
+GPR information may be missing. Gene deletions cannot be used.
+
+-----------------------------------------------------------
+Production network for: aact
+Adding heterologus metabolites...
+Adding heterologus reactions and specifying fixed module reactions/genes...
+	Heterologus: EX_aact_c
+	Fixed module (includes associated genes): 
+GPR information may be missing. Gene deletions cannot be used.
+
+-----------------------------------------------------------
+Production network for: ac
+Adding heterologus metabolites...
+Adding heterologus reactions and specifying fixed module reactions/genes...
+	Heterologus: 
+	Fixed module (includes associated genes): EX_ac_e
+
+-----------------------------------------------------------
+Production network for: acald
+Adding heterologus metabolites...
+Adding heterologus reactions and specifying fixed module reactions/genes...
+	Heterologus: EX_acald_c
+	Fixed module (includes associated genes): 
+GPR information may be missing. Gene deletions cannot be used.
+
+-----------------------------------------------------------
+Production network for: acg5sa
+Adding heterologus metabolites...
+Adding heterologus reactions and specifying fixed module reactions/genes...
+	Heterologus: EX_acg5sa_c
+	Fixed module (includes associated genes): 
+GPR information may be missing. Gene deletions cannot be used.
+
+-----------------------------------------------------------
+Production network for: acglu
+Adding heterologus metabolites...
+Adding heterologus reactions and specifying fixed module reactions/genes...
+	Heterologus: EX_acglu_c
+	Fixed module (includes associated genes): 
+GPR information may be missing. Gene deletions cannot be used.
+
+-----------------------------------------------------------
+Production network for: acser
+Adding heterologus metabolites...
+Adding heterologus reactions and specifying fixed module reactions/genes...
+	Heterologus: EX_acser_c
+	Fixed module (includes associated genes): 
+GPR information may be missing. Gene deletions cannot be used.
+
+-----------------------------------------------------------
+Production network for: actp
+Adding heterologus metabolites...
+Adding heterologus reactions and specifying fixed module reactions/genes...
+	Heterologus: EX_actp_c
+	Fixed module (includes associated genes): 
+GPR information may be missing. Gene deletions cannot be used.
+
+-----------------------------------------------------------
+Production network for: akg
+Adding heterologus metabolites...
+Adding heterologus reactions and specifying fixed module reactions/genes...
+	Heterologus: EX_akg_c
+	Fixed module (includes associated genes): 
+GPR information may be missing. Gene deletions cannot be used.
+
+-----------------------------------------------------------
+Production network for: ala__D
+Adding heterologus metabolites...
+Adding heterologus reactions and specifying fixed module reactions/genes...
+	Heterologus: EX_ala__D_c
+	Fixed module (includes associated genes): 
+GPR information may be missing. Gene deletions cannot be used.
+
+-----------------------------------------------------------
+Production network for: ala__L
+Adding heterologus metabolites...
+Adding heterologus reactions and specifying fixed module reactions/genes...
+	Heterologus: EX_ala__L_c
+	Fixed module (includes associated genes): 
+GPR information may be missing. Gene deletions cannot be used.
+
+-----------------------------------------------------------
+Production network for: alaala
+Adding heterologus metabolites...
+Adding heterologus reactions and specifying fixed module reactions/genes...
+	Heterologus: EX_alaala_c
+	Fixed module (includes associated genes): 
+GPR information may be missing. Gene deletions cannot be used.
+
+-----------------------------------------------------------
+Production network for: apg120
+Adding heterologus metabolites...
+Adding heterologus reactions and specifying fixed module reactions/genes...
+	Heterologus: EX_apg120_c
+	Fixed module (includes associated genes): 
+GPR information may be missing. Gene deletions cannot be used.
+
+-----------------------------------------------------------
+Production network for: appl
+Adding heterologus metabolites...
+Adding heterologus reactions and specifying fixed module reactions/genes...
+	Heterologus: EX_appl_c
+	Fixed module (includes associated genes): 
+GPR information may be missing. Gene deletions cannot be used.
+
+-----------------------------------------------------------
+Production network for: athr__L
+Adding heterologus metabolites...
+Adding heterologus reactions and specifying fixed module reactions/genes...
+	Heterologus: EX_athr__L_c
+	Fixed module (includes associated genes): 
+GPR information may be missing. Gene deletions cannot be used.
+
+-----------------------------------------------------------
+Production network for: bglycogen
+Adding heterologus metabolites...
+Adding heterologus reactions and specifying fixed module reactions/genes...
+	Heterologus: EX_bglycogen_c
+	Fixed module (includes associated genes): 
+GPR information may be missing. Gene deletions cannot be used.
+
+-----------------------------------------------------------
+Production network for: cdpdddecg
+Adding heterologus metabolites...
+Adding heterologus reactions and specifying fixed module reactions/genes...
+	Heterologus: EX_cdpdddecg_c
+	Fixed module (includes associated genes): 
+GPR information may be missing. Gene deletions cannot be used.
+
+-----------------------------------------------------------
+Production network for: cdpdtdec7eg
+Adding heterologus metabolites...
+Adding heterologus reactions and specifying fixed module reactions/genes...
+	Heterologus: EX_cdpdtdec7eg_c
+	Fixed module (includes associated genes): 
+GPR information may be missing. Gene deletions cannot be used.
+
+-----------------------------------------------------------
+Production network for: cdpdtdecg
+Adding heterologus metabolites...
+Adding heterologus reactions and specifying fixed module reactions/genes...
+	Heterologus: EX_cdpdtdecg_c
+	Fixed module (includes associated genes): 
+GPR information may be missing. Gene deletions cannot be used.
+
+-----------------------------------------------------------
+Production network for: dca
+Adding heterologus metabolites...
+Adding heterologus reactions and specifying fixed module reactions/genes...
+	Heterologus: EX_dca_c
+	Fixed module (includes associated genes): 
+GPR information may be missing. Gene deletions cannot be used.
+
+-----------------------------------------------------------
+Production network for: ddca
+Adding heterologus metabolites...
+Adding heterologus reactions and specifying fixed module reactions/genes...
+	Heterologus: EX_ddca_c
+	Fixed module (includes associated genes): 
+GPR information may be missing. Gene deletions cannot be used.
+
+-----------------------------------------------------------
+Production network for: ddcap
+Adding heterologus metabolites...
+Adding heterologus reactions and specifying fixed module reactions/genes...
+	Heterologus: EX_ddcap_c
+	Fixed module (includes associated genes): 
+GPR information may be missing. Gene deletions cannot be used.
+
+-----------------------------------------------------------
+Production network for: dha
+Adding heterologus metabolites...
+Adding heterologus reactions and specifying fixed module reactions/genes...
+	Heterologus: EX_dha_c
+	Fixed module (includes associated genes): 
+GPR information may be missing. Gene deletions cannot be used.
+
+-----------------------------------------------------------
+Production network for: etoh
+Adding heterologus metabolites...
+Adding heterologus reactions and specifying fixed module reactions/genes...
+	Heterologus: 
+	Fixed module (includes associated genes): EX_etoh_e
+
+-----------------------------------------------------------
+Production network for: for
+Adding heterologus metabolites...
+Adding heterologus reactions and specifying fixed module reactions/genes...
+	Heterologus: 
+	Fixed module (includes associated genes): EX_for_e
+
+-----------------------------------------------------------
+Production network for: fum
+Adding heterologus metabolites...
+Adding heterologus reactions and specifying fixed module reactions/genes...
+	Heterologus: EX_fum_c
+	Fixed module (includes associated genes): 
+GPR information may be missing. Gene deletions cannot be used.
+
+-----------------------------------------------------------
+Production network for: gal
+Adding heterologus metabolites...
+Adding heterologus reactions and specifying fixed module reactions/genes...
+	Heterologus: EX_gal_c
+	Fixed module (includes associated genes): 
+GPR information may be missing. Gene deletions cannot be used.
+
+-----------------------------------------------------------
+Production network for: ggptrc
+Adding heterologus metabolites...
+Adding heterologus reactions and specifying fixed module reactions/genes...
+	Heterologus: EX_ggptrc_c
+	Fixed module (includes associated genes): 
+GPR information may be missing. Gene deletions cannot be used.
+
+-----------------------------------------------------------
+Production network for: ghb
+Adding heterologus metabolites...
+Adding heterologus reactions and specifying fixed module reactions/genes...
+	Heterologus: EX_ghb_c
+	Fixed module (includes associated genes): 
+GPR information may be missing. Gene deletions cannot be used.
+
+-----------------------------------------------------------
+Production network for: glu__D
+Adding heterologus metabolites...
+Adding heterologus reactions and specifying fixed module reactions/genes...
+	Heterologus: EX_glu__D_c
+	Fixed module (includes associated genes): 
+GPR information may be missing. Gene deletions cannot be used.
+
+-----------------------------------------------------------
+Production network for: glu__L
+Adding heterologus metabolites...
+Adding heterologus reactions and specifying fixed module reactions/genes...
+	Heterologus: EX_glu__L_c
+	Fixed module (includes associated genes): 
+GPR information may be missing. Gene deletions cannot be used.
+
+-----------------------------------------------------------
+Production network for: gly
+Adding heterologus metabolites...
+Adding heterologus reactions and specifying fixed module reactions/genes...
+	Heterologus: 
+	Fixed module (includes associated genes): EX_gly_e
+Updating bounds of module reaction: EX_gly_e...
+	lb: 0 --> 0
+	ub: 0 --> Inf
+
+-----------------------------------------------------------
+Production network for: glyc__R
+Adding heterologus metabolites...
+Adding heterologus reactions and specifying fixed module reactions/genes...
+	Heterologus: 
+	Fixed module (includes associated genes): EX_glyc__R_e
+Updating bounds of module reaction: EX_glyc__R_e...
+	lb: 0 --> 0
+	ub: 0 --> Inf
+
+-----------------------------------------------------------
+Production network for: glycogen
+Adding heterologus metabolites...
+Adding heterologus reactions and specifying fixed module reactions/genes...
+	Heterologus: EX_glycogen_c
+	Fixed module (includes associated genes): 
+GPR information may be missing. Gene deletions cannot be used.
+
+-----------------------------------------------------------
+Production network for: hdca
+Adding heterologus metabolites...
+Adding heterologus reactions and specifying fixed module reactions/genes...
+	Heterologus: EX_hdca_c
+	Fixed module (includes associated genes): 
+GPR information may be missing. Gene deletions cannot be used.
+
+-----------------------------------------------------------
+Production network for: hdcap
+Adding heterologus metabolites...
+Adding heterologus reactions and specifying fixed module reactions/genes...
+	Heterologus: EX_hdcap_c
+	Fixed module (includes associated genes): 
+GPR information may be missing. Gene deletions cannot be used.
+
+-----------------------------------------------------------
+Production network for: hdcea
+Adding heterologus metabolites...
+Adding heterologus reactions and specifying fixed module reactions/genes...
+	Heterologus: EX_hdcea_c
+	Fixed module (includes associated genes): 
+GPR information may be missing. Gene deletions cannot be used.
+
+-----------------------------------------------------------
+Production network for: hdceap
+Adding heterologus metabolites...
+Adding heterologus reactions and specifying fixed module reactions/genes...
+	Heterologus: EX_hdceap_c
+	Fixed module (includes associated genes): 
+GPR information may be missing. Gene deletions cannot be used.
+
+-----------------------------------------------------------
+Production network for: hxa
+Adding heterologus metabolites...
+Adding heterologus reactions and specifying fixed module reactions/genes...
+	Heterologus: EX_hxa_c
+	Fixed module (includes associated genes): 
+GPR information may be missing. Gene deletions cannot be used.
+
+-----------------------------------------------------------
+Production network for: lac__D
+Adding heterologus metabolites...
+Adding heterologus reactions and specifying fixed module reactions/genes...
+	Heterologus: 
+	Fixed module (includes associated genes): EX_lac__D_e
+
+-----------------------------------------------------------
+Production network for: leu__L
+Adding heterologus metabolites...
+Adding heterologus reactions and specifying fixed module reactions/genes...
+	Heterologus: EX_leu__L_c
+	Fixed module (includes associated genes): 
+GPR information may be missing. Gene deletions cannot be used.
+
+-----------------------------------------------------------
+Production network for: lipidX
+Adding heterologus metabolites...
+Adding heterologus reactions and specifying fixed module reactions/genes...
+	Heterologus: EX_lipidX_c
+	Fixed module (includes associated genes): 
+GPR information may be missing. Gene deletions cannot be used.
+
+-----------------------------------------------------------
+Production network for: mal__L
+Adding heterologus metabolites...
+Adding heterologus reactions and specifying fixed module reactions/genes...
+	Heterologus: EX_mal__L_c
+	Fixed module (includes associated genes): 
+GPR information may be missing. Gene deletions cannot be used.
+
+-----------------------------------------------------------
+Production network for: man
+Adding heterologus metabolites...
+Adding heterologus reactions and specifying fixed module reactions/genes...
+	Heterologus: EX_man_c
+	Fixed module (includes associated genes): 
+GPR information may be missing. Gene deletions cannot be used.
+
+-----------------------------------------------------------
+Production network for: micit
+Adding heterologus metabolites...
+Adding heterologus reactions and specifying fixed module reactions/genes...
+	Heterologus: EX_micit_c
+	Fixed module (includes associated genes): 
+GPR information may be missing. Gene deletions cannot be used.
+
+-----------------------------------------------------------
+Production network for: mnl1p
+Adding heterologus metabolites...
+Adding heterologus reactions and specifying fixed module reactions/genes...
+	Heterologus: EX_mnl1p_c
+	Fixed module (includes associated genes): 
+GPR information may be missing. Gene deletions cannot be used.
+
+-----------------------------------------------------------
+Production network for: ocdca
+Adding heterologus metabolites...
+Adding heterologus reactions and specifying fixed module reactions/genes...
+	Heterologus: EX_ocdca_c
+	Fixed module (includes associated genes): 
+GPR information may be missing. Gene deletions cannot be used.
+
+-----------------------------------------------------------
+Production network for: ocdcap
+Adding heterologus metabolites...
+Adding heterologus reactions and specifying fixed module reactions/genes...
+	Heterologus: EX_ocdcap_c
+	Fixed module (includes associated genes): 
+GPR information may be missing. Gene deletions cannot be used.
+
+-----------------------------------------------------------
+Production network for: ocdcea
+Adding heterologus metabolites...
+Adding heterologus reactions and specifying fixed module reactions/genes...
+	Heterologus: EX_ocdcea_c
+	Fixed module (includes associated genes): 
+GPR information may be missing. Gene deletions cannot be used.
+
+-----------------------------------------------------------
+Production network for: ocdceap
+Adding heterologus metabolites...
+Adding heterologus reactions and specifying fixed module reactions/genes...
+	Heterologus: EX_ocdceap_c
+	Fixed module (includes associated genes): 
+GPR information may be missing. Gene deletions cannot be used.
+
+-----------------------------------------------------------
+Production network for: octa
+Adding heterologus metabolites...
+Adding heterologus reactions and specifying fixed module reactions/genes...
+	Heterologus: EX_octa_c
+	Fixed module (includes associated genes): 
+GPR information may be missing. Gene deletions cannot be used.
+
+-----------------------------------------------------------
+Production network for: octapb
+Adding heterologus metabolites...
+Adding heterologus reactions and specifying fixed module reactions/genes...
+	Heterologus: EX_octapb_c
+	Fixed module (includes associated genes): 
+GPR information may be missing. Gene deletions cannot be used.
+
+-----------------------------------------------------------
+Production network for: pa120
+Adding heterologus metabolites...
+Adding heterologus reactions and specifying fixed module reactions/genes...
+	Heterologus: EX_pa120_c
+	Fixed module (includes associated genes): 
+GPR information may be missing. Gene deletions cannot be used.
+
+-----------------------------------------------------------
+Production network for: pa140
+Adding heterologus metabolites...
+Adding heterologus reactions and specifying fixed module reactions/genes...
+	Heterologus: EX_pa140_c
+	Fixed module (includes associated genes): 
+GPR information may be missing. Gene deletions cannot be used.
+
+-----------------------------------------------------------
+Production network for: pa141
+Adding heterologus metabolites...
+Adding heterologus reactions and specifying fixed module reactions/genes...
+	Heterologus: EX_pa141_c
+	Fixed module (includes associated genes): 
+GPR information may be missing. Gene deletions cannot be used.
+
+-----------------------------------------------------------
+Production network for: pa160
+Adding heterologus metabolites...
+Adding heterologus reactions and specifying fixed module reactions/genes...
+	Heterologus: EX_pa160_c
+	Fixed module (includes associated genes): 
+GPR information may be missing. Gene deletions cannot be used.
+
+-----------------------------------------------------------
+Production network for: pa161
+Adding heterologus metabolites...
+Adding heterologus reactions and specifying fixed module reactions/genes...
+	Heterologus: EX_pa161_c
+	Fixed module (includes associated genes): 
+GPR information may be missing. Gene deletions cannot be used.
+
+-----------------------------------------------------------
+Production network for: pa180
+Adding heterologus metabolites...
+Adding heterologus reactions and specifying fixed module reactions/genes...
+	Heterologus: EX_pa180_c
+	Fixed module (includes associated genes): 
+GPR information may be missing. Gene deletions cannot be used.
+
+-----------------------------------------------------------
+Production network for: pa181
+Adding heterologus metabolites...
+Adding heterologus reactions and specifying fixed module reactions/genes...
+	Heterologus: EX_pa181_c
+	Fixed module (includes associated genes): 
+GPR information may be missing. Gene deletions cannot be used.
+
+-----------------------------------------------------------
+Production network for: pe120
+Adding heterologus metabolites...
+Adding heterologus reactions and specifying fixed module reactions/genes...
+	Heterologus: EX_pe120_c
+	Fixed module (includes associated genes): 
+GPR information may be missing. Gene deletions cannot be used.
+
+-----------------------------------------------------------
+Production network for: pe140
+Adding heterologus metabolites...
+Adding heterologus reactions and specifying fixed module reactions/genes...
+	Heterologus: EX_pe140_c
+	Fixed module (includes associated genes): 
+GPR information may be missing. Gene deletions cannot be used.
+
+-----------------------------------------------------------
+Production network for: pe141
+Adding heterologus metabolites...
+Adding heterologus reactions and specifying fixed module reactions/genes...
+	Heterologus: EX_pe141_c
+	Fixed module (includes associated genes): 
+GPR information may be missing. Gene deletions cannot be used.
+
+-----------------------------------------------------------
+Production network for: pe160
+Adding heterologus metabolites...
+Adding heterologus reactions and specifying fixed module reactions/genes...
+	Heterologus: EX_pe160_c
+	Fixed module (includes associated genes): 
+GPR information may be missing. Gene deletions cannot be used.
+
+-----------------------------------------------------------
+Production network for: pe161
+Adding heterologus metabolites...
+Adding heterologus reactions and specifying fixed module reactions/genes...
+	Heterologus: EX_pe161_c
+	Fixed module (includes associated genes): 
+GPR information may be missing. Gene deletions cannot be used.
+
+-----------------------------------------------------------
+Production network for: pe180
+Adding heterologus metabolites...
+Adding heterologus reactions and specifying fixed module reactions/genes...
+	Heterologus: EX_pe180_c
+	Fixed module (includes associated genes): 
+GPR information may be missing. Gene deletions cannot be used.
+
+-----------------------------------------------------------
+Production network for: pe181
+Adding heterologus metabolites...
+Adding heterologus reactions and specifying fixed module reactions/genes...
+	Heterologus: EX_pe181_c
+	Fixed module (includes associated genes): 
+GPR information may be missing. Gene deletions cannot be used.
+
+-----------------------------------------------------------
+Production network for: pg120
+Adding heterologus metabolites...
+Adding heterologus reactions and specifying fixed module reactions/genes...
+	Heterologus: EX_pg120_c
+	Fixed module (includes associated genes): 
+GPR information may be missing. Gene deletions cannot be used.
+
+-----------------------------------------------------------
+Production network for: pg140
+Adding heterologus metabolites...
+Adding heterologus reactions and specifying fixed module reactions/genes...
+	Heterologus: EX_pg140_c
+	Fixed module (includes associated genes): 
+GPR information may be missing. Gene deletions cannot be used.
+
+-----------------------------------------------------------
+Production network for: pg141
+Adding heterologus metabolites...
+Adding heterologus reactions and specifying fixed module reactions/genes...
+	Heterologus: EX_pg141_c
+	Fixed module (includes associated genes): 
+GPR information may be missing. Gene deletions cannot be used.
+
+-----------------------------------------------------------
+Production network for: pg160
+Adding heterologus metabolites...
+Adding heterologus reactions and specifying fixed module reactions/genes...
+	Heterologus: EX_pg160_c
+	Fixed module (includes associated genes): 
+GPR information may be missing. Gene deletions cannot be used.
+
+-----------------------------------------------------------
+Production network for: pg161
+Adding heterologus metabolites...
+Adding heterologus reactions and specifying fixed module reactions/genes...
+	Heterologus: EX_pg161_c
+	Fixed module (includes associated genes): 
+GPR information may be missing. Gene deletions cannot be used.
+
+-----------------------------------------------------------
+Production network for: pg180
+Adding heterologus metabolites...
+Adding heterologus reactions and specifying fixed module reactions/genes...
+	Heterologus: EX_pg180_c
+	Fixed module (includes associated genes): 
+GPR information may be missing. Gene deletions cannot be used.
+
+-----------------------------------------------------------
+Production network for: pg181
+Adding heterologus metabolites...
+Adding heterologus reactions and specifying fixed module reactions/genes...
+	Heterologus: EX_pg181_c
+	Fixed module (includes associated genes): 
+GPR information may be missing. Gene deletions cannot be used.
+
+-----------------------------------------------------------
+Production network for: pgp120
+Adding heterologus metabolites...
+Adding heterologus reactions and specifying fixed module reactions/genes...
+	Heterologus: EX_pgp120_c
+	Fixed module (includes associated genes): 
+GPR information may be missing. Gene deletions cannot be used.
+
+-----------------------------------------------------------
+Production network for: pgp140
+Adding heterologus metabolites...
+Adding heterologus reactions and specifying fixed module reactions/genes...
+	Heterologus: EX_pgp140_c
+	Fixed module (includes associated genes): 
+GPR information may be missing. Gene deletions cannot be used.
+
+-----------------------------------------------------------
+Production network for: pgp141
+Adding heterologus metabolites...
+Adding heterologus reactions and specifying fixed module reactions/genes...
+	Heterologus: EX_pgp141_c
+	Fixed module (includes associated genes): 
+GPR information may be missing. Gene deletions cannot be used.
+
+-----------------------------------------------------------
+Production network for: pgp160
+Adding heterologus metabolites...
+Adding heterologus reactions and specifying fixed module reactions/genes...
+	Heterologus: EX_pgp160_c
+	Fixed module (includes associated genes): 
+GPR information may be missing. Gene deletions cannot be used.
+
+-----------------------------------------------------------
+Production network for: pgp161
+Adding heterologus metabolites...
+Adding heterologus reactions and specifying fixed module reactions/genes...
+	Heterologus: EX_pgp161_c
+	Fixed module (includes associated genes): 
+GPR information may be missing. Gene deletions cannot be used.
+
+-----------------------------------------------------------
+Production network for: pgp180
+Adding heterologus metabolites...
+Adding heterologus reactions and specifying fixed module reactions/genes...
+	Heterologus: EX_pgp180_c
+	Fixed module (includes associated genes): 
+GPR information may be missing. Gene deletions cannot be used.
+
+-----------------------------------------------------------
+Production network for: pgp181
+Adding heterologus metabolites...
+Adding heterologus reactions and specifying fixed module reactions/genes...
+	Heterologus: EX_pgp181_c
+	Fixed module (includes associated genes): 
+GPR information may be missing. Gene deletions cannot be used.
+
+-----------------------------------------------------------
+Production network for: ppa
+Adding heterologus metabolites...
+Adding heterologus reactions and specifying fixed module reactions/genes...
+	Heterologus: EX_ppa_c
+	Fixed module (includes associated genes): 
+GPR information may be missing. Gene deletions cannot be used.
+
+-----------------------------------------------------------
+Production network for: ps120
+Adding heterologus metabolites...
+Adding heterologus reactions and specifying fixed module reactions/genes...
+	Heterologus: EX_ps120_c
+	Fixed module (includes associated genes): 
+GPR information may be missing. Gene deletions cannot be used.
+
+-----------------------------------------------------------
+Production network for: ps140
+Adding heterologus metabolites...
+Adding heterologus reactions and specifying fixed module reactions/genes...
+	Heterologus: EX_ps140_c
+	Fixed module (includes associated genes): 
+GPR information may be missing. Gene deletions cannot be used.
+
+-----------------------------------------------------------
+Production network for: ps141
+Adding heterologus metabolites...
+Adding heterologus reactions and specifying fixed module reactions/genes...
+	Heterologus: EX_ps141_c
+	Fixed module (includes associated genes): 
+GPR information may be missing. Gene deletions cannot be used.
+
+-----------------------------------------------------------
+Production network for: ps160
+Adding heterologus metabolites...
+Adding heterologus reactions and specifying fixed module reactions/genes...
+	Heterologus: EX_ps160_c
+	Fixed module (includes associated genes): 
+GPR information may be missing. Gene deletions cannot be used.
+
+-----------------------------------------------------------
+Production network for: ps161
+Adding heterologus metabolites...
+Adding heterologus reactions and specifying fixed module reactions/genes...
+	Heterologus: EX_ps161_c
+	Fixed module (includes associated genes): 
+GPR information may be missing. Gene deletions cannot be used.
+
+-----------------------------------------------------------
+Production network for: ps180
+Adding heterologus metabolites...
+Adding heterologus reactions and specifying fixed module reactions/genes...
+	Heterologus: EX_ps180_c
+	Fixed module (includes associated genes): 
+GPR information may be missing. Gene deletions cannot be used.
+
+-----------------------------------------------------------
+Production network for: ps181
+Adding heterologus metabolites...
+Adding heterologus reactions and specifying fixed module reactions/genes...
+	Heterologus: EX_ps181_c
+	Fixed module (includes associated genes): 
+GPR information may be missing. Gene deletions cannot be used.
+
+-----------------------------------------------------------
+Production network for: pyr
+Adding heterologus metabolites...
+Adding heterologus reactions and specifying fixed module reactions/genes...
+	Heterologus: EX_pyr_c
+	Fixed module (includes associated genes): 
+GPR information may be missing. Gene deletions cannot be used.
+
+-----------------------------------------------------------
+Production network for: quin
+Adding heterologus metabolites...
+Adding heterologus reactions and specifying fixed module reactions/genes...
+	Heterologus: EX_quin_c
+	Fixed module (includes associated genes): 
+GPR information may be missing. Gene deletions cannot be used.
+
+-----------------------------------------------------------
+Production network for: s7p
+Adding heterologus metabolites...
+Adding heterologus reactions and specifying fixed module reactions/genes...
+	Heterologus: EX_s7p_c
+	Fixed module (includes associated genes): 
+GPR information may be missing. Gene deletions cannot be used.
+
+-----------------------------------------------------------
+Production network for: sbt6p
+Adding heterologus metabolites...
+Adding heterologus reactions and specifying fixed module reactions/genes...
+	Heterologus: EX_sbt6p_c
+	Fixed module (includes associated genes): 
+GPR information may be missing. Gene deletions cannot be used.
+
+-----------------------------------------------------------
+Production network for: ser__L
+Adding heterologus metabolites...
+Adding heterologus reactions and specifying fixed module reactions/genes...
+	Heterologus: 
+	Fixed module (includes associated genes): EX_ser__L_e
+Updating bounds of module reaction: EX_ser__L_e...
+	lb: 0 --> 0
+	ub: 0 --> Inf
+
+-----------------------------------------------------------
+Production network for: succ
+Adding heterologus metabolites...
+Adding heterologus reactions and specifying fixed module reactions/genes...
+	Heterologus: 
+	Fixed module (includes associated genes): EX_succ_e
+
+-----------------------------------------------------------
+Production network for: sucsal
+Adding heterologus metabolites...
+Adding heterologus reactions and specifying fixed module reactions/genes...
+	Heterologus: EX_sucsal_c
+	Fixed module (includes associated genes): 
+GPR information may be missing. Gene deletions cannot be used.
+
+-----------------------------------------------------------
+Production network for: tre
+Adding heterologus metabolites...
+Adding heterologus reactions and specifying fixed module reactions/genes...
+	Heterologus: EX_tre_c
+	Fixed module (includes associated genes): 
+GPR information may be missing. Gene deletions cannot be used.
+
+-----------------------------------------------------------
+Production network for: ttdca
+Adding heterologus metabolites...
+Adding heterologus reactions and specifying fixed module reactions/genes...
+	Heterologus: EX_ttdca_c
+	Fixed module (includes associated genes): 
+GPR information may be missing. Gene deletions cannot be used.
+
+-----------------------------------------------------------
+Production network for: ttdcap
+Adding heterologus metabolites...
+Adding heterologus reactions and specifying fixed module reactions/genes...
+	Heterologus: EX_ttdcap_c
+	Fixed module (includes associated genes): 
+GPR information may be missing. Gene deletions cannot be used.
+
+-----------------------------------------------------------
+Production network for: ttdcea
+Adding heterologus metabolites...
+Adding heterologus reactions and specifying fixed module reactions/genes...
+	Heterologus: EX_ttdcea_c
+	Fixed module (includes associated genes): 
+GPR information may be missing. Gene deletions cannot be used.
+
+-----------------------------------------------------------
+Production network for: ttdceap
+Adding heterologus metabolites...
+Adding heterologus reactions and specifying fixed module reactions/genes...
+	Heterologus: EX_ttdceap_c
+	Fixed module (includes associated genes): 
+GPR information may be missing. Gene deletions cannot be used.
+
+-----------------------------------------------------------
+Production network for: val__L
+Adding heterologus metabolites...
+Adding heterologus reactions and specifying fixed module reactions/genes...
+	Heterologus: 
+	Fixed module (includes associated genes): EX_val__L_e
+Updating bounds of module reaction: EX_val__L_e...
+	lb: 0 --> 0
+	ub: 0 --> Inf
+
+-----------------------------------------------------------
+[Warning: product quin CANNOT be secreted above 0.00010, deleted from prodnet
+ Starting surfNet utility for pathway debugging
+] 
+[> In Prodnet/create_production_networks (line 79)
+  In Prodnet (line 180)
+  In create_prodnet (line 8)] 
+
+Met #1104  quin_c, Quinate, C7H12O6
+
+Consuming reactions:
+  #2654  <a href="matlab: surfNet([], 'QUINDHyi', 0, 'none', 0, 1, [], 0);">QUINDHyi</a>, Bd: 0 / Inf, Quinate dehydrogenase (NADP)
+<a href="matlab: surfNet([], 'nadp_c', 0, 'none', 0, 1, [], 0);">nadp_c</a> + <a href="matlab: surfNet([], 'quin_c', 0, 'none', 0, 1, [], 0);">quin_c</a> -> 2 <a href="matlab: surfNet([], 'h_c', 0, 'none', 0, 1, [], 0);">h_c</a> + <a href="matlab: surfNet([], '3dhq_c', 0, 'none', 0, 1, [], 0);">3dhq_c</a> + <a href="matlab: surfNet([], 'nadph_c', 0, 'none', 0, 1, [], 0);">nadph_c</a>  
+  #2709  <a href="matlab: surfNet([], 'QUINDH', 0, 'none', 0, 1, [], 0);">QUINDH</a>, Bd: 0 / Inf, Quinate dehydrogenase
+<a href="matlab: surfNet([], 'nad_c', 0, 'none', 0, 1, [], 0);">nad_c</a> + <a href="matlab: surfNet([], 'quin_c', 0, 'none', 0, 1, [], 0);">quin_c</a> -> 2 <a href="matlab: surfNet([], 'h_c', 0, 'none', 0, 1, [], 0);">h_c</a> + <a href="matlab: surfNet([], '3dhq_c', 0, 'none', 0, 1, [], 0);">3dhq_c</a> + <a href="matlab: surfNet([], 'nadh_c', 0, 'none', 0, 1, [], 0);">nadh_c</a>  
+  #2713  <a href="matlab: surfNet([], 'EX_quin_c', 0, 'none', 0, 1, [], 0);">EX_quin_c</a>, Bd: 0 / Inf, Artificial exchange quin_c
+<a href="matlab: surfNet([], 'quin_c', 0, 'none', 0, 1, [], 0);">quin_c</a> ->  
+Producing reactions:
+  #2540  <a href="matlab: surfNet([], 'QUIN2tpp', 0, 'none', 0, 1, [], 0);">QUIN2tpp</a>, Bd: -Inf / Inf, Quinate transport (periplasm)
+<a href="matlab: surfNet([], 'quin_p', 0, 'none', 0, 1, [], 0);">quin_p</a> <=> <a href="matlab: surfNet([], 'quin_c', 0, 'none', 0, 1, [], 0);">quin_c</a>  
+
+<a href="matlab: surfNet([], [], 0, 'none', 0, 1, [], 0, struct('showPrev', true));">Show previous steps...</a>
+
+-----------------------------------------------------------
+|   Finding candidate reactions and genes for deletion    |
+-----------------------------------------------------------
+Calculating blocked reactions in parent model
+Starting parallel pool (parpool) using the 'local' profile ...
+connected to 4 workers.
+Calculating blocked reactions in parent model for non-growth state
+Calculating essential reactions...
+[Warning: File:
+/home/sg/wrk/s/matlab/modcell2/src/support/cobra_modeling/cobra_toolbox_updates/singleRxnDeletion_parallel.m
+Line: 68 Column: 9
+The temporary variable solKO will be cleared at the beginning of each iteration
+of the parfor loop.
+Any value assigned to it before the loop will be lost.  If solKO is used before
+it is assigned in the parfor loop, a runtime error will occur.
+See Parallel for Loops in MATLAB, "Temporary Variables".] 
+[> In Prodnet/find_candidates>essential_rxn (line 486)
+  In Prodnet/find_candidates (line 52)
+  In Prodnet (line 181)
+  In create_prodnet (line 8)] 
+Warning: File: /home/sg/progs/cplex/cplex/matlab/x86-64_linux/@Cplex/Cplex.p Line: 965 Column: 0
+Defining "changedParam" in the nested function shares it with the parent function.  In a future release, to share "changedParam" between parent and nested functions, explicitly define it in the parent function.
+> In changeCobraSolver (line 423)
+Warning: File: /home/sg/progs/cplex/cplex/matlab/x86-64_linux/@Cplex/Cplex.p Line: 965 Column: 0
+Defining "changedParam" in the nested function shares it with the parent function.  In a future release, to share "changedParam" between parent and nested functions, explicitly define it in the parent function.
+> In changeCobraSolver (line 423)
+Warning: File: /home/sg/progs/cplex/cplex/matlab/x86-64_linux/@Cplex/Cplex.p Line: 965 Column: 0
+Defining "changedParam" in the nested function shares it with the parent function.  In a future release, to share "changedParam" between parent and nested functions, explicitly define it in the parent function.
+> In changeCobraSolver (line 423)
+Warning: File: /home/sg/progs/cplex/cplex/matlab/x86-64_linux/@Cplex/Cplex.p Line: 965 Column: 0
+Defining "changedParam" in the nested function shares it with the parent function.  In a future release, to share "changedParam" between parent and nested functions, explicitly define it in the parent function.
+> In changeCobraSolver (line 423)
+  In initCobraToolbox (line 388)
+  In changeCobraSolver (line 217)
+  In parallel_function>make_general_channel/channel_general (line 923)
+  In remoteParallelFunction (line 46)
+Warning: Your global git configuration could not be restored.
+> In initCobraToolbox (line 558)
+  In initCobraToolbox (line 388)
+  In changeCobraSolver (line 217)
+  In parallel_function>make_general_channel/channel_general (line 923)
+  In remoteParallelFunction (line 46)
+Warning: Your global git configuration could not be restored.
+> In initCobraToolbox (line 558)
+  In initCobraToolbox (line 388)
+  In changeCobraSolver (line 217)
+  In parallel_function>make_general_channel/channel_general (line 923)
+  In remoteParallelFunction (line 46)
+Warning: Your global git configuration could not be restored.
+> In initCobraToolbox (line 558)
+  In changeCobraSolver (line 217)
+  In parallel_function>make_general_channel/channel_general (line 923)
+  In remoteParallelFunction (line 46)
+  In initCobraToolbox (line 388)
+  In changeCobraSolver (line 217)
+  In parallel_function>make_general_channel/channel_general (line 923)
+  In remoteParallelFunction (line 46)
+  In changeCobraSolver (line 217)
+  In parallel_function>make_general_channel/channel_general (line 923)
+  In remoteParallelFunction (line 46)
+  In changeCobraSolver (line 217)
+  In parallel_function>make_general_channel/channel_general (line 923)
+  In remoteParallelFunction (line 46)
+Calculating fully correlated reaction sets...
+[Warning: File:
+/home/sg/wrk/s/matlab/modcell2/src/support/cobra_modeling/cobra_toolbox_updates/singleGeneDeletion_parallel.m
+Line: 138 Column: 17
+The temporary variable solKO will be cleared at the beginning of each iteration
+of the parfor loop.
+Any value assigned to it before the loop will be lost.  If solKO is used before
+it is assigned in the parfor loop, a runtime error will occur.
+See Parallel for Loops in MATLAB, "Temporary Variables".] 
+[> In Prodnet/find_candidates (line 107)
+  In Prodnet (line 181)
+  In create_prodnet (line 8)] 
+
+-----------------------------------------------------------
+|                          Done                           |
+-----------------------------------------------------------
+File saved at: /home/sg/wrk/s/matlab/modcell-hpc-study/cases/native-galactose-matlab/prodnet.mat

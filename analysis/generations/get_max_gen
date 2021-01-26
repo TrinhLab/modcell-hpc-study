@@ -1,0 +1,21 @@
+#!/bin/sh
+
+in_log="/home/sg/wrk/s/matlab/modcell-hpc-study/runs/native/logs/0.pbs.o2218780"
+#in_log="/home/sg/wrk/s/matlab/modcell-hpc-study/runs/native/logs/1.pbs.o2218781"
+#in_log="/home/sg/wrk/s/matlab/modcell-hpc-study/runs/native-aerobic/logs/0.pbs.o2224022"
+hours=10
+PEs=47
+
+out_file="native_0_gen"
+
+printf '' > "$out_file"
+for i in $(seq  0 $PEs); do
+cat  "$in_log" | sed -n "s|PE: $i\t Generation:\(.*\)\t.*|\1|p" | awk -v h=$hours 'BEGIN{a=0}{if ($1>0+a) a=$1} END{print a/h}' >> "$out_file"
+done
+
+# Average and stdev
+printf "Average and stdv for %d hours and problem %s \n" "$hours" "$in_log"
+awk '{for(i=1;i<=NF;i++) {sum[i] += $i; sumsq[i] += ($i)^2}}
+      END {for (i=1;i<=NF;i++) {
+      printf "%.1f %.1f \n", sum[i]/NR, sqrt((sumsq[i]-sum[i]^2/NR)/NR)}
+     }' "$out_file" #>> aver-std.dat
